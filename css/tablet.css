@@ -3277,12 +3277,12 @@ a {
   line-height         : 27.6px;
 }
 @media screen and (max-width: 767px) {
-  .tablet {
-    display             : none ;
-  }
-  .desktop {
-    display             : none ;
-  }
+  .Rectangle {
+  width: 360px;
+  height: 62px;
+  box-shadow: 0 1px 1px 0 #818181;
+  background-color: #ffffff;
+}
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
   .mobile {
