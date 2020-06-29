@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - englisharticle */
+/* ANIMA screen - englishtablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -149,96 +149,14 @@ a {
   --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.englisharticle .overlap-group-Y7zamN {
+.englishtablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 513px;
-  margin-right        : 1.0px;
-  margin-top          : 41px;
+  height              : 367px;
   position            : relative;
-  width               : 967px;
+  width               : 770px;
 }
-.englisharticle .line-copy-5-4RoLgK {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 167px;
-  position            : absolute;
-  top                 : 350px;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.englisharticle .wildlife-in-the-cent-nGYiKH {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-top          : 22px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 632px;
-}
-.englisharticle .realising-the-seriou-zPvVx4 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 405px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-.englisharticle .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-article-mask.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 513px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  padding             : 0 2.0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 967px;
-}
-.englisharticle .western-lowland-gorila-gorilla-gorilla-HhMR8B {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 641px;
-  margin-top          : -65.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 962px;
-}
-.englisharticle .in-2014-the-chinko-rnxNgC {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 304px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-.englisharticle {
+.englishtablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-4);
   box-sizing          : border-box;
@@ -246,53 +164,188 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 1936px;
+  min-height          : 1108px;
   overflow            : hidden;
   position            : relative;
-  width               : 1440.0px;
+  width               : 768.0px;
 }
-.englisharticle .group-xWfRCW {
+.englishtablet .header-xPpEh7 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-article-rectangle.png");
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
   background-size     : 100% 100%;
   box-sizing          : border-box;
   cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 124px;
+  height              : 96px;
   justify-content     : flex-start;
-  margin-top          : -3px;
-  padding             : 34.0px 490.0px;
+  left                : 0px;
+  padding             : 26.0px 188.0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.englishtablet .wikipedia-preview-de-fdhE5J {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 42px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 394px;
+}
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 1px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 94px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.englishtablet .mask-biZW9V {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-AIOhYs {
+  background-color    : rgba(255,255,255,0);
+  height              : 536px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -131px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.englishtablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 30px;
+  justify-content     : flex-start;
+  margin-right        : 189.0px;
+  margin-top          : 20px;
+  min-width           : 333px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.englisharticle .wikipedia-preview-de-1PLwYB {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 30.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 54px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 468px;
-}
-.englisharticle .wildlife-of-the-cent-POOjaJ {
+.englishtablet .wildlife-of-the-cent-gSyr4d {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 40.0px;
+  font-size           : 21.0px;
   height              : auto;
-  line-height         : 43.7px;
-  margin-top          : 35px;
-  min-height          : 93px;
+  line-height         : 27.6px;
+  min-height          : 30px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 632px;
+  width               : 335px;
+}
+.englishtablet .wildlife-in-the-cent-copy-2-q5dzx6 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 7px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.englishtablet .realising-the-seriou-copy-2-kSkBeX {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 48.0px;
+  margin-top          : 15px;
+  min-height          : 240px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.englishtablet .in-2014-the-chinko-copy-2-6QGZsw {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 48.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.englishtablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 660px;
+  position            : absolute;
+  top                 : 104px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.englishtablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.englishtablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.englishtablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 18px;
 }

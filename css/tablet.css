@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - mobile */
+/* ANIMA screen - desktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -120,40 +120,44 @@ a {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-3 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-5 {
   color               : var(--auto-palette-color-1);
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 16.0px;
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
 .font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --auto-palette-color-1: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-2: rgba(215,215,215,1.0);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(51,51,51,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.mobile .overlap-group-Y7zamN {
+.desktop .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 64px;
+  height              : 124px;
+  margin-top          : -3px;
   position            : relative;
-  width               : 362px;
+  width               : 1448px;
 }
-.mobile .auto-flex3-UyO79H {
+.desktop .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -163,9 +167,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .auto-flex5-NyFzAD {
+.desktop .auto-flex5-GtcQsT {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -175,9 +179,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 387px;
 }
-.mobile .auto-flex4-n3q5lb {
+.desktop .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -187,9 +191,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .auto-flex1-CG2eCk {
+.desktop .auto-flex-jta0tg {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -199,9 +203,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 410px;
 }
-.mobile .auto-flex-jta0tg {
+.desktop .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -211,9 +215,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 411px;
 }
-.mobile .auto-flex2-44zkdR {
+.desktop .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -223,502 +227,217 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 410px;
 }
-.mobile .span6-18ss8g {
+.desktop .wikipedia-preview-de-tWk9ql {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 490px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 468px;
+}
+.desktop .span37-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span38-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span7-18ss8g {
+.desktop .span39-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span8-18ss8g {
+.desktop .span40-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span9-18ss8g {
+.desktop .span41-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span10-18ss8g {
+.desktop .span42-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span11-18ss8g {
+.desktop .span43-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span12-18ss8g {
+.desktop .span44-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span13-18ss8g {
+.desktop .span45-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span14-18ss8g {
+.desktop .span46-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span15-18ss8g {
+.desktop .span47-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span16-18ss8g {
+.desktop .span48-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span17-18ss8g {
+.desktop .span49-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span18-18ss8g {
+.desktop .span50-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span19-18ss8g {
+.desktop .span51-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span20-18ss8g {
+.desktop .span52-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span21-18ss8g {
+.desktop .span53-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span22-18ss8g {
+.desktop .span54-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span23-18ss8g {
+.desktop .span55-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span24-18ss8g {
+.desktop .span56-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span25-18ss8g {
+.desktop .span57-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span26-18ss8g {
+.desktop .span58-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .span27-18ss8g {
+.desktop .span59-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.mobile .line-copy-5-18i8FR {
+.desktop .span60-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span61-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span62-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span63-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span64-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span65-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-BbMvx1 {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 79px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-KqcgaY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  margin-left         : -104px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.desktop .line-copy-10-b6oKwJ {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 2px;
-  margin-top          : 16px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 328px;
+  width               : 655px;
 }
-.mobile .line-copy-6-91jlDU {
+.desktop .line-copy-9-ROHgnd {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
+  height              : 2px;
+  margin-left         : 22.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 327px;
+  width               : 654px;
 }
-.mobile .line-copy-8-6JUJQK {
+.desktop .line-copy-7-oa5W5x {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 3px;
-  margin-right        : 1.0px;
-  margin-top          : 14px;
+  height              : 2px;
+  margin-left         : 22.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 327px;
+  width               : 654px;
 }
-.mobile .line-copy-9-ROHgnd {
+.desktop .line-copy-6-91jlDU {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 3px;
-  margin-right        : 1.0px;
-  margin-top          : 14px;
+  height              : 2px;
+  margin-left         : 22.0px;
+  margin-top          : 26px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 327px;
+  width               : 654px;
 }
-.mobile .group-4-Tu8Qgm {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 134px;
-  justify-content     : flex-start;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .conseil-de-s-351curit-351-cnPj8S {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 53px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .language-267-french-copy-zjvIfX {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 122px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .le-conseil-de-s-351curi-3ueV0P {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 25.6px;
-  margin-top          : 12px;
-  min-height          : 50px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -8px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 96px;
-}
-.mobile .rectangle-p6bHfG {
-  background-color    : rgba(255,255,255,0);
-  height              : 64px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 362px;
-}
-.mobile .wikipedia-preview-de-tWk9ql {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 47px;
-  line-height         : 21.0px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 21px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 329px;
-}
-.mobile .span1-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span2-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span3-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span4-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span5-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span6-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span7-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span8-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span9-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span10-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span11-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span12-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span13-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span14-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span15-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : auto;
-  margin-top          : 12px;
-  min-height          : 50px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 210px;
-}
-.mobile .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span4-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span5-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .wildlife-in-the-cent-03jDLA {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .language-267-english-copy-4-JSZ77u {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 107px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .group-3-iFKazk {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 93px;
-  justify-content     : flex-start;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .nikola-tesla-t0Y353 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 112px;
-}
-.mobile .nikola-tesla-fue-un-K6xHG8 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .language-267-spanish-YZuxPY {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 108px;
-}
-.mobile .wildlife-of-the-cent-tglvvZ {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 43px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .group-6-gOTYvh {
+.desktop .group-copy-V5KGfj {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -726,285 +445,730 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 114px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-top          : 23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  margin              : 0px;
-  min-height          : 894px;
-  min-width           : 360.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.mobile .a535px-tesla-sarony-nXSrlL {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-left         : -10px;
-  margin-top          : -25.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 91px;
-}
-.mobile .afrika-4uC00w {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 58px;
-}
-.mobile .group-2-Aspe6u {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 93px;
-  justify-content     : flex-start;
+  margin-left         : 20.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .language-267-swahili-m1txXj {
+.desktop .u732b-DuJEpM {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
-  font-size           : 11.0px;
+  font-size           : 24.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 106px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .afrika-ni-bara-la-pi-GxxOgi {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-kobli1-ZD2Mv9 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 108px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .u732b-uNkwlt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
+  line-height         : 27.6px;
+  min-height          : 28px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 30px;
 }
-.mobile .group-xWfRCW {
-  align-items         : flex-start;
+.desktop .language-267-chinese-C6QVBq {
   background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  height              : 93px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .language-267-hindi-urZFhx {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
+  font-size           : 13.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 99px;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : auto;
+  width               : 113px;
 }
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
+.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
   background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -43px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 157px;
-}
-.mobile .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
-  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 16.0px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .span2-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 22.4px;
-}
-.mobile .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
-  min-height          : 43px;
+  margin-top          : 10px;
+  min-height          : 112px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 387px;
 }
-.mobile .group-5-hx9j3X {
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
   align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 106px;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 102px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a594px-cat-poster-2-Gm3DUk {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 183px;
+  margin-top          : -4.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 223px;
+}
+.desktop .span10-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span11-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span12-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span13-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span14-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span15-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .language-267-hindi-urZFhx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 78px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 388px;
+}
+.desktop .span1-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span2-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span3-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span4-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span5-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span6-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span7-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span8-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span9-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span10-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span11-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span12-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span13-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span14-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span15-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span16-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span17-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span18-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span19-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span20-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span21-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span22-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span23-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span24-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span25-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span26-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span27-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span28-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span29-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span30-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span31-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span32-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span33-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span34-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span35-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span36-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .group-6-gOTYvh {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
   justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .wildlife-of-the-cent-tglvvZ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-english-dTPrM4 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .wildlife-in-the-cent-03jDLA {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 11px;
+  min-height          : 90px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-xTrxxP {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
+  justify-content     : flex-start;
+  margin-left         : 79px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-3dOwce {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 180px;
+  margin-left         : -46px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 258px;
+}
+.desktop .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 177px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .span1-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span5-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span4-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .language-267-chinese-Cgya9I {
+.desktop .nikola-tesla-t0Y353 {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 11.0px;
+  font-size           : 24.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
+  line-height         : 27.6px;
+  min-height          : 33px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : auto;
+  width               : 165px;
 }
-.mobile .a594px-cat-poster-2-7A1UBC {
+.desktop .language-267-spanish-YZuxPY {
   background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -9px;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .nikola-tesla-en-cir-wZ5kG9 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 112px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 176px;
+  justify-content     : flex-start;
+  margin-left         : 81px;
+  overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 89px;
+  width               : 165px;
 }
-.mobile .span3-88vL6Z {
-  letter-spacing      : 0.00px;
+.desktop .a535px-tesla-sarony-nXSrlL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 257px;
+  margin-left         : -11px;
+  margin-top          : -41.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 186px;
+}
+.desktop .group-2-Aspe6u {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .afrika-4uC00w {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 92px;
+}
+.desktop .language-267-english-copy-2-MI1PNx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .afrika-ni-bara-la-pi-GxxOgi {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
   line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 90px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 81px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-kobli1-ZD2Mv9 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 259px;
+}
+.desktop .group-4-Tu8Qgm {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .conseil-de-s-351curit-351-cnPj8S {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  margin-left         : 1.0px;
+  min-height          : 56px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-french-yJiaiF {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .le-conseil-de-s-351curi-3ueV0P {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-left         : 1.0px;
+  margin-top          : 13px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-xl80nf {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 78px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xflUv3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 229px;
+}
+.desktop .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .span1-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span2-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span3-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span4-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span5-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span6-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span7-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span8-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span9-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .rectangle-p6bHfG {
+  background-color    : rgba(255,255,255,0);
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1448px;
+}
+.desktop .line-copy-5-18i8FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 20.0px;
+  margin-top          : 21px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 654px;
+}
+.desktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1466px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -1118,7 +1282,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - desktop */
+/* ANIMA screen - tablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -1126,33 +1290,36 @@ a {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-3 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-5 {
   color               : var(--auto-palette-color-1);
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 16.0px;
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
 .font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --auto-palette-color-1: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-2: rgba(215,215,215,1.0);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(51,51,51,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.desktop .auto-flex1-uYr8Ju {
+.tablet .auto-flex-4RHks2 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1162,9 +1329,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 374px;
 }
-.desktop .auto-flex-cxfE6m {
+.tablet .auto-flex1-xWlRvG {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1174,9 +1341,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 373px;
 }
-.desktop .auto-flex2-KEKZMZ {
+.tablet .auto-flex2-3LESXx {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1186,9 +1353,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 411px;
+  width               : 374px;
 }
-.desktop .auto-flex4-4xKK8E {
+.tablet .auto-flex4-aljjS1 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1198,9 +1365,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 387px;
+  width               : 371px;
 }
-.desktop .auto-flex3-zxfaF0 {
+.tablet .auto-flex3-fx0QnL {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1210,17 +1377,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 410px;
+  width               : 372px;
 }
-.desktop .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 866px;
-  margin-top          : 21px;
-  position            : relative;
-  width               : 634px;
-}
-.desktop .auto-flex-4RHks2 {
+.tablet .auto-flex5-xYhCyw {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1230,625 +1389,212 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 410px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
+.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
   justify-content     : center;
-  margin-left         : 82px;
+  margin-left         : 26px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .a594px-cat-poster-2-5Vf5Gb {
+.tablet .a594px-cat-poster-2-5Vf5Gb {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 183px;
+  height              : 124px;
   margin-top          : -4.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 223px;
+  width               : 151px;
 }
-.desktop .line-C1qqXM {
+.tablet .header-6IR25F {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .line-copy-10-ITRuOW {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-top          : 213px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .line-copy-9-uPU54Q {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-top          : 215px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .line-copy-7-NK02sn {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-top          : 213px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .line-copy-6-P9axho {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-top          : 215px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .line-copy-5-nClgi5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 634px;
-}
-.desktop .header-6IR25F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/desktop-rectangle.png");
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
   background-size     : 100% 100%;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 118px;
-  justify-content     : flex-end;
-  min-width           : 1442px;
-  padding             : 26.0px 488.0px;
+  height              : 96px;
+  justify-content     : flex-start;
+  padding             : 26.0px 188.0px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .wikipedia-preview-de-BxMxtl {
+.tablet .wikipedia-preview-de-BxMxtl {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   flex-shrink         : 0;
-  font-size           : 30.0px;
+  font-size           : 25.0px;
   height              : auto;
   line-height         : 52.8px;
-  min-height          : 53px;
+  min-height          : 42px;
   position            : relative;
   text-align          : center;
   transform           : rotate(0deg);
-  width               : 465px;
+  width               : 394px;
 }
-.desktop .span29-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+.tablet .line-copy-14-OCuCGB {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 18.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
 }
-.desktop .span30-TaqWuE {
+.tablet .line-copy-11-HtZ2x5 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 18.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-8-6JUJQK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 18.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-12-bxBGxt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 18.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-13-JHArHo {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 18.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .span38-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span31-TaqWuE {
+.tablet .span39-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span32-TaqWuE {
+.tablet .span40-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span33-TaqWuE {
+.tablet .span41-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span34-TaqWuE {
+.tablet .span42-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span35-TaqWuE {
+.tablet .span43-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span36-TaqWuE {
+.tablet .span44-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span37-TaqWuE {
+.tablet .span45-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span38-TaqWuE {
+.tablet .span46-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span39-TaqWuE {
+.tablet .span47-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span40-TaqWuE {
+.tablet .span48-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span41-TaqWuE {
+.tablet .span49-xtSa7p {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span42-TaqWuE {
+.tablet .span50-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span43-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span44-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span45-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span46-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span47-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span48-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span49-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span50-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span51-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span52-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span53-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span54-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span55-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span56-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span57-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span58-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span59-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span60-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span61-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span62-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span63-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span64-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span65-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-geuiAb {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-left         : 59px;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-4kghXN {
+.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : -105px;
+  height              : 123px;
+  margin-bottom       : -3.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 374px;
+  width               : 263px;
 }
-.desktop .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-right        : 2.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .u732b-SdF83i {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 30px;
-}
-.desktop .language-267-chinese-xRy8sM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-5YrQv4 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 112px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 387px;
-}
-.desktop .hindi-w9TU8e {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 175px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 16px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-t6327v {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 410px;
-}
-.desktop .span1-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span2-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span3-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span4-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span5-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span6-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span7-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span8-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span9-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span10-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span11-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span12-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span13-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span14-t6327v {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span15-t6327v {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .language-267-hindi-8bQANn {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-TaqWuE {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : auto;
-  margin-top          : 12px;
-  min-height          : 78px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 388px;
-}
-.desktop .span1-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span2-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span3-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span4-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span5-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span6-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span7-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span8-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span9-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span10-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span11-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span12-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span13-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span14-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span15-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span16-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span17-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span18-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span19-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span20-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span21-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span22-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span23-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span24-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span25-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span26-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span27-TaqWuE {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span28-TaqWuE {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1466px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.desktop .english-GlKqzs {
+.tablet .french-aZT9q3 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1856,30 +1602,31 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-right        : 2.0px;
-  margin-top          : 26px;
+  margin-left         : 15.0px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .wildlife-of-the-cent-uprjy7 {
+.tablet .conseil-de-s-351curit-351-xQ0kVC {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 58px;
+  margin-bottom       : -2px;
+  min-height          : 26px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 410px;
+  width               : 374px;
 }
-.desktop .language-267-english-8ddxMm {
+.tablet .language-267-french-Clf84w {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 13.0px;
   height              : auto;
@@ -1891,65 +1638,66 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .wildlife-in-the-cent-kvZZul {
+.tablet .le-conseil-de-s-351curi-sjW4ll {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 11px;
-  min-height          : 90px;
+  margin-top          : 10px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
-  justify-content     : flex-start;
-  margin-left         : 59px;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
+.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 180px;
-  margin-left         : -47px;
+  height              : 120px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 258px;
+  width               : 157px;
 }
-.desktop .spanish-TXZ3IY {
+.tablet .spanish-WFnFvQ {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
+  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 177px;
+  flex-shrink         : 0;
+  height              : 120px;
   justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 448px;
+  margin-left         : 16.0px;
+  margin-top          : 14px;
+  position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .nikola-tesla-DbkNvQ {
+.tablet .nikola-tesla-RMUsLm {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
   min-height          : 33px;
@@ -1958,9 +1706,9 @@ a {
   transform           : rotate(0deg);
   width               : 165px;
 }
-.desktop .language-267-spanish-Z5Xhzi {
+.tablet .language-267-spanish-O3rCHM {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 13.0px;
   height              : auto;
@@ -1972,62 +1720,63 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .nikola-tesla-en-cir-wlu4Vy {
+.tablet .nikola-tesla-en-cir-lNMHMC {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 112px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-TMSZnf {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 176px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 61px;
+  margin-left         : 25px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .a535px-tesla-sarony-5wENzL {
+.tablet .a535px-tesla-sarony-QYu6jR {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 257px;
-  margin-left         : -11px;
-  margin-top          : -40.0px;
+  height              : 195px;
+  margin-top          : -37.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 186px;
+  width               : 141px;
 }
-.desktop .swahili-PqxlJG {
+.tablet .swahili-QHGid8 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
+  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 175px;
+  flex-shrink         : 0;
+  height              : 120px;
   justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 665px;
+  margin-left         : 17.0px;
+  margin-top          : 14px;
+  position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .afrika-pRCsTW {
+.tablet .afrika-hqxtPd {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -2040,9 +1789,9 @@ a {
   transform           : rotate(0deg);
   width               : 92px;
 }
-.desktop .language-267-swahili-cV4iKF {
+.tablet .language-267-swahili-HjYhnn {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 13.0px;
   height              : auto;
@@ -2052,78 +1801,79 @@ a {
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : 109px;
 }
-.desktop .afrika-ni-bara-la-pi-w5NWgE {
+.tablet .afrika-ni-bara-la-pi-3xVBI0 {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 90px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 371px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-MPk7js {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 61px;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 25px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .a640px-kobli1-exchpt {
+.tablet .a640px-kobli1-dGAOB6 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
+  margin-left         : -23px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 259px;
+  width               : 178px;
 }
-.desktop .french-orXuXg {
+.tablet .chinese-LPUsSV {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
+  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 175px;
+  flex-shrink         : 0;
+  height              : 120px;
   justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 233px;
+  margin-left         : 17.0px;
+  margin-top          : 14px;
+  position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .conseil-de-s-351curit-351-N4SWKD {
+.tablet .u732b-axv2FR {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 24.0px;
   height              : auto;
   line-height         : 27.6px;
-  margin-left         : 1.0px;
-  min-height          : 56px;
+  min-height          : 28px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 410px;
+  width               : 30px;
 }
-.desktop .language-267-french-oMWOEo {
+.tablet .language-267-chinese-hPMSIN {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 13.0px;
   height              : auto;
@@ -2135,45 +1885,396 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .le-conseil-de-s-351curi-6F5tGi {
+.tablet .span11-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span12-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span13-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span14-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span15-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .language-267-hindi-XhFRiV {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 10px;
+  min-height          : 52px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.tablet .span1-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span2-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span3-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span4-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span5-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span6-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span7-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span8-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span9-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span10-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span11-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span12-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span13-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span14-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span15-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span16-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span17-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span18-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span19-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span20-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span21-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span22-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span23-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span24-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span25-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span26-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span27-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span28-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span29-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span30-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span31-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span32-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span33-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span34-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span35-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span36-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span37-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1088px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 768.0px;
+}
+.tablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 134px;
+  justify-content     : flex-start;
+  margin-left         : 15.0px;
+  margin-top          : 28px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .wildlife-of-the-cent-uprjy7 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .language-267-english-8ddxMm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 5px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .wildlife-in-the-cent-kvZZul {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-left         : 1.0px;
-  margin-top          : 13px;
+  margin-top          : 10px;
   min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 374px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-NJoJZh {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
+  background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 58px;
+  height              : 121px;
+  margin-left         : 22px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 163px;
+  width               : 141px;
 }
-.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-iO9tEk {
+.tablet .mask-us8llM {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  height              : 120px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
   background-color    : rgba(255,255,255,0);
+  height              : 120px;
+  left                : -16px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 172px;
+}
+.tablet .hindi-JPlgx7 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 16.0px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 229px;
+  width               : auto;
+}
+.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.tablet .span1-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span2-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span3-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span4-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span5-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span6-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span7-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span8-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span9-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span10-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -2196,6 +2297,12 @@ a {
   to {
     opacity             : 1;
   }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -2281,7 +2388,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - tablet */
+/* ANIMA screen - mobile */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -2289,42 +2396,36 @@ a {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-3 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-5 {
   color               : var(--auto-palette-color-1);
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 16.0px;
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
 .font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --auto-palette-color-1: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-2: rgba(215,215,215,1.0);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(51,51,51,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.tablet .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 643px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  width               : 540px;
-}
-.tablet .auto-flex-4RHks2 {
+.mobile .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2334,9 +2435,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 374px;
+  width               : 244px;
 }
-.tablet .auto-flex1-uzmT5D {
+.mobile .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2346,9 +2447,16 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 374px;
+  width               : 244px;
 }
-.tablet .auto-flex-vcycnx {
+.mobile .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 64px;
+  position            : relative;
+  width               : 362px;
+}
+.mobile .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2358,9 +2466,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 373px;
+  width               : 244px;
 }
-.tablet .auto-flex2-LN7zM2 {
+.mobile .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2370,9 +2478,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 372px;
+  width               : 244px;
 }
-.tablet .auto-flex4-4xKK8E {
+.mobile .auto-flex5-NyFzAD {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2382,899 +2490,811 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 372px;
+  width               : 244px;
 }
-.tablet .auto-flex3-amA52F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 371px;
+.mobile .span16-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-xYA0lM {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
+.mobile .span17-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
+.mobile .span18-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 151px;
+.mobile .span19-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .header-6IR25F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-end;
-  min-width           : 770px;
-  padding             : 21.0px 164.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
+.mobile .span20-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .wikipedia-preview-de-BxMxtl {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 53px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 393px;
+.mobile .span21-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .line-C1qqXM {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  padding             : 1.0px 0;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 540px;
+.mobile .span22-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.tablet .line-copy-14-9spEQJ {
+.mobile .span23-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span24-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span25-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span26-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span27-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .line-copy-5-18i8FR {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 540px;
+  width               : 329px;
 }
-.tablet .line-copy-11-nfQ0Wq {
+.mobile .line-copy-6-91jlDU {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 159px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-8-xFIMQc {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 159px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-12-29U7xU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 159px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-13-thYqRA {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 159px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .span35-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span36-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span37-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span38-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span39-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span40-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span41-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span42-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span43-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span44-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span45-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span46-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span47-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span48-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span49-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span50-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-geuiAb {
-  align-items         : flex-end;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-4kghXN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-bottom       : -3.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 263px;
-}
-.tablet .french-orXuXg {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 120px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 176px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .conseil-de-s-351curit-351-CbSV7a {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-bottom       : -2px;
-  min-height          : 26px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .language-267-french-F7hR7F {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .le-conseil-de-s-351curi-FvElzS {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-NJoJZh {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-iO9tEk {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 157px;
-}
-.tablet .spanish-TXZ3IY {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 120px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 336px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .nikola-tesla-cKWQb0 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 33px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 165px;
-}
-.tablet .language-267-spanish-AKRXeK {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .nikola-tesla-en-cir-qGaDsx {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-TMSZnf {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a535px-tesla-sarony-5wENzL {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 195px;
-  margin-top          : -37.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .swahili-PqxlJG {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 120px;
-  justify-content     : flex-start;
-  left                : 1px;
-  position            : absolute;
-  top                 : 496px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .afrika-gVSRy9 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 32px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 92px;
-}
-.tablet .language-267-swahili-wTp4Rs {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 109px;
-}
-.tablet .afrika-ni-bara-la-pi-zGOL1f {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 371px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-MPk7js {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-kobli1-exchpt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  margin-left         : -23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 178px;
-}
-.tablet .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
+  height              : 2px;
+  margin-left         : 1.0px;
   margin-top          : 13px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : auto;
+  width               : 329px;
 }
-.tablet .u732b-SdF83i {
+.mobile .line-copy-8-6JUJQK {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
+  height              : 3px;
+  margin-right        : 1.0px;
+  margin-top          : 15px;
   position            : relative;
-  text-align          : left;
   transform           : rotate(0deg);
-  width               : 30px;
+  width               : 327px;
 }
-.tablet .language-267-chinese-xRy8sM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .span8-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span9-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span10-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span11-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span12-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span13-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span14-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span15-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .language-267-hindi-8rZfg3 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-exR6En {
+.mobile .line-copy-9-ROHgnd {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : auto;
-  margin-top          : 10px;
-  min-height          : 52px;
-  opacity             : 0.9;
+  height              : 3px;
+  margin-right        : 1.0px;
+  margin-top          : 14px;
   position            : relative;
-  text-align          : left;
   transform           : rotate(0deg);
-  width               : 373px;
+  width               : 327px;
 }
-.tablet .span1-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span2-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span3-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span4-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span5-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span6-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span7-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span8-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span9-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span10-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span11-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span12-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span13-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span14-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span15-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span16-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span17-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span18-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span19-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span20-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span21-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span22-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span23-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span24-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span25-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span26-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span27-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span28-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span29-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span30-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span31-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span32-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span33-exR6En {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span34-exR6En {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1102px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.tablet .english-GlKqzs {
+.mobile .group-4-Tu8Qgm {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
+  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
   height              : 134px;
   justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 28px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.tablet .wildlife-of-the-cent-uprjy7 {
+.mobile .conseil-de-s-351curit-351-cnPj8S {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 21.0px;
+  font-size           : 16.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 58px;
+  min-height          : 53px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 374px;
+  width               : 244px;
 }
-.tablet .language-267-english-8ddxMm {
+.mobile .language-267-french-copy-zjvIfX {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 5px;
-  min-height          : 15px;
+  line-height         : 12.0px;
+  margin-top          : 6px;
+  min-height          : 12px;
+  min-width           : 105px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : auto;
 }
-.tablet .wildlife-in-the-cent-kvZZul {
+.mobile .le-conseil-de-s-351curi-3ueV0P {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 25.6px;
+  margin-top          : 13px;
+  min-height          : 50px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -8px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 96px;
+}
+.mobile .rectangle-p6bHfG {
+  background-color    : rgba(255,255,255,0);
+  height              : 64px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 362px;
+}
+.mobile .wikipedia-preview-de-tWk9ql {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 45px;
+  line-height         : 21.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 21px;
+  transform           : rotate(0deg);
+  width               : 272px;
+}
+.mobile .line-copy-7-oa5W5x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2px;
+  margin-left         : 1.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 329px;
+}
+.mobile .language-267-chinese-Cgya9I {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 109px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 43px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .span1-88vL6Z {
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.mobile .span2-88vL6Z {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.mobile .span3-88vL6Z {
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.mobile .span4-88vL6Z {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.mobile .span5-88vL6Z {
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.mobile .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 106px;
+  justify-content     : flex-start;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .language-267-hindi-urZFhx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 99px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -43px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 157px;
+}
+.mobile .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .span1-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span2-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span3-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span4-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span5-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span6-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span7-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span8-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span9-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span10-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span11-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span12-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span13-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span14-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span15-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 50px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .span4-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span5-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span6-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span7-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span8-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span9-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span10-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span11-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span12-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span13-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span14-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span15-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  margin              : 0px;
+  min-height          : 894px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.mobile .group-6-gOTYvh {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 116px;
+  justify-content     : flex-start;
+  margin-top          : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .wildlife-of-the-cent-tglvvZ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 43px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : center;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 108px;
+}
+.mobile .wildlife-in-the-cent-03jDLA {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 10px;
+  margin-top          : 12px;
   min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 374px;
+  width               : 244px;
 }
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
+.mobile .language-267-english-copy-4-JSZ77u {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  height              : 121px;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .mask-us8llM {
-  background-color    : var(--auto-palette-color-2);
-  border-radius       : 3.0px;
-  height              : 120px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
-  background-color    : rgba(255,255,255,0);
-  height              : 120px;
-  left                : -16px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 172px;
-}
-.tablet .hindi-w9TU8e {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 120px;
-  justify-content     : flex-start;
-  left                : 1px;
-  position            : absolute;
-  top                 : 16px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-7cYeN2 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
+  font-size           : 11.0px;
   height              : auto;
-  line-height         : 21.0px;
-  min-height          : 35px;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 107px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 373px;
+  width               : auto;
 }
-.tablet .span1-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 93px;
+  justify-content     : flex-start;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
 }
-.tablet .span2-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .nikola-tesla-t0Y353 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 112px;
 }
-.tablet .span3-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .nikola-tesla-fue-un-K6xHG8 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 12px;
+  min-height          : 43px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
 }
-.tablet .span4-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .language-267-spanish-YZuxPY {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 109px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
 }
-.tablet .span5-7cYeN2 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
 }
-.tablet .span6-7cYeN2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.mobile .a535px-tesla-sarony-nXSrlL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 123px;
+  margin-left         : -10px;
+  margin-top          : -25.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 91px;
 }
-.tablet .span7-7cYeN2 {
+.mobile .group-2-Aspe6u {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 93px;
+  justify-content     : flex-start;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .afrika-4uC00w {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 58px;
+}
+.mobile .afrika-ni-bara-la-pi-GxxOgi {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 12px;
+  min-height          : 43px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .language-267-swahili-m1txXj {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 106px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : center;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a640px-kobli1-ZD2Mv9 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 108px;
+}
+.mobile .group-xWfRCW {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 93px;
+  justify-content     : flex-start;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .u732b-uNkwlt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 19px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a594px-cat-poster-2-7A1UBC {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -9px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 89px;
+}
+.mobile .auto-flex-jta0tg {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.mobile .span1-18ss8g {
   letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+  line-height         : 25.6px;
+}
+.mobile .span2-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span3-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 @media screen and (max-width: 767px) {
   .tablet {

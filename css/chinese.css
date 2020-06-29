@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - englisharticle */
+/* ANIMA screen - chinese */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -149,96 +149,77 @@ a {
   --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.englisharticle .overlap-group-Y7zamN {
+.chinese .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 513px;
+  height              : 505px;
   margin-right        : 1.0px;
-  margin-top          : 41px;
+  margin-top          : 44px;
   position            : relative;
-  width               : 967px;
+  width               : 959px;
 }
-.englisharticle .line-copy-5-4RoLgK {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 167px;
-  position            : absolute;
-  top                 : 350px;
-  transform           : rotate(0deg);
-  width               : 655px;
+.chinese .span8-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
-.englisharticle .wildlife-in-the-cent-nGYiKH {
+.chinese .span9-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 33.8px;
+  line-height         : 31.5px;
   margin-top          : 22px;
-  min-height          : 336px;
+  min-height          : 315px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 632px;
 }
-.englisharticle .realising-the-seriou-zPvVx4 {
+.chinese .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
+  align-items         : flex-end;
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 405px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-.englisharticle .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-article-mask.png");
-  background-size     : 100% 100%;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 513px;
+  height              : 505px;
   justify-content     : flex-start;
   left                : 0px;
   overflow            : hidden;
-  padding             : 0 2.0px;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
-  width               : 967px;
+  width               : 959px;
 }
-.englisharticle .western-lowland-gorila-gorilla-gorilla-HhMR8B {
+.chinese .a891px-cat-poster-2-nsyORG {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 641px;
-  margin-top          : -65.0px;
+  height              : 780px;
+  margin-bottom       : -232.0px;
+  margin-left         : -4px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 962px;
+  width               : 966px;
 }
-.englisharticle .in-2014-the-chinko-rnxNgC {
+.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 33.8px;
+  line-height         : 31.5px;
   margin-right        : 2.0px;
   margin-top          : 22px;
-  min-height          : 304px;
+  min-height          : 95px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 630px;
 }
-.englisharticle {
+.chinese {
   align-items         : center;
   background-color    : var(--auto-palette-color-4);
   box-sizing          : border-box;
@@ -246,12 +227,12 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 1936px;
+  min-height          : 1386px;
   overflow            : hidden;
   position            : relative;
   width               : 1440.0px;
 }
-.englisharticle .group-xWfRCW {
+.chinese .group-xWfRCW {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/english-article-rectangle.png");
@@ -269,7 +250,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.englisharticle .wikipedia-preview-de-1PLwYB {
+.chinese .wikipedia-preview-de-1PLwYB {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   flex-shrink         : 0;
@@ -282,17 +263,64 @@ a {
   transform           : rotate(0deg);
   width               : 468px;
 }
-.englisharticle .wildlife-of-the-cent-POOjaJ {
+.chinese .u732b-wRVu4i {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 40.0px;
   height              : auto;
   line-height         : 43.7px;
-  margin-top          : 35px;
-  min-height          : 93px;
+  margin-right        : 590.0px;
+  margin-top          : 40px;
+  min-height          : 44px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 42px;
+}
+.chinese .line-copy-5-4RoLgK {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 163px;
+  position            : absolute;
+  top                 : 347px;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 134px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 632px;
+}
+.chinese .span1-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span2-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span3-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span4-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span5-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span6-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span7-wawyPq {
+  letter-spacing      : 0.00px;
 }
