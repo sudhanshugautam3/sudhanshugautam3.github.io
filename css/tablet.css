@@ -3297,12 +3297,17 @@ a {
   line-height         : 25.6px;
 }
 @media screen and (max-width: 767px) {
-  .tablet {
-    display             : none ;
-  }
-  .desktop {
-    display             : none ;
-  }
+.tablet 
+ { 
+   display  : none ; 
+  } 
+
+  .desktop 
+  { 
+    display: none ; 
+  } 
+  
+}
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
   .mobile {
