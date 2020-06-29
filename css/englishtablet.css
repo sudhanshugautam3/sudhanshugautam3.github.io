@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinese */
+/* ANIMA screen - englishmobile */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -149,16 +149,340 @@ a {
   --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.chinese .overlap-group-Y7zamN {
+.englishmobile .overlap-group-4tDfkw {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 505px;
-  margin-right        : 1.0px;
-  margin-top          : 44px;
+  height              : 239px;
   position            : relative;
-  width               : 959px;
+  width               : 360px;
 }
-.chinese {
+.englishmobile .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 63px;
+  width               : 360px;
+}
+.englishmobile {
+  background-color    : var(--auto-palette-color-4);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1482.0px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.englishmobile .rectangle-pwJWlx {
+  background-color    : var(--auto-palette-color-4);
+  height              : 62px;
+  left                : -2px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : calc(100.00% + 4px);
+}
+.englishmobile .western-lowland-gorila-gorilla-gorilla-copy-uz4xss {
+  background-color    : rgba(255,255,255,0);
+  height              : 239px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.englishmobile .wildlife-of-the-cent-uMs3Yc {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
+  min-height          : 25px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.englishmobile .wildlife-in-the-cent-copy-UrvYWm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
+  min-height          : 336px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.englishmobile .realising-the-seriou-copy-UY8bDN {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 408px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 328px;
+}
+.englishmobile .in-2014-the-chinko-copy-fsiOhM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 336px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 328px;
+}
+.englishmobile .group-2-XxOQkl {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 320px;
+  position            : absolute;
+  top                 : 8px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.englishmobile .group-4-6YqAyG {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.englishmobile .oval-9LQKxJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.englishmobile .group-4-QWMfcN {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.englishmobile .fill-3-yJdi9H {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.englishmobile .wikipedia-preview-de-9jJ7iA {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 44px;
+  line-height         : 21.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 21px;
+  transform           : rotate(0deg);
+  width               : 272px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+/* ANIMA screen - englisharticle */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+}
+.englisharticle .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 513px;
+  margin-right        : 1.0px;
+  margin-top          : 41px;
+  position            : relative;
+  width               : 967px;
+}
+.englisharticle {
   align-items         : center;
   background-color    : var(--auto-palette-color-4);
   box-sizing          : border-box;
@@ -166,12 +490,12 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 1386px;
+  min-height          : 1936px;
   overflow            : hidden;
   position            : relative;
   width               : 1440.0px;
 }
-.chinese .group-xWfRCW {
+.englisharticle .group-xWfRCW {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/english-article-rectangle.png");
@@ -189,7 +513,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinese .wikipedia-preview-de-1PLwYB {
+.englisharticle .wikipedia-preview-de-1PLwYB {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   flex-shrink         : 0;
@@ -202,123 +526,95 @@ a {
   transform           : rotate(0deg);
   width               : 468px;
 }
-.chinese .u732b-wRVu4i {
+.englisharticle .wildlife-of-the-cent-POOjaJ {
   background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 40.0px;
   height              : auto;
   line-height         : 43.7px;
-  margin-right        : 590.0px;
-  margin-top          : 40px;
-  min-height          : 44px;
+  margin-top          : 35px;
+  min-height          : 93px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 42px;
+  width               : 632px;
 }
-.chinese .line-copy-5-4RoLgK {
+.englisharticle .line-copy-5-4RoLgK {
   background-color    : rgba(255,255,255,0);
   height              : 2px;
-  left                : 163px;
+  left                : 167px;
   position            : absolute;
-  top                 : 347px;
+  top                 : 350px;
   transform           : rotate(0deg);
   width               : 655px;
 }
-.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+.englisharticle .wildlife-in-the-cent-nGYiKH {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 31.5px;
+  line-height         : 33.8px;
   margin-top          : 22px;
-  min-height          : 134px;
+  min-height          : 336px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 632px;
 }
-.chinese .span1-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span2-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span3-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span4-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span5-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span6-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span7-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span8-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span9-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
+.englisharticle .realising-the-seriou-zPvVx4 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 31.5px;
+  line-height         : 33.8px;
+  margin-right        : 2.0px;
   margin-top          : 22px;
-  min-height          : 315px;
+  min-height          : 405px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 632px;
+  width               : 630px;
 }
-.chinese .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
-  align-items         : flex-end;
+.englisharticle .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-article-mask.png");
+  background-size     : 100% 100%;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 505px;
+  height              : 513px;
   justify-content     : flex-start;
   left                : 0px;
   overflow            : hidden;
+  padding             : 0 2.0px;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
-  width               : 959px;
+  width               : 967px;
 }
-.chinese .a891px-cat-poster-2-nsyORG {
+.englisharticle .western-lowland-gorila-gorilla-gorilla-HhMR8B {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 780px;
-  margin-bottom       : -232.0px;
-  margin-left         : -4px;
+  height              : 641px;
+  margin-top          : -65.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 966px;
+  width               : 962px;
 }
-.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
+.englisharticle .in-2014-the-chinko-rnxNgC {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 31.5px;
+  line-height         : 33.8px;
   margin-right        : 2.0px;
   margin-top          : 22px;
-  min-height          : 95px;
+  min-height          : 304px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
@@ -436,7 +732,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinesetablet */
+/* ANIMA screen - englishtablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -473,17 +769,14 @@ a {
   --auto-palette-color-4: rgba(255,255,255,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
 }
-.chinesetablet .overlap-group-Y7zamN {
+.englishtablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 367px;
   position            : relative;
   width               : 770px;
 }
-.chinesetablet .span9-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-copy-Hql7Kv {
+.englishtablet .wildlife-in-the-cent-copy-2-q5dzx6 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
@@ -491,29 +784,44 @@ a {
   height              : auto;
   line-height         : 24.0px;
   margin-left         : 50.0px;
-  margin-top          : 15px;
+  margin-top          : 7px;
   min-height          : 192px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 572px;
 }
-.chinesetablet .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-copy-l16fMQ {
+.englishtablet .realising-the-seriou-copy-2-kSkBeX {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 50.0px;
+  margin-left         : 48.0px;
   margin-top          : 15px;
-  min-height          : 72px;
+  min-height          : 240px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 572px;
+  width               : 570px;
 }
-.chinesetablet .group-2-8SiD8y {
+.englishtablet .in-2014-the-chinko-copy-2-6QGZsw {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 48.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.englishtablet .group-2-8SiD8y {
   background-color    : rgba(255,255,255,0);
   cursor              : pointer;
   height              : 33px;
@@ -523,7 +831,7 @@ a {
   transform           : rotate(0deg);
   width               : 34px;
 }
-.chinesetablet .group-4-xTHy2w {
+.englishtablet .group-4-xTHy2w {
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/hindi-tablet-oval@2x.png");
   background-size     : 100% 100%;
@@ -534,7 +842,7 @@ a {
   transform           : rotate(0deg);
   width               : 34px;
 }
-.chinesetablet .group-4-N5dxCB {
+.englishtablet .group-4-N5dxCB {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
@@ -550,7 +858,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinesetablet .fill-3-KbVuVx {
+.englishtablet .fill-3-KbVuVx {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 18px;
@@ -558,7 +866,7 @@ a {
   transform           : rotate(0deg);
   width               : 18px;
 }
-.chinesetablet {
+.englishtablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-4);
   box-sizing          : border-box;
@@ -566,12 +874,12 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 842px;
+  min-height          : 1108px;
   overflow            : hidden;
   position            : relative;
   width               : 768.0px;
 }
-.chinesetablet .header-xPpEh7 {
+.englishtablet .header-xPpEh7 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/swahili-tablet-rectangle.png");
@@ -589,7 +897,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinesetablet .wikipedia-preview-de-fdhE5J {
+.englishtablet .wikipedia-preview-de-fdhE5J {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   flex-shrink         : 0;
@@ -602,7 +910,7 @@ a {
   transform           : rotate(0deg);
   width               : 394px;
 }
-.chinesetablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
   background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   height              : 273px;
@@ -613,7 +921,7 @@ a {
   transform           : rotate(0deg);
   width               : 768px;
 }
-.chinesetablet .mask-biZW9V {
+.englishtablet .mask-biZW9V {
   background-color    : var(--auto-palette-color-3);
   border-radius       : 3.0px;
   height              : 272px;
@@ -623,480 +931,65 @@ a {
   transform           : rotate(0deg);
   width               : 768px;
 }
-.chinesetablet .a891px-cat-poster-2-Ymh5tV {
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-AIOhYs {
   background-color    : rgba(255,255,255,0);
-  height              : 620px;
+  height              : 536px;
   left                : 0px;
   position            : absolute;
-  top                 : 1px;
+  top                 : -131px;
   transform           : rotate(0deg);
   width               : 768px;
 }
-.chinesetablet .english-GlKqzs {
+.englishtablet .english-GlKqzs {
   align-items         : flex-start;
-  align-self          : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 28px;
+  height              : 30px;
   justify-content     : flex-start;
-  margin-left         : 123.0px;
+  margin-right        : 189.0px;
   margin-top          : 20px;
-  min-width           : 24px;
+  min-width           : 333px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinesetablet .u732b-qWio2S {
+.englishtablet .wildlife-of-the-cent-gSyr4d {
   background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 28px;
+  min-height          : 30px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 26px;
-}
-.chinesetablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 7px;
-  min-height          : 96px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 572px;
-}
-.chinesetablet .span1-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span2-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span3-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span4-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span5-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span6-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span7-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span8-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper ,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-/* ANIMA screen - chinese1 */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-}
-.chinese1 .overlap-group-4tDfkw {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 239px;
-  position            : relative;
-  width               : 360px;
-}
-.chinese1 .auto-flex-1lKxzb {
-  align-items         : center;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 62px;
-  width               : 360px;
-}
-.chinese1 {
-  background-color    : var(--auto-palette-color-4);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 974.0px;
-  min-width           : 360.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.chinese1 .rectangle-pwJWlx {
-  background-color    : var(--auto-palette-color-4);
-  height              : 62px;
-  left                : -2px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : calc(100.00% + 4px);
-}
-.chinese1 .u732b-pwA0Ld {
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 21px;
-}
-.chinese1 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-8QNMLJ {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 144px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese1 .span1-8QNMLJ {
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span2-8QNMLJ {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span3-8QNMLJ {
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span4-8QNMLJ {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span5-8QNMLJ {
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span6-8QNMLJ {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span7-8QNMLJ {
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span8-8QNMLJ {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese1 .span9-8QNMLJ {
-  letter-spacing      : 0.00px;
-}
-.chinese1 .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FVrrrN {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese1 .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-lDqx5G {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 96px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese1 .a594px-cat-poster-2-wrlWH5 {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 239px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese1 .a594px-cat-poster-2-x7alKC {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 291px;
-  margin-top          : -26.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese1 .group-2-XxOQkl {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 24px;
-  left                : 320px;
-  position            : absolute;
-  top                 : 9px;
-  transform           : rotate(0deg);
-  width               : 24px;
-}
-.chinese1 .group-4-6YqAyG {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 24px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinese1 .oval-9LQKxJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 24px;
-}
-.chinese1 .group-4-QWMfcN {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinese1 .fill-3-yJdi9H {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 12px;
-}
-.chinese1 .wikipedia-preview-de-9jJ7iA {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 44px;
-  line-height         : 21.0px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 21px;
-  transform           : rotate(0deg);
-  width               : 272px;
+  width               : 335px;
 }
 @media screen and (max-width: 767px) {
-  .chinesetablet {
+  .englishtablet {
     display             : none ;
   }
-  .chinese {
+  .englisharticle {
     display             : none ;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .chinese1 {
+  .englishmobile {
     display             : none ;
   }
-  .chinese {
+  .englisharticle {
     display             : none ;
   }
 }
 @media screen and (min-width: 1440px) {
-  .chinese1 {
+  .englishmobile {
     display             : none ;
   }
-  .chinesetablet {
+  .englishtablet {
     display             : none ;
   }
 }

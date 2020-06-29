@@ -1,0 +1,5771 @@
+
+
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+/* ANIMA screen - hinditablet */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+}
+.hinditablet .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 367px;
+  position            : relative;
+  width               : 770px;
+}
+.hinditablet .span202-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span203-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span204-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span205-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span206-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span207-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span208-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span209-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span210-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span211-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span212-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span213-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span214-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span215-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span216-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span217-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .u092a-u094d-u0930-u093e-u091a-u0940-u0928-u0915-u093e-u0932-u092e-u0947-u0902-u092f-u0939-u0926-u0941-copy-xwKo2R {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 243px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.hinditablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u0935-u093f-u0902-u0927-u094d-u092f-u093e-copy-2rqxpw {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.hinditablet .u092a-u094d-u0930-u0924-u0940-u0924-u0939-u094b-u0924-u093e-u0939-u0948-u0915-u093f-u0907-u0938-copy-xNVpNk {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 126px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.hinditablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 660px;
+  position            : absolute;
+  top                 : 104px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.hinditablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.hinditablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.hinditablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 18px;
+}
+.hinditablet .span154-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span155-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span156-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span157-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span158-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span159-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span160-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span161-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span162-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span163-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span164-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span165-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span166-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span167-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span168-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span169-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span170-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span171-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span172-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span173-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span174-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span175-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span176-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span177-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span178-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span179-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span180-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span181-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span182-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span183-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span184-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span185-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span186-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span187-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span188-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span189-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span190-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span191-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span192-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span193-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span194-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span195-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span196-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span197-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span198-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span199-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span200-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span201-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span110-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span111-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span112-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span113-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span114-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span115-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span116-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span117-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span118-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span119-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span120-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span121-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span122-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span123-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span124-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span125-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span126-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span127-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span128-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span129-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span130-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span131-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span132-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span133-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span134-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span135-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span136-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span137-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span138-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span139-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span140-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span141-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span142-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span143-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span144-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span145-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span146-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span147-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span148-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span149-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span150-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span151-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span152-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span153-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span66-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span67-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span68-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span69-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span70-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span71-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span72-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span73-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span74-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span75-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span76-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span77-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span78-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span79-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span80-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span81-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span82-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span83-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span84-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span85-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span86-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span87-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span88-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span89-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span90-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span91-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span92-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span93-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span94-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span95-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span96-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span97-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span98-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span99-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span100-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span101-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span102-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span103-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span104-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span105-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span106-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span107-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span108-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span109-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span19-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span20-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span21-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span22-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span23-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span24-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span25-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span26-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span27-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span28-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span29-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span30-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span31-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span32-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span33-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span34-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span35-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span36-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span37-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span38-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span39-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span40-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span41-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span42-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span43-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span44-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span45-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span46-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span47-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span48-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span49-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span50-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span51-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span52-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span53-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span54-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span55-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span56-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span57-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span58-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span59-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span60-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span61-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span62-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span63-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span64-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span65-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .wikipedia-preview-de-fdhE5J {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 42px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 394px;
+}
+.hinditablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 1px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 94px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.hinditablet .mask-biZW9V {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.hinditablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-IH4sb0 {
+  background-color    : rgba(255,255,255,0);
+  height              : 353px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -40px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.hinditablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 34px;
+  justify-content     : flex-start;
+  margin-right        : 189.0px;
+  margin-top          : 20px;
+  min-width           : 333px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.hinditablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-cyCqVG {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 34px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 335px;
+}
+.hinditablet .span1-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span2-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span3-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span4-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span5-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span6-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span7-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span8-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span9-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span10-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span11-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span12-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span13-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span14-cyCqVG {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .span15-cyCqVG {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.hinditablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-o0o5Lx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 7px;
+  min-height          : 144px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.hinditablet .span1-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span2-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span3-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span4-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span5-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span6-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span7-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span8-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span9-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span10-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span11-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span12-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span13-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span14-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span15-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span16-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span17-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span18-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1088px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 768.0px;
+}
+.hinditablet .header-xPpEh7 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 96px;
+  justify-content     : flex-start;
+  left                : 0px;
+  padding             : 26.0px 188.0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+/* ANIMA screen - hindiarticle */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+}
+.hindiarticle .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 513px;
+  margin-right        : 1.0px;
+  margin-top          : 41px;
+  position            : relative;
+  width               : 967px;
+}
+.hindiarticle .overlap-group1-yBpAcz {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -3px;
+  position            : relative;
+  width               : 1448px;
+}
+.hindiarticle .span92-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span93-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span94-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span95-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span96-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span97-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span98-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span99-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span100-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span101-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span102-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span103-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span104-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span105-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span106-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span107-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .group-rx4cqT {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/english-article-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1448px;
+}
+.hindiarticle .wikipedia-preview-de-Vw8RmJ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 490px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 468px;
+}
+.hindiarticle .span47-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span48-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span49-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span50-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span51-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span52-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span53-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span54-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span55-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span56-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span57-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span58-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span59-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span60-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span61-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span62-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span63-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span64-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span65-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span66-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span67-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span68-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span69-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span70-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span71-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span72-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span73-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span74-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span75-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span76-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span77-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span78-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span79-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span80-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span81-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span82-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span83-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span84-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span85-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span86-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span87-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span88-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span89-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span90-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span91-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span3-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span4-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span5-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span6-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span7-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span8-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span9-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span10-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span11-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span12-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span13-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span14-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span15-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span16-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span17-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span18-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span19-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span20-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span21-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span22-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span23-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span24-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span25-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span26-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span27-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span28-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span29-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span30-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span31-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span32-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span33-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span34-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span35-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span36-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span37-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span38-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span39-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span40-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span41-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span42-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span43-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span44-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span45-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span46-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span147-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span148-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span149-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span150-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span151-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span152-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span153-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span154-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span155-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span156-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span157-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span158-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span159-TlXxfe {
+  font-family         : "KohinoorBangla-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span160-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span161-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span162-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span163-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span164-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span165-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span166-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span167-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span168-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span169-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span170-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span171-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span172-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span173-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span174-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span175-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span176-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span177-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span178-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span179-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span180-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span181-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span182-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span183-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span184-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-article-mask.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 513px;
+  justify-content     : center;
+  left                : 0px;
+  overflow            : hidden;
+  padding             : 2.0px 0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 967px;
+}
+.hindiarticle .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-bbR0L7 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 506px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1101px;
+}
+.hindiarticle .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u0935-u093f-u0902-u0927-u094d-u092f-u093e-wjsfCz {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 33.8px;
+  margin-right        : 2.0px;
+  margin-top          : 22px;
+  min-height          : 135px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 630px;
+}
+.hindiarticle .span1-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span2-wjsfCz {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span103-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span104-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span105-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span106-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span107-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span108-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span109-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span110-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span111-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span112-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span113-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span114-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span115-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span116-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span117-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span118-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span119-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span120-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span121-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span122-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span123-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span124-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span125-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span126-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span127-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span128-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span129-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span130-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span131-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span132-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span133-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span134-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span135-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span136-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span137-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span138-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span139-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span140-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span141-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span142-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span143-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span144-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span145-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span146-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span59-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span60-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span61-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span62-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span63-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span64-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span65-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span66-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span67-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span68-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span69-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span70-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span71-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span72-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span73-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span74-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span75-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span76-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span77-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span78-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span79-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span80-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span81-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span82-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span83-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span84-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span85-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span86-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span87-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span88-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span89-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span90-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span91-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span92-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span93-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span94-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span95-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span96-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span97-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span98-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span99-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span100-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span101-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span102-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span12-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span13-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span14-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span15-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span16-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span17-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span18-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span19-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span20-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span21-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span22-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span23-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span24-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span25-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span26-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span27-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span28-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span29-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span30-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span31-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span32-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span33-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span34-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span35-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span36-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span37-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span38-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span39-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span40-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span41-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span42-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span43-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span44-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span45-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span46-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span47-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span48-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span49-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span50-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span51-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span52-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span53-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span54-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span55-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span56-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span57-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span58-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span318-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span319-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span320-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span321-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span322-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span323-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span324-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span325-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span326-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span327-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span328-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span329-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span330-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span331-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span332-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span333-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span334-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span335-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span336-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span337-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span338-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span339-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span340-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span341-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span342-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span343-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span344-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span345-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span346-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span347-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span348-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span349-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span350-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .u092a-u094d-u0930-u0924-u0940-u0924-u0939-u094b-u0924-u093e-u0939-u0948-u0915-u093f-u0907-u0938-TlXxfe {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 33.8px;
+  margin-top          : 22px;
+  min-height          : 206px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.hindiarticle .span1-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span2-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span3-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span4-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span5-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span6-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span7-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span8-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span9-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span10-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span11-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span274-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span275-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span276-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span277-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span278-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span279-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span280-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span281-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span282-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span283-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span284-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span285-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span286-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span287-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span288-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span289-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span290-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span291-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span292-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span293-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span294-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span295-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span296-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span297-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span298-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span299-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span300-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span301-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span302-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span303-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span304-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span305-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span306-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span307-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span308-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span309-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span310-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span311-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span312-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span313-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span314-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span315-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span316-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span317-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span230-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span231-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span232-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span233-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span234-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span235-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span236-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span237-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span238-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span239-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span240-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span241-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span242-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span243-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span244-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span245-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span246-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span247-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span248-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span249-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span250-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span251-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span252-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span253-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span254-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span255-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span256-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span257-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span258-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span259-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span260-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span261-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span262-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span263-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span264-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span265-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span266-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span267-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span268-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span269-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span270-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span271-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span272-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span273-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span183-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span184-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span185-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span186-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span187-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span188-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span189-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span190-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span191-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span192-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span193-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span194-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span195-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span196-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span197-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span198-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span199-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span200-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span201-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span202-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span203-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span204-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span205-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span206-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span207-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span208-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span209-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span210-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span211-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span212-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span213-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span214-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span215-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span216-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span217-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span218-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span219-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span220-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span221-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span222-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span223-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span224-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span225-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span226-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span227-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span228-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span229-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span139-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span140-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span141-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span142-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span143-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span144-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span145-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span146-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span147-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span148-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span149-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span150-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span151-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span152-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span153-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span154-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span155-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span156-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span157-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span158-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span159-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span160-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span161-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span162-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span163-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span164-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span165-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span166-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span167-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span168-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span169-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span170-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span171-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span172-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span173-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span174-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span175-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span176-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span177-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span178-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span179-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span180-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span181-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span182-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span94-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span95-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span96-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span97-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span98-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span99-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span100-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span101-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span102-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span103-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span104-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span105-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span106-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span107-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span108-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span109-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span110-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span111-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span112-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span113-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span114-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span115-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span116-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span117-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span118-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span119-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span120-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span121-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span122-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span123-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span124-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span125-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span126-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span127-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span128-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span129-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span130-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span131-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span132-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span133-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span134-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span135-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span136-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span137-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span138-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span50-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span51-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span52-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span53-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span54-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span55-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span56-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span57-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span58-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span59-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span60-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span61-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span62-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span63-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span64-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span65-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span66-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span67-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span68-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span69-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span70-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span71-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span72-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span73-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span74-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span75-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span76-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span77-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span78-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span79-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span80-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span81-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span82-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span83-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span84-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span85-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span86-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span87-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span88-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span89-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span90-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span91-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span92-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span93-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span3-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span4-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span5-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span6-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span7-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span8-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span9-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span10-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span11-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span12-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span13-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span14-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span15-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span16-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span17-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span18-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span19-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span20-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span21-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span22-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span23-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span24-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span25-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span26-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span27-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span28-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span29-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span30-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span31-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span32-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span33-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span34-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span35-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span36-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span37-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span38-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span39-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span40-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span41-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span42-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span43-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span44-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span45-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span46-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span47-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span48-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span49-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span177-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span178-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span179-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span180-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span181-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span182-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span183-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span184-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span185-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span186-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span187-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span188-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span189-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span190-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span191-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span192-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span193-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span194-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span195-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span196-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span197-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span198-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span199-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span200-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span201-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span202-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span203-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span204-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span205-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span206-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span207-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span208-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span209-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span210-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span211-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span212-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span213-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span214-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span215-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span216-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span217-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .u092a-u094d-u0930-u093e-u091a-u0940-u0928-u0915-u093e-u0932-u092e-u0947-u0902-u092f-u0939-u0926-u0941-kmjCRy {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 33.8px;
+  margin-top          : 22px;
+  min-height          : 408px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.hindiarticle .span1-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span2-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span133-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span134-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span135-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span136-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span137-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span138-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span139-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span140-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span141-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span142-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span143-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span144-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span145-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span146-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span147-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span148-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span149-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span150-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span151-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span152-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span153-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span154-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span155-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span156-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span157-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span158-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span159-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span160-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span161-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span162-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span163-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span164-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span165-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span166-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span167-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span168-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span169-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span170-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span171-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span172-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span173-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span174-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span175-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span176-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span89-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span90-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span91-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span92-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span93-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span94-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span95-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span96-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span97-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span98-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span99-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span100-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span101-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span102-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span103-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span104-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span105-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span106-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span107-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span108-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span109-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span110-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span111-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span112-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span113-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span114-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span115-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span116-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span117-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span118-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span119-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span120-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span121-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span122-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span123-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span124-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span125-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span126-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span127-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span128-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span129-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span130-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span131-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span132-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span44-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span45-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span46-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span47-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span48-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span49-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span50-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span51-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span52-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span53-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span54-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span55-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span56-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span57-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span58-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span59-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span60-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span61-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span62-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span63-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span64-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span65-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span66-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span67-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span68-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span69-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span70-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span71-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span72-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span73-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span74-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span75-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span76-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span77-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span78-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span79-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span80-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span81-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span82-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span83-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span84-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span85-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span86-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span87-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span88-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span14-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span15-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .line-copy-5-4RoLgK {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 167px;
+  position            : absolute;
+  top                 : 350px;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.hindiarticle .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-o0o5Lx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 33.8px;
+  margin-top          : 22px;
+  min-height          : 236px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.hindiarticle .span1-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span2-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span3-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span4-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span5-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span6-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span7-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span8-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span9-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span10-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span11-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span12-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span13-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span14-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span15-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span16-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span17-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span18-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span19-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span20-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span21-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span22-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span23-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span24-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span25-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span26-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span27-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span28-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span29-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span30-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span31-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span32-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span33-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span34-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span35-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span36-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span37-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span38-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span39-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span40-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span41-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span42-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindiarticle .span43-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindiarticle {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1863px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.hindiarticle .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-SbB06E {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 40.0px;
+  height              : auto;
+  line-height         : 40.0px;
+  margin-top          : 35px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.hindiarticle .span1-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span2-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span3-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span4-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span5-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span6-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span7-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span8-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span9-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span10-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span11-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span12-SbB06E {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.hindiarticle .span13-SbB06E {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+/* ANIMA screen - mobilehindi */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(215,215,215,1.0);
+  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+}
+.mobilehindi .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  height              : 239px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 62px;
+  width               : 360px;
+}
+.mobilehindi .auto-flex-1lKxzb {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 16px;
+  position            : absolute;
+  top                 : 316px;
+  width               : 330px;
+}
+.mobilehindi .span189-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span190-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span191-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span192-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span193-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span194-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span195-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span196-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span197-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span198-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span199-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span200-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span201-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span202-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span203-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span204-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span205-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span206-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span207-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span208-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span209-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span210-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span211-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span212-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span213-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span214-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span215-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span216-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span217-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .u092a-u094d-u0930-u093e-u091a-u0940-u0928-u0915-u093e-u0932-u092e-u0947-u0902-u092f-u0939-u0926-u0941-SSJBaQ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 413px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilehindi .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u0935-u093f-u0902-u0927-u094d-u092f-u093e-AhCopy {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 144px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilehindi .u092a-u094d-u0930-u0924-u0940-u0924-u0939-u094b-u0924-u093e-u0939-u0948-u0915-u093f-u0907-u0938-z4p7hh {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 217px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilehindi .western-lowland-gorila-gorilla-gorilla-copy-2-39ma2F {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 239px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobilehindi .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-ARw2Jj {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 259px;
+  margin-left         : -102px;
+  margin-top          : -8.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 563px;
+}
+.mobilehindi .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 320px;
+  position            : absolute;
+  top                 : 9px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.mobilehindi .group-4-xTHy2w {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobilehindi .oval-uZFgU3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.mobilehindi .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobilehindi .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.mobilehindi .wikipedia-preview-de-9jJ7iA {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 44px;
+  line-height         : 21.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 21px;
+  transform           : rotate(0deg);
+  width               : 272px;
+}
+.mobilehindi .span142-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span143-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span144-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span145-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span146-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span147-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span148-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span149-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span150-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span151-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span152-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span153-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span154-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span155-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span156-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span157-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span158-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span159-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span160-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span161-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span162-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span163-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span164-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span165-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span166-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span167-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span168-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span169-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span170-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span171-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span172-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span173-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span174-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span175-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span176-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span177-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span178-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span179-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span180-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span181-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span182-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span183-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span184-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span185-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span186-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span187-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span188-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span98-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span99-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span100-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span101-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span102-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span103-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span104-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span105-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span106-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span107-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span108-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span109-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span110-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span111-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span112-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span113-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span114-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span115-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span116-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span117-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span118-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span119-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span120-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span121-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span122-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span123-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span124-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span125-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span126-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span127-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span128-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span129-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span130-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span131-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span132-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span133-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span134-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span135-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span136-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span137-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span138-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span139-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span140-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span141-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span53-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span54-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span55-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span56-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span57-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span58-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span59-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span60-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span61-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span62-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span63-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span64-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span65-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span66-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span67-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span68-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span69-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span70-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span71-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span72-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span73-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span74-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span75-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span76-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span77-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span78-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span79-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span80-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span81-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span82-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span83-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span84-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span85-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span86-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span87-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span88-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span89-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span90-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span91-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span92-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span93-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span94-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span95-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span96-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span97-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span9-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span10-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span11-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span12-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span13-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span14-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span15-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span16-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span17-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span18-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span19-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span20-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span21-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span22-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span23-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span24-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span25-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span26-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span27-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span28-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span29-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span30-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span31-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span32-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span33-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span34-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span35-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span36-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span37-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span38-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span39-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span40-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span41-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span42-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span43-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span44-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span45-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span46-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span47-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span48-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span49-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span50-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span51-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span52-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi {
+  background-color    : var(--auto-palette-color-4);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1424.0px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.mobilehindi .rectangle-pwJWlx {
+  background-color    : rgba(255,255,255,0);
+  height              : 70px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -2px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilehindi .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-CbQ7UD {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  min-height          : 19px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilehindi .span1-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span2-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span3-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span4-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span5-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span6-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span7-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span8-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span9-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span10-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span11-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span12-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span13-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span14-CbQ7UD {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .span15-CbQ7UD {
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+}
+.mobilehindi .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-IQ4mnv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 240px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilehindi .span1-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span2-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span3-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span4-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span5-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span6-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span7-IQ4mnv {
+  letter-spacing      : 0.00px;
+}
+.mobilehindi .span8-IQ4mnv {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+@media screen and (max-width: 767px) {
+  .hinditablet {
+    display             : none ;
+  }
+  .hindiarticle {
+    display             : none ;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .mobilehindi {
+    display             : none ;
+  }
+  .hindiarticle {
+    display             : none ;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .mobilehindi {
+    display             : none ;
+  }
+  .hinditablet {
+    display             : none ;
+  }
+}
