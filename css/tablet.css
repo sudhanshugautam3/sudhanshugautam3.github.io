@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - mobile */
+/* ANIMA screen - desktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -151,7 +151,7 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.mobile .auto-flex4-n3q5lb {
+.desktop .auto-flex4-mQwjnw {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -161,9 +161,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .auto-flex3-UyO79H {
+.desktop .auto-flex5-uN910k {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -173,9 +173,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .auto-flex5-NyFzAD {
+.desktop .auto-flex6-lax9gi {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -185,268 +185,189 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 244px;
+  width               : 387px;
 }
-.mobile .auto-flex2-44zkdR {
-  align-items         : flex-start;
+.desktop .auto-flex-1lKxzb {
+  align-items         : center;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
-  flex-shrink         : 0;
   height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.mobile .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 64px;
-  position            : relative;
-  width               : 362px;
-}
-.mobile .auto-flex1-CG2eCk {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.mobile .auto-flex-jta0tg {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.mobile .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 329px;
-}
-.mobile .group-3-bgGCSh {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 64px;
-  margin-top          : 40px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.mobile .group-iAM3bT {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 64px;
   justify-content     : flex-start;
   left                : 0px;
   position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : auto;
+  top                 : 144px;
+  width               : 1440px;
 }
-.mobile .group-2-copy-7tBdnF {
-  background-color    : rgba(240,244,248,1.0);
-  flex-shrink         : 0;
-  height              : 64px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.mobile .this-article-uses-ma-To2rdp {
+.desktop .auto-flex2-nDGjDG {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  font-size           : 9.0px;
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
   height              : auto;
-  left                : 15px;
-  line-height         : 13.5px;
-  opacity             : 0.8;
-  position            : absolute;
-  text-align          : center;
-  top                 : 12px;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 410px;
+}
+.desktop .span46-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span47-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span48-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span49-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span50-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span51-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span52-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span53-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span54-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span55-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span56-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span57-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span58-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span59-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span60-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span61-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span62-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span63-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span64-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span65-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-lnshNo {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 79px;
+  overflow            : hidden;
+  position            : relative;
   transform           : rotate(0deg);
-  width               : 330px;
+  width               : 165px;
 }
-.mobile .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-NrLadj {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  margin-left         : -104px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 374px;
 }
-.mobile .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span4-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span5-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span6-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span7-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span8-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span9-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span10-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span11-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span12-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span13-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span14-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span15-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span16-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span17-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span18-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span19-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span20-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span21-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span22-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span23-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span24-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span25-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span26-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .line-copy-5-18i8FR {
+.desktop .line-copy-10-h4xdr9 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 15px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 329px;
+  width               : 655px;
 }
-.mobile .line-copy-6-91jlDU {
+.desktop .line-copy-9-ReecKn {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 329px;
+  width               : 655px;
 }
-.mobile .line-copy-8-6JUJQK {
+.desktop .line-copy-7-F7DH6O {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 3px;
-  margin-right        : 1.0px;
-  margin-top          : 15px;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 327px;
+  width               : 655px;
 }
-.mobile .line-copy-9-ROHgnd {
+.desktop .line-copy-6-KxxGUf {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 3px;
-  margin-right        : 1.0px;
-  margin-top          : 14px;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 26px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 327px;
+  width               : 655px;
 }
-.mobile .group-4-Tu8Qgm {
+.desktop .group-copy-JybYxQ {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -454,424 +375,149 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 134px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-top          : 14px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .conseil-de-s-351curit-351-cnPj8S {
+.desktop .u732b-n9GE4o {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 53px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .language-267-french-copy-zjvIfX {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 6px;
-  min-height          : 12px;
-  min-width           : 105px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .le-conseil-de-s-351curi-3ueV0P {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 25.6px;
-  margin-top          : 13px;
-  min-height          : 50px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -8px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 96px;
-}
-.mobile .rectangle-p6bHfG {
-  background-color    : rgba(255,255,255,0);
-  height              : 64px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 362px;
-}
-.mobile .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 45px;
-  line-height         : 21.0px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 21px;
-  transform           : rotate(0deg);
-  width               : 272px;
-}
-.mobile .group-2-Aspe6u {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 93px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .afrika-4uC00w {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 58px;
-}
-.mobile .afrika-ni-bara-la-pi-GxxOgi {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .language-267-swahili-m1txXj {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 106px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-kobli1-ZD2Mv9 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 108px;
-}
-.mobile .group-xWfRCW {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 93px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .u732b-uNkwlt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 19px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a594px-cat-poster-2-7A1UBC {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -9px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 89px;
-}
-.mobile .language-267-chinese-Cgya9I {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .span1-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span2-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span3-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span4-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .span5-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.mobile .group-5-hx9j3X {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 106px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .language-267-hindi-urZFhx {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 99px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -43px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 157px;
-}
-.mobile .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
   min-height          : 28px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 30px;
 }
-.mobile .span1-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .language-267-chinese-SA9SZB {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
 }
-.mobile .span2-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-q5Tx5C {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 112px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 387px;
 }
-.mobile .span3-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-xCOT1x {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 102px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
 }
-.mobile .span4-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .a594px-cat-poster-2-XLMXwZ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 183px;
+  margin-top          : -4.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 223px;
 }
-.mobile .span5-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .wikipedia-preview-de-iOCx9n {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 31px;
+  transform           : rotate(0deg);
+  width               : auto;
 }
-.mobile .span6-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .group-2-x54H5M {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-height          : 80px;
+  padding             : 19.0px 0;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1440px;
 }
-.mobile .span7-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .this-article-uses-ma-vS2xco {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 630px;
 }
-.mobile .span8-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .auto-flex1-LRqDHP {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 410px;
 }
-.mobile .span9-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.desktop .language-267-hindi-2VwyZo {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
 }
-.mobile .span10-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span11-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span12-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span13-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span14-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span15-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-lt0fwK {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -879,29 +525,216 @@ a {
   height              : auto;
   line-height         : 16.0px;
   margin-top          : 12px;
-  min-height          : 50px;
+  min-height          : 78px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 388px;
 }
-.mobile {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  margin              : 0px;
-  min-height          : 978px;
-  min-width           : 360.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
+.desktop .span1-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.mobile .group-6-gOTYvh {
+.desktop .span2-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span3-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span4-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span5-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span6-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span7-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span8-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span9-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span10-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span11-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span12-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span13-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span14-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span15-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span16-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span17-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span18-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span19-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span20-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span21-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span22-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span23-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span24-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span25-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span26-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span27-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span28-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span29-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span30-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span31-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span32-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span33-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span34-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span35-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span36-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span37-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span38-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span39-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span40-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span41-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span42-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span43-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span44-lt0fwK {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span45-lt0fwK {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .group-3-62Pu44 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -909,81 +742,261 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 116px;
+  height              : 177px;
   justify-content     : flex-start;
-  margin-top          : 23px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .wildlife-of-the-cent-tglvvZ {
+.desktop .nikola-tesla-y8Nc2C {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   height              : auto;
-  line-height         : 21.6px;
-  min-height          : 43px;
+  line-height         : 27.6px;
+  min-height          : 33px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 165px;
 }
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
+.desktop .language-267-spanish-Txgwaf {
   background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  height              : 72px;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
   position            : relative;
+  text-align          : left;
   transform           : rotate(0deg);
-  width               : 108px;
+  width               : 113px;
 }
-.mobile .wildlife-in-the-cent-03jDLA {
+.desktop .nikola-tesla-en-cir-dPMked {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 12px;
+  margin-top          : 10px;
+  min-height          : 112px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-qyTcHo {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 176px;
+  justify-content     : flex-start;
+  margin-left         : 81px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a535px-tesla-sarony-IWhYt3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 257px;
+  margin-left         : -11px;
+  margin-top          : -41.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 186px;
+}
+.desktop .auto-flex3-Uy3xya {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 411px;
+}
+.desktop .group-2-ODj6xO {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .afrika-Fi5Wux {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 92px;
+}
+.desktop .language-267-swahili-sEQozq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .afrika-ni-bara-la-pi-7aHyH4 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 90px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-otkxsx {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 81px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-kobli1-K0k2XP {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 259px;
+}
+.desktop .group-4-tz5U6c {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .conseil-de-s-351curit-351-lrfvaN {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  margin-left         : 1.0px;
+  min-height          : 56px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-french-SOsPOn {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .le-conseil-de-s-351curi-O6aZiI {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-left         : 1.0px;
+  margin-top          : 13px;
   min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .language-267-english-copy-4-JSZ77u {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-bxozy0 {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
   flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 107px;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 78px;
+  overflow            : hidden;
   position            : relative;
-  text-align          : left;
   transform           : rotate(0deg);
-  width               : auto;
+  width               : 165px;
 }
-.mobile .group-3-iFKazk {
+.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-Y3SU3w {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 229px;
+}
+.desktop .group-5-x3axBF {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -991,81 +1004,203 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 93px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-top          : 14px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .nikola-tesla-t0Y353 {
+.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-KL5yxx {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
+  line-height         : 24.0px;
+  min-height          : 35px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 112px;
+  width               : 410px;
 }
-.mobile .nikola-tesla-fue-un-K6xHG8 {
+.desktop .span1-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span2-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span3-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span4-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span5-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span6-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span7-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span8-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span9-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span10-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span11-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span12-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span13-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span14-KL5yxx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span15-KL5yxx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .line-copy-5-fQbUOl {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 21px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .rectangle-pwJWlx {
+  background-color    : rgba(255,255,255,0);
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -3px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.desktop .group-6-g0xIuM {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .wildlife-of-the-cent-LiOLno {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-english-FAqTfD {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .wildlife-in-the-cent-H79Cwz {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
+  margin-top          : 11px;
+  min-height          : 90px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 408px;
 }
-.mobile .language-267-spanish-YZuxPY {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-uj8Oke {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
+  border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 72px;
+  height              : 180px;
   justify-content     : flex-start;
-  margin-left         : 14px;
+  margin-left         : 79px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 70px;
+  width               : 165px;
 }
-.mobile .a535px-tesla-sarony-nXSrlL {
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-HvREzb {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 123px;
-  margin-left         : -10px;
-  margin-top          : -25.0px;
+  height              : 180px;
+  margin-left         : -46px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 91px;
+  width               : 258px;
+}
+.desktop {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1520.0px;
+  min-width           : 1440.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -1218,18 +1353,6 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.tablet .auto-flex2-3LESXx {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
 .tablet .auto-flex1-xWlRvG {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -1242,7 +1365,7 @@ a {
   position            : relative;
   width               : 373px;
 }
-.tablet .auto-flex3-fx0QnL {
+.tablet .auto-flex-4RHks2 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1252,7 +1375,7 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 372px;
+  width               : 374px;
 }
 .tablet .auto-flex5-xYhCyw {
   align-items         : flex-start;
@@ -1266,6 +1389,30 @@ a {
   position            : relative;
   width               : 372px;
 }
+.tablet .auto-flex3-fx0QnL {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 372px;
+}
+.tablet .auto-flex2-3LESXx {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 374px;
+}
 .tablet .auto-flex4-aljjS1 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -1278,16 +1425,386 @@ a {
   position            : relative;
   width               : 371px;
 }
-.tablet .auto-flex-4RHks2 {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 25px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-kobli1-dGAOB6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 120px;
+  margin-left         : -23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 178px;
+}
+.tablet .chinese-LPUsSV {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 17.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .u732b-axv2FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 30px;
+}
+.tablet .language-267-chinese-hPMSIN {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 26px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a594px-cat-poster-2-5Vf5Gb {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -4.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 151px;
+}
+.tablet .header-6IR25F {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
   flex-shrink         : 0;
   height              : auto;
   justify-content     : flex-start;
+  min-height          : 96px;
+  padding             : 17.0px 0;
   position            : relative;
+  transform           : rotate(0deg);
+  width               : 770px;
+}
+.tablet .wikipedia-preview-de-xYdG1v {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 53px;
+  min-width           : 386px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .line-copy-14-OCuCGB {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-11-HtZ2x5 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-8-6JUJQK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-12-bxBGxt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-13-JHArHo {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-top          : 62px;
+  min-height          : 58px;
+  padding             : 11.0px 0;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.tablet .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.tablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span2-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.tablet .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span29-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span30-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span31-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span32-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span33-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span34-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span35-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span36-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span37-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span38-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span39-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span40-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span41-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span42-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span43-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span44-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span45-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span46-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span47-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span48-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span49-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span50-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
+  align-items         : flex-end;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 123px;
+  margin-bottom       : -3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 263px;
+}
+.tablet .french-aZT9q3 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 15.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .conseil-de-s-351curit-351-xQ0kVC {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  margin-bottom       : -2px;
+  min-height          : 26px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
   width               : 374px;
 }
 .tablet .language-267-french-Clf84w {
@@ -1484,596 +2001,6 @@ a {
   transform           : rotate(0deg);
   width               : 371px;
 }
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-kobli1-dGAOB6 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  margin-left         : -23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 178px;
-}
-.tablet .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u732b-axv2FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 30px;
-}
-.tablet .language-267-chinese-hPMSIN {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 151px;
-}
-.tablet .header-6IR25F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 26.0px 188.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wikipedia-preview-de-xYdG1v {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 42px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 394px;
-}
-.tablet .line-copy-14-OCuCGB {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-11-HtZ2x5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-8-6JUJQK {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-12-bxBGxt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-13-JHArHo {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 58px;
-  justify-content     : flex-start;
-  margin-top          : 62px;
-  min-width           : 768px;
-  padding             : 0 99.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 570px;
-}
-.tablet .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.tablet .span2-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.tablet .span3-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.tablet .span12-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span13-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span14-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span15-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span16-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span17-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span18-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span19-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span20-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span21-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span22-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span23-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span24-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span25-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span26-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span27-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span28-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span29-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span30-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span31-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span32-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span33-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span34-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span35-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span36-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span37-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span38-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span39-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span44-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span45-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span46-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span47-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span48-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span49-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span50-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
-  align-items         : flex-end;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-bottom       : -3.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 263px;
-}
-.tablet .french-aZT9q3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .conseil-de-s-351curit-351-xQ0kVC {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-bottom       : -2px;
-  min-height          : 26px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1178px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.tablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 134px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 28px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wildlife-of-the-cent-uprjy7 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .language-267-english-8ddxMm {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 5px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .wildlife-in-the-cent-kvZZul {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  flex-shrink         : 0;
-  height              : 121px;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .mask-us8llM {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 120px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
-  background-color    : rgba(255,255,255,0);
-  height              : 120px;
-  left                : -16px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 172px;
-}
-.tablet .hindi-JPlgx7 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 373px;
-}
-.tablet .span1-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
 .tablet .span2-8RYNId {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
@@ -2215,6 +2142,218 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
+.tablet .span12-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span13-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span14-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span15-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span16-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span17-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span18-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span19-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span20-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span21-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span22-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span23-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span24-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span25-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span26-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span27-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span28-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  margin              : 0px;
+  min-height          : 1178px;
+  min-width           : 768.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.tablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 134px;
+  justify-content     : flex-start;
+  margin-left         : 15.0px;
+  margin-top          : 28px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .wildlife-of-the-cent-uprjy7 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .language-267-english-8ddxMm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 5px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .wildlife-in-the-cent-kvZZul {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  flex-shrink         : 0;
+  height              : 121px;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .mask-us8llM {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 120px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
+  background-color    : rgba(255,255,255,0);
+  height              : 120px;
+  left                : -16px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 172px;
+}
+.tablet .hindi-JPlgx7 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 16.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.tablet .span1-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
@@ -2327,7 +2466,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - desktop */
+/* ANIMA screen - mobile */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -2366,7 +2505,7 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.desktop .auto-flex2-44zkdR {
+.mobile .auto-flex4-ELRtbh {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2376,17 +2515,22 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 411px;
+  width               : 244px;
 }
-.desktop .overlap-group-Y7zamN {
+.mobile .auto-flex-1lKxzb {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -3px;
-  position            : relative;
-  width               : 1448px;
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 16px;
+  position            : absolute;
+  top                 : 233px;
+  width               : 329px;
 }
-.desktop .auto-flex4-n3q5lb {
+.mobile .auto-flex1-z4G5ff {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2396,9 +2540,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 244px;
 }
-.desktop .auto-flex3-UyO79H {
+.mobile .auto-flex1-dVguev {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2408,9 +2552,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 244px;
 }
-.desktop .auto-flex5-GtcQsT {
+.mobile .auto-flex2-220jab {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2420,132 +2564,177 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 387px;
+  width               : 244px;
 }
-.desktop .span53-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span54-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span55-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span56-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span57-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span58-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span59-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span60-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span61-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span62-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span63-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span64-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span65-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-BbMvx1 {
+.mobile .auto-flex3-4cUeiO {
   align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : auto;
   justify-content     : flex-start;
-  margin-left         : 79px;
-  overflow            : hidden;
   position            : relative;
-  transform           : rotate(0deg);
-  width               : 165px;
+  width               : 244px;
 }
-.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-KqcgaY {
+.mobile .auto-flex5-bW19Fw {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : -104px;
+  height              : auto;
+  justify-content     : flex-start;
   position            : relative;
-  transform           : rotate(0deg);
-  width               : 374px;
+  width               : 244px;
 }
-.desktop .line-copy-10-b6oKwJ {
+.mobile .span4-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span5-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span6-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span7-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span8-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span9-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span10-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span11-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span12-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span13-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span14-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span15-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span16-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span17-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span18-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span19-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span20-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span21-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span22-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span23-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span24-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span25-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span26-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span27-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .line-copy-5-18i8FR {
+  background-color    : rgba(255,255,255,0);
+  height              : 1px;
+  margin-left         : 0px;
+  position            : absolute;
+  top                 : 218px;
+  transform           : rotate(0deg);
+  width               : 329px;
+}
+.mobile .line-copy-6-KxxGUf {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 655px;
+  width               : 329px;
 }
-.desktop .line-copy-9-ROHgnd {
+.mobile .line-copy-8-UOMawG {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
+  height              : 3px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 655px;
+  width               : 327px;
 }
-.desktop .line-copy-7-oa5W5x {
+.mobile .line-copy-9-ReecKn {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
+  height              : 3px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 655px;
+  width               : 327px;
 }
-.desktop .line-copy-6-91jlDU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 26px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.desktop .group-copy-V5KGfj {
+.mobile .group-4-tz5U6c {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2553,418 +2742,202 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 134px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .u732b-DuJEpM {
+.mobile .conseil-de-s-351curit-351-dnl83x {
   background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 16.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 28px;
+  min-height          : 53px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 30px;
+  width               : 244px;
 }
-.desktop .language-267-chinese-C6QVBq {
+.mobile .language-267-french-copy-e5sx0i {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   height              : auto;
-  line-height         : 15.0px;
+  line-height         : 12.0px;
   margin-top          : 6px;
-  min-height          : 15px;
+  min-height          : 12px;
+  min-width           : 105px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : auto;
 }
-.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
+.mobile .le-conseil-de-s-351curi-hO1PGR {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 112px;
+  line-height         : 25.6px;
+  margin-top          : 13px;
+  min-height          : 50px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 387px;
+  width               : 244px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-ayVoYk {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 102px;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 70px;
 }
-.desktop .a594px-cat-poster-2-Gm3DUk {
+.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-jeIqb6 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 183px;
-  margin-top          : -4.0px;
+  height              : 72px;
+  margin-left         : -8px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 223px;
+  width               : 96px;
 }
-.desktop .wikipedia-preview-de-Opx0Ax {
+.mobile .rectangle-pwJWlx {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 490px;
-  line-height         : 52.8px;
+  height              : 64px;
+  left                : 0px;
   position            : absolute;
-  text-align          : center;
-  top                 : 34px;
+  top                 : 0px;
   transform           : rotate(0deg);
-  width               : 468px;
+  width               : 100%;
 }
-.desktop .group-2-x1w6tk {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .this-article-uses-ma-HtxcLv {
+.mobile .wikipedia-preview-de-iOCx9n {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
+  color               : rgba(16,42,67,1.0);
+  font-size           : 18.0px;
   height              : auto;
   line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
+  position            : absolute;
   text-align          : center;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-.desktop .span6-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span7-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span8-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span9-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span10-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span11-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span12-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span13-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span14-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span15-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span16-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span17-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span18-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span19-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span20-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span21-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span22-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span23-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span24-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span25-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span26-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span28-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span29-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span30-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span31-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span32-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span33-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span34-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span35-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span36-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span37-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span38-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span39-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span40-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span41-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span42-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span43-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span44-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span45-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span46-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span47-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span48-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span49-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span50-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span51-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span52-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .group-2-Aspe6u {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
-  position            : relative;
+  top                 : 21px;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .afrika-4uC00w {
+.mobile .line-copy-7-F7DH6O {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 329px;
+}
+.mobile .rectangle-9pCJ9o {
+  background-color    : rgba(240,244,248,1.0);
+  height              : 64px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 914px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobile .this-article-uses-ma-EzgM1D {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  font-size           : 9.0px;
+  height              : auto;
+  left                : 15px;
+  line-height         : 13.5px;
+  opacity             : 0.8;
+  position            : absolute;
+  text-align          : center;
+  top                 : 926px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobile .afrika-Gul2mr {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 16.0px;
   height              : auto;
-  line-height         : 27.6px;
-  min-height          : 32px;
+  line-height         : 21.6px;
+  min-height          : 22px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 92px;
+  width               : 58px;
 }
-.desktop .language-267-swahili-m1txXj {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.desktop .afrika-ni-bara-la-pi-GxxOgi {
+.mobile .afrika-ni-bara-la-pi-OYr63V {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 90px;
+  margin-top          : 12px;
+  min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 244px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
+.mobile .language-267-swahili-xNsxgx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 106px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-5-otkxsx {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 72px;
   justify-content     : center;
-  margin-left         : 81px;
+  margin-left         : 14px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 70px;
 }
-.desktop .a640px-kobli1-ZD2Mv9 {
+.mobile .a640px-kobli1-K0k2XP {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 72px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 259px;
+  width               : 108px;
 }
-.desktop .group-4-Tu8Qgm {
+.mobile .group-2nx1zF {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2972,192 +2945,66 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 93px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .conseil-de-s-351curit-351-cnPj8S {
+.mobile .u732b-bZyFhf {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-left         : 1.0px;
-  min-height          : 56px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 410px;
-}
-.desktop .language-267-french-yJiaiF {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.desktop .le-conseil-de-s-351curi-3ueV0P {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 22.4px;
-  margin-left         : 1.0px;
-  margin-top          : 13px;
-  min-height          : 45px;
-  opacity             : 0.9;
+  line-height         : 21.6px;
+  min-height          : 22px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 19px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-xl80nf {
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-10-tyohxF {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 78px;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 70px;
 }
-.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xflUv3 {
+.mobile .a594px-cat-poster-2-BCIy5g {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 72px;
+  margin-left         : -9px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 229px;
+  width               : 89px;
 }
-.desktop .group-5-hx9j3X {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 410px;
-}
-.desktop .span1-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span2-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span3-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span4-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span5-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span6-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span7-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span8-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span9-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span10-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span11-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span12-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span13-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span14-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span15-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .language-267-hindi-urZFhx {
+.mobile .language-267-chinese-OAmt2w {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 109px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : auto;
 }
-.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+.mobile .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-sJtR8x {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -3165,80 +3012,276 @@ a {
   height              : auto;
   line-height         : 16.0px;
   margin-top          : 12px;
-  min-height          : 78px;
+  min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 388px;
+  width               : 244px;
 }
-.desktop .span1-18ss8g {
+.mobile .span1-sJtR8x {
   letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.desktop .span2-18ss8g {
+.mobile .span2-sJtR8x {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.desktop .span3-18ss8g {
+.mobile .span3-sJtR8x {
   letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.desktop .span4-18ss8g {
+.mobile .span4-sJtR8x {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.desktop .span5-18ss8g {
+.mobile .span5-sJtR8x {
   letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.desktop .auto-flex1-CG2eCk {
+.mobile .group-5-x3axBF {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
   flex-shrink         : 0;
-  height              : auto;
+  height              : 106px;
   justify-content     : flex-start;
   position            : relative;
-  width               : 410px;
+  transform           : rotate(0deg);
+  width               : auto;
 }
-.desktop {
-  align-items         : center;
+.mobile .language-267-hindi-Lj5nam {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 99px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-gC6vFQ {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-NRjsGa {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -43px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 157px;
+}
+.mobile .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-jIxl1q {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .span1-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span2-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span3-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span4-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span5-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span6-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span7-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span8-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span9-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span10-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span11-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span12-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span13-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span14-jIxl1q {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span15-jIxl1q {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-43xp6U {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 50px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile {
   background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1520px;
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 978.0px;
+  min-width           : 360.0px;
   overflow            : hidden;
   position            : relative;
-  width               : 1440.0px;
+  width               : 100%;
 }
-.desktop .line-copy-5-18i8FR {
+.mobile .group-6-gOTYvh {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 21px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.desktop .rectangle-p6bHfG {
-  background-color    : rgba(255,255,255,0);
-  height              : 124px;
-  left                : 0px;
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 116px;
+  justify-content     : flex-start;
+  left                : 16px;
   position            : absolute;
-  top                 : 0px;
+  top                 : 87px;
   transform           : rotate(0deg);
-  width               : 1448px;
+  width               : auto;
 }
-.desktop .group-6-gOTYvh {
+.mobile .wildlife-of-the-cent-Lcxdup {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 43px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : center;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 108px;
+}
+.mobile .wildlife-in-the-cent-7opx9t {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 12px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .language-267-english-copy-4-kKZr7k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 107px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .group-3-62Pu44 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -3246,82 +3289,83 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
+  height              : 93px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 23px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .wildlife-of-the-cent-tglvvZ {
+.mobile .nikola-tesla-GJAZkp {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 16.0px;
   height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
+  line-height         : 21.6px;
+  min-height          : 22px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 410px;
+  width               : 112px;
 }
-.desktop .language-267-english-dTPrM4 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.desktop .wildlife-in-the-cent-03jDLA {
+.mobile .nikola-tesla-fue-un-YMzDDY {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 11px;
-  min-height          : 90px;
+  margin-top          : 12px;
+  min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 244px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-xTrxxP {
+.mobile .language-267-spanish-9zcnTL {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 109px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-qyTcHo {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
+  height              : 72px;
   justify-content     : flex-start;
-  margin-left         : 79px;
+  margin-left         : 14px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 70px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-3dOwce {
+.mobile .a535px-tesla-sarony-IWhYt3 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 180px;
-  margin-left         : -46px;
+  height              : 123px;
+  margin-left         : -10px;
+  margin-top          : -25.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 258px;
+  width               : 91px;
 }
-.desktop .group-3-iFKazk {
+.mobile .group-2-ODj6xO {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -3329,93 +3373,25 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 177px;
+  height              : 93px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .nikola-tesla-t0Y353 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 33px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 165px;
+.mobile .span1-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.desktop .language-267-spanish-YZuxPY {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
+.mobile .span2-43xp6U {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
-.desktop .nikola-tesla-en-cir-wZ5kG9 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 112px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 408px;
-}
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 176px;
-  justify-content     : flex-start;
-  margin-left         : 81px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 165px;
-}
-.desktop .a535px-tesla-sarony-nXSrlL {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 257px;
-  margin-left         : -11px;
-  margin-top          : -41.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 186px;
-}
-.desktop .auto-flex-jta0tg {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 410px;
+.mobile .span3-43xp6U {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 @media screen and (max-width: 767px) {
   .tablet {
