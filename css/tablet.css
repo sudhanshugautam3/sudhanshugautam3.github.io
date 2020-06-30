@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - desktop */
+/* ANIMA screen - tablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -143,21 +143,15 @@ a {
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
   --auto-palette-color-1: rgba(51,51,51,1.0);
   --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.desktop .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -3px;
-  position            : relative;
-  width               : 1448px;
-}
-.desktop .auto-flex3-UyO79H {
+.tablet .auto-flex-4RHks2 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -167,9 +161,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 374px;
 }
-.desktop .auto-flex5-GtcQsT {
+.tablet .auto-flex1-xWlRvG {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -179,9 +173,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 387px;
+  width               : 373px;
 }
-.desktop .auto-flex4-n3q5lb {
+.tablet .auto-flex3-fx0QnL {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -191,9 +185,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 372px;
 }
-.desktop .auto-flex1-CG2eCk {
+.tablet .auto-flex2-3LESXx {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -203,9 +197,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 410px;
+  width               : 374px;
 }
-.desktop .auto-flex-jta0tg {
+.tablet .auto-flex4-aljjS1 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -215,9 +209,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 410px;
+  width               : 371px;
 }
-.desktop .auto-flex2-44zkdR {
+.tablet .auto-flex5-xYhCyw {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -227,222 +221,34 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 411px;
+  width               : 372px;
 }
-.desktop .wikipedia-preview-de-tWk9ql {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 490px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 34px;
-  transform           : rotate(0deg);
-  width               : 468px;
-}
-.desktop .span36-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span37-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span38-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span39-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span40-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span41-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span42-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span43-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span44-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span45-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span46-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span47-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span48-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span49-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span50-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span51-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span52-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span53-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span54-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span55-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span56-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span57-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span58-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span59-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span60-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span61-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span62-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span63-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span64-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span65-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-BbMvx1 {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 79px;
+  margin-left         : 25px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 141px;
 }
-.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-KqcgaY {
+.tablet .a640px-kobli1-dGAOB6 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : -104px;
+  height              : 120px;
+  margin-left         : -23px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 374px;
+  width               : 178px;
 }
-.desktop .line-copy-10-b6oKwJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.desktop .line-copy-9-ROHgnd {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 22.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 654px;
-}
-.desktop .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 22.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 654px;
-}
-.desktop .line-copy-6-91jlDU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 22.0px;
-  margin-top          : 26px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 654px;
-}
-.desktop .group-copy-V5KGfj {
+.tablet .chinese-LPUsSV {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -450,15 +256,15 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
+  margin-left         : 17.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .u732b-DuJEpM {
+.tablet .u732b-axv2FR {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   font-size           : 24.0px;
@@ -470,7 +276,7 @@ a {
   transform           : rotate(0deg);
   width               : 30px;
 }
-.desktop .language-267-chinese-C6QVBq {
+.tablet .language-267-chinese-hPMSIN {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -484,7 +290,7 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
+.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -492,265 +298,273 @@ a {
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 112px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 387px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
   justify-content     : center;
-  margin-left         : 102px;
+  margin-left         : 26px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 141px;
 }
-.desktop .a594px-cat-poster-2-Gm3DUk {
+.tablet .a594px-cat-poster-2-5Vf5Gb {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 183px;
+  height              : 124px;
   margin-top          : -4.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 223px;
+  width               : 151px;
 }
-.desktop .span9-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span10-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span11-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span12-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span13-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span14-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span15-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .language-267-hindi-urZFhx {
+.tablet .header-6IR25F {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
   flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
+  height              : 96px;
+  justify-content     : flex-start;
+  padding             : 26.0px 188.0px;
   position            : relative;
-  text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : auto;
 }
-.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+.tablet .wikipedia-preview-de-xYdG1v {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
+  color               : var(--auto-palette-color-5);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 25.0px;
   height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
-  min-height          : 78px;
-  opacity             : 0.9;
+  line-height         : 52.8px;
+  min-height          : 42px;
   position            : relative;
-  text-align          : left;
+  text-align          : center;
   transform           : rotate(0deg);
-  width               : 388px;
+  width               : 394px;
 }
-.desktop .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span4-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span5-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span6-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span7-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span8-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span9-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span10-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span11-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span12-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span13-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span14-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span15-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span16-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span17-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span18-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span19-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span20-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span21-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span22-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span23-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span24-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span25-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span26-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span28-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span29-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span30-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span31-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span32-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span33-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span34-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span35-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .rectangle-p6bHfG {
+.tablet .line-copy-14-OCuCGB {
   background-color    : rgba(255,255,255,0);
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
   transform           : rotate(0deg);
-  width               : 1448px;
+  width               : 540px;
 }
-.desktop .group-6-gOTYvh {
+.tablet .line-copy-11-HtZ2x5 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-8-6JUJQK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-12-bxBGxt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-13-JHArHo {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-start;
+  margin-top          : 62px;
+  min-width           : 768px;
+  padding             : 0 99.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.tablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span2-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.tablet .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span31-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span32-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span33-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span34-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span35-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span36-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span37-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span38-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span39-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span40-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span41-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span42-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span43-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span44-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span45-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span46-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span47-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span48-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span49-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span50-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
+  align-items         : flex-end;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 123px;
+  margin-bottom       : -3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 263px;
+}
+.tablet .french-aZT9q3 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -758,28 +572,29 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 23px;
+  margin-left         : 15.0px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .wildlife-of-the-cent-tglvvZ {
+.tablet .conseil-de-s-351curit-351-xQ0kVC {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 58px;
+  margin-bottom       : -2px;
+  min-height          : 26px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 410px;
+  width               : 374px;
 }
-.desktop .language-267-english-dTPrM4 {
+.tablet .language-267-french-Clf84w {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -793,47 +608,46 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .wildlife-in-the-cent-03jDLA {
+.tablet .le-conseil-de-s-351curi-sjW4ll {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 11px;
-  min-height          : 90px;
+  margin-top          : 10px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-xTrxxP {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 180px;
-  justify-content     : flex-start;
-  margin-left         : 79px;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 141px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-3dOwce {
+.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 180px;
-  margin-left         : -46px;
+  height              : 120px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 258px;
+  width               : 157px;
 }
-.desktop .group-3-iFKazk {
+.tablet .spanish-WFnFvQ {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -841,19 +655,19 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 177px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
+  margin-left         : 16.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .nikola-tesla-t0Y353 {
+.tablet .nikola-tesla-RMUsLm {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
   min-height          : 33px;
@@ -862,7 +676,7 @@ a {
   transform           : rotate(0deg);
   width               : 165px;
 }
-.desktop .language-267-spanish-YZuxPY {
+.tablet .language-267-spanish-O3rCHM {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -876,7 +690,7 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .nikola-tesla-en-cir-wZ5kG9 {
+.tablet .nikola-tesla-en-cir-lNMHMC {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -884,40 +698,39 @@ a {
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 112px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 372px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 176px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 81px;
+  margin-left         : 25px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 165px;
+  width               : 141px;
 }
-.desktop .a535px-tesla-sarony-nXSrlL {
+.tablet .a535px-tesla-sarony-QYu6jR {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 257px;
-  margin-left         : -11px;
-  margin-top          : -41.0px;
+  height              : 195px;
+  margin-top          : -37.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 186px;
+  width               : 141px;
 }
-.desktop .group-2-Aspe6u {
+.tablet .swahili-QHGid8 {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -925,15 +738,15 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 120px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
+  margin-left         : 17.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .afrika-4uC00w {
+.tablet .afrika-hqxtPd {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -946,7 +759,7 @@ a {
   transform           : rotate(0deg);
   width               : 92px;
 }
-.desktop .language-267-english-copy-2-MI1PNx {
+.tablet .language-267-swahili-HjYhnn {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -958,9 +771,9 @@ a {
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 113px;
+  width               : 109px;
 }
-.desktop .afrika-ni-bara-la-pi-GxxOgi {
+.tablet .afrika-ni-bara-la-pi-3xVBI0 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -968,68 +781,68 @@ a {
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 90px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 371px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 81px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 165px;
-}
-.desktop .a640px-kobli1-ZD2Mv9 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 175px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 259px;
-}
-.desktop .group-4-Tu8Qgm {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .conseil-de-s-351curit-351-cnPj8S {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
+.tablet .span4-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
   line-height         : 27.6px;
-  margin-left         : 1.0px;
-  min-height          : 56px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 410px;
 }
-.desktop .language-267-french-yJiaiF {
+.tablet .span5-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span6-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span7-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span8-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span9-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span10-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span11-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span12-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span13-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span14-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span15-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .language-267-hindi-XhFRiV {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -1043,47 +856,170 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.desktop .le-conseil-de-s-351curi-3ueV0P {
+.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 22.4px;
-  margin-left         : 1.0px;
-  margin-top          : 13px;
-  min-height          : 45px;
+  line-height         : 16.0px;
+  margin-top          : 10px;
+  min-height          : 52px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 408px;
+  width               : 373px;
 }
-.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-xl80nf {
-  align-items         : flex-start;
+.tablet .span1-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span2-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span3-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span4-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span5-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span6-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span7-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span8-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span9-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span10-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span11-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span12-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span13-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span14-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span15-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span16-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span17-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span18-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span19-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span20-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span21-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span22-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span23-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span24-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span25-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span26-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span27-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span28-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span29-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span30-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet {
+  align-items         : center;
   background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
   box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 78px;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1178px;
   overflow            : hidden;
   position            : relative;
-  transform           : rotate(0deg);
-  width               : 165px;
+  width               : 768.0px;
 }
-.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xflUv3 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 175px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 229px;
-}
-.desktop .group-5-hx9j3X {
+.tablet .english-GlKqzs {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1091,84 +1027,126 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : 134px;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
+  margin-left         : 15.0px;
+  margin-top          : 28px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .wildlife-of-the-cent-uprjy7 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .language-267-english-8ddxMm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 5px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .wildlife-in-the-cent-kvZZul {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  flex-shrink         : 0;
+  height              : 121px;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .mask-us8llM {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 120px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
+  background-color    : rgba(255,255,255,0);
+  height              : 120px;
+  left                : -16px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 172px;
+}
+.tablet .hindi-JPlgx7 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 16.0px;
   margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 24.0px;
+  font-size           : 21.0px;
   height              : auto;
-  line-height         : 24.0px;
+  line-height         : 21.0px;
   min-height          : 35px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 410px;
+  width               : 373px;
 }
-.desktop .span1-lnd7Jx {
+.tablet .span1-8RYNId {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.desktop .span2-lnd7Jx {
+.tablet .span2-8RYNId {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.desktop .span3-lnd7Jx {
+.tablet .span3-8RYNId {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
-}
-.desktop .span4-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span5-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span6-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span7-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .span8-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.desktop .line-copy-5-18i8FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 20.0px;
-  margin-top          : 21px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 654px;
-}
-.desktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-4);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1466px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -1313,13 +1291,15 @@ a {
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
   --auto-palette-color-1: rgba(51,51,51,1.0);
   --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.mobile .auto-flex-jta0tg {
+.mobile .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1331,7 +1311,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.mobile .auto-flex2-44zkdR {
+.mobile .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1350,7 +1330,7 @@ a {
   position            : relative;
   width               : 362px;
 }
-.mobile .auto-flex3-UyO79H {
+.mobile .auto-flex5-NyFzAD {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1374,113 +1354,19 @@ a {
   position            : relative;
   width               : 244px;
 }
-.mobile .auto-flex5-NyFzAD {
-  align-items         : flex-start;
+.mobile .this-article-uses-ma-To2rdp {
   background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
+  color               : var(--auto-palette-color-4);
+  font-size           : 9.0px;
   height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -8px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 96px;
-}
-.mobile .rectangle-p6bHfG {
-  background-color    : rgba(255,255,255,0);
-  height              : 64px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 362px;
-}
-.mobile .wikipedia-preview-de-tWk9ql {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 45px;
-  line-height         : 21.0px;
+  left                : 15px;
+  line-height         : 13.5px;
+  opacity             : 0.8;
   position            : absolute;
   text-align          : center;
-  top                 : 21px;
+  top                 : 12px;
   transform           : rotate(0deg);
-  width               : 272px;
-}
-.mobile .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 329px;
-}
-.mobile .span10-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span11-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span12-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span13-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span14-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .span15-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
-  min-height          : 50px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 244px;
-}
-.mobile .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  width               : 330px;
 }
 .mobile .span4-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -1603,9 +1489,9 @@ a {
 .mobile .line-copy-6-91jlDU {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 2px;
+  height              : 1px;
   margin-left         : 1.0px;
-  margin-top          : 13px;
+  margin-top          : 14px;
   position            : relative;
   transform           : rotate(0deg);
   width               : 329px;
@@ -1690,7 +1576,7 @@ a {
 }
 .mobile .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
@@ -1704,74 +1590,77 @@ a {
   transform           : rotate(0deg);
   width               : 70px;
 }
-.mobile .nikola-tesla-t0Y353 {
+.mobile .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -8px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 96px;
+}
+.mobile .rectangle-p6bHfG {
+  background-color    : rgba(255,255,255,0);
+  height              : 64px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 362px;
+}
+.mobile .wikipedia-preview-de-Opx0Ax {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 18.0px;
   height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
+  left                : 45px;
+  line-height         : 21.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 21px;
   transform           : rotate(0deg);
-  width               : 112px;
+  width               : 272px;
 }
-.mobile .nikola-tesla-fue-un-K6xHG8 {
+.mobile .line-copy-7-oa5W5x {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 12px;
-  min-height          : 43px;
-  opacity             : 0.9;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 15px;
   position            : relative;
-  text-align          : left;
   transform           : rotate(0deg);
-  width               : 244px;
+  width               : 329px;
 }
-.mobile .language-267-spanish-YZuxPY {
+.mobile .group-3-bgGCSh {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
+  height              : 64px;
+  margin-top          : 40px;
   position            : relative;
-  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobile .group-iAM3bT {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 64px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
   transform           : rotate(0deg);
   width               : auto;
 }
-.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
+.mobile .group-2-copy-7tBdnF {
+  background-color    : rgba(240,244,248,1.0);
   flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
+  height              : 64px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 70px;
-}
-.mobile .a535px-tesla-sarony-nXSrlL {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-left         : -10px;
-  margin-top          : -25.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 91px;
+  width               : 360px;
 }
 .mobile .group-2-Aspe6u {
   align-items         : flex-start;
@@ -1833,7 +1722,7 @@ a {
 }
 .mobile .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
@@ -1884,7 +1773,7 @@ a {
 }
 .mobile .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
@@ -1991,7 +1880,7 @@ a {
 }
 .mobile .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
@@ -2066,7 +1955,74 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.mobile .auto-flex1-CG2eCk {
+.mobile .span10-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span11-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span12-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span13-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span14-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .span15-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.mobile .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 50px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .span1-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span2-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span3-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .auto-flex-jta0tg {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.mobile .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2080,14 +2036,14 @@ a {
 }
 .mobile {
   align-items         : center;
-  background-color    : var(--auto-palette-color-4);
+  background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
   margin              : 0px;
-  min-height          : 894px;
+  min-height          : 978px;
   min-width           : 360.0px;
   overflow            : hidden;
   position            : relative;
@@ -2123,7 +2079,7 @@ a {
 }
 .mobile .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
   box-sizing          : border-box;
   display             : inline-flex;
@@ -2189,6 +2145,75 @@ a {
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
+}
+.mobile .nikola-tesla-t0Y353 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 112px;
+}
+.mobile .nikola-tesla-fue-un-K6xHG8 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 12px;
+  min-height          : 43px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 244px;
+}
+.mobile .language-267-spanish-YZuxPY {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 109px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 70px;
+}
+.mobile .a535px-tesla-sarony-nXSrlL {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 123px;
+  margin-left         : -10px;
+  margin-top          : -25.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 91px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -2302,7 +2327,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - tablet */
+/* ANIMA screen - desktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -2333,13 +2358,15 @@ a {
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
   --auto-palette-color-1: rgba(51,51,51,1.0);
   --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.tablet .auto-flex1-xWlRvG {
+.desktop .auto-flex5-GtcQsT {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2349,9 +2376,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 373px;
+  width               : 387px;
 }
-.tablet .auto-flex2-3LESXx {
+.desktop .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2361,9 +2388,17 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 374px;
+  width               : 411px;
 }
-.tablet .auto-flex3-fx0QnL {
+.desktop .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -3px;
+  position            : relative;
+  width               : 1448px;
+}
+.desktop .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2373,9 +2408,9 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 372px;
+  width               : 408px;
 }
-.tablet .auto-flex5-xYhCyw {
+.desktop .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2385,30 +2420,128 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 372px;
+  width               : 408px;
 }
-.tablet .auto-flex4-aljjS1 {
+.desktop .span54-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span55-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span56-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span57-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span58-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span59-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span60-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span61-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span62-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span63-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span64-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span65-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-2-BbMvx1 {
   align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
   box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
+  display             : inline-flex;
+  flex-direction      : row;
   flex-shrink         : 0;
-  height              : auto;
+  height              : 175px;
   justify-content     : flex-start;
-  position            : relative;
-  width               : 371px;
-}
-.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-bottom       : -3.0px;
+  margin-left         : 79px;
+  overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 263px;
+  width               : 165px;
 }
-.tablet .french-aZT9q3 {
+.desktop .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-KqcgaY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  margin-left         : -104px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.desktop .line-copy-10-b6oKwJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .line-copy-9-ROHgnd {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .line-copy-7-oa5W5x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .line-copy-6-91jlDU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 26px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .group-copy-V5KGfj {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2416,29 +2549,27 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 14px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.tablet .conseil-de-s-351curit-351-xQ0kVC {
+.desktop .u732b-DuJEpM {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 21.0px;
+  font-size           : 24.0px;
   height              : auto;
   line-height         : 27.6px;
-  margin-bottom       : -2px;
-  min-height          : 26px;
+  min-height          : 28px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 374px;
+  width               : 30px;
 }
-.tablet .language-267-french-Clf84w {
+.desktop .language-267-chinese-C6QVBq {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -2452,7 +2583,7 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.tablet .le-conseil-de-s-351curi-sjW4ll {
+.desktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -2460,38 +2591,333 @@ a {
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 45px;
+  min-height          : 112px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 372px;
+  width               : 387px;
 }
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 175px;
   justify-content     : center;
-  margin-left         : 22px;
+  margin-left         : 102px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 141px;
+  width               : 165px;
 }
-.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
+.desktop .a594px-cat-poster-2-Gm3DUk {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 183px;
+  margin-top          : -4.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 157px;
+  width               : 223px;
 }
-.tablet .spanish-WFnFvQ {
+.desktop .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 490px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 468px;
+}
+.desktop .group-2-x1w6tk {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .this-article-uses-ma-HtxcLv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 630px;
+}
+.desktop .span10-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span11-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span12-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span13-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span14-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span15-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span16-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span17-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span18-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span19-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span20-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span21-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span22-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span23-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span24-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span25-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span26-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span27-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span28-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span29-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span30-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span31-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span32-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span33-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span34-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span35-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span36-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span37-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span38-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span39-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span40-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span41-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span42-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span43-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span44-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span45-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span46-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span47-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span48-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span49-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span50-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span51-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span52-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span53-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .language-267-swahili-m1txXj {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .afrika-ni-bara-la-pi-GxxOgi {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 90px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 81px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-kobli1-ZD2Mv9 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 259px;
+}
+.desktop .group-4-Tu8Qgm {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2499,19 +2925,394 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.tablet .nikola-tesla-RMUsLm {
+.desktop .conseil-de-s-351curit-351-cnPj8S {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 21.0px;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  margin-left         : 1.0px;
+  min-height          : 56px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-french-yJiaiF {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .le-conseil-de-s-351curi-3ueV0P {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-left         : 1.0px;
+  margin-top          : 13px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-3-xl80nf {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 78px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xflUv3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 175px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 229px;
+}
+.desktop .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .span1-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span2-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span3-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span4-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span5-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span6-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span7-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span8-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span9-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span10-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span11-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span12-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span13-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span14-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .span15-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.desktop .language-267-hindi-urZFhx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 78px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 388px;
+}
+.desktop .span1-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span2-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span3-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span4-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span5-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span6-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span7-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span8-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span9-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .auto-flex-jta0tg {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 410px;
+}
+.desktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1520px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.desktop .line-copy-5-18i8FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 21px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.desktop .rectangle-p6bHfG {
+  background-color    : rgba(255,255,255,0);
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1448px;
+}
+.desktop .group-6-gOTYvh {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .wildlife-of-the-cent-tglvvZ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 410px;
+}
+.desktop .language-267-english-dTPrM4 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.desktop .wildlife-in-the-cent-03jDLA {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 11px;
+  min-height          : 90px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 408px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-xTrxxP {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
+  justify-content     : flex-start;
+  margin-left         : 79px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-3dOwce {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 180px;
+  margin-left         : -46px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 258px;
+}
+.desktop .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 177px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .nikola-tesla-t0Y353 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
   height              : auto;
   line-height         : 27.6px;
   min-height          : 33px;
@@ -2520,7 +3321,7 @@ a {
   transform           : rotate(0deg);
   width               : 165px;
 }
-.tablet .language-267-spanish-O3rCHM {
+.desktop .language-267-spanish-YZuxPY {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -2534,7 +3335,7 @@ a {
   transform           : rotate(0deg);
   width               : 113px;
 }
-.tablet .nikola-tesla-en-cir-lNMHMC {
+.desktop .nikola-tesla-en-cir-wZ5kG9 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -2542,39 +3343,40 @@ a {
   height              : auto;
   line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 45px;
+  min-height          : 112px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 372px;
+  width               : 408px;
 }
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
+.desktop .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 176px;
   justify-content     : flex-start;
-  margin-left         : 25px;
+  margin-left         : 81px;
   overflow            : hidden;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 141px;
+  width               : 165px;
 }
-.tablet .a535px-tesla-sarony-QYu6jR {
+.desktop .a535px-tesla-sarony-nXSrlL {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 195px;
-  margin-top          : -37.0px;
+  height              : 257px;
+  margin-left         : -11px;
+  margin-top          : -41.0px;
   position            : relative;
   transform           : rotate(0deg);
-  width               : 141px;
+  width               : 186px;
 }
-.tablet .swahili-QHGid8 {
+.desktop .group-2-Aspe6u {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2582,15 +3384,15 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 120px;
+  height              : 175px;
   justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.tablet .afrika-hqxtPd {
+.desktop .afrika-4uC00w {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -2603,688 +3405,7 @@ a {
   transform           : rotate(0deg);
   width               : 92px;
 }
-.tablet .language-267-swahili-HjYhnn {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 109px;
-}
-.tablet .afrika-ni-bara-la-pi-3xVBI0 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 371px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-kobli1-dGAOB6 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  margin-left         : -23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 178px;
-}
-.tablet .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u732b-axv2FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 30px;
-}
-.tablet .language-267-chinese-hPMSIN {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 151px;
-}
-.tablet .header-6IR25F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 26.0px 188.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wikipedia-preview-de-BxMxtl {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 42px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 394px;
-}
-.tablet .line-copy-14-OCuCGB {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-11-HtZ2x5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-8-6JUJQK {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-12-bxBGxt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-13-JHArHo {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 2px;
-  margin-left         : 18.0px;
-  margin-top          : 24px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .span8-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span9-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span10-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span11-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span12-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span13-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span14-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span15-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span16-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span17-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span18-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span19-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span20-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span21-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span22-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span23-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span24-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span25-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span26-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span27-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span28-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span29-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span30-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span31-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span32-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span33-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span34-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span35-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span36-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span37-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span38-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span39-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span44-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span45-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span46-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span47-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span48-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span49-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span50-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
-  align-items         : flex-end;
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-4);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1088px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.tablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 134px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 28px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wildlife-of-the-cent-uprjy7 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .language-267-english-8ddxMm {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 5px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .wildlife-in-the-cent-kvZZul {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  flex-shrink         : 0;
-  height              : 121px;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .mask-us8llM {
-  background-color    : var(--auto-palette-color-3);
-  border-radius       : 3.0px;
-  height              : 120px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
-  background-color    : rgba(255,255,255,0);
-  height              : 120px;
-  left                : -16px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 172px;
-}
-.tablet .hindi-JPlgx7 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 373px;
-}
-.tablet .span1-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span2-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span3-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span4-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span5-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span6-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span7-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span8-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span9-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span10-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span11-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span12-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span13-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span14-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span15-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .language-267-hindi-XhFRiV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 10px;
-  min-height          : 52px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 373px;
-}
-.tablet .span1-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span2-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span3-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span4-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span5-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span6-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span7-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .auto-flex-4RHks2 {
+.desktop .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -3294,7 +3415,7 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 374px;
+  width               : 410px;
 }
 @media screen and (max-width: 767px) {
   .tablet {

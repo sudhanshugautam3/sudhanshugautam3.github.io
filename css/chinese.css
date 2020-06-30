@@ -112,330 +112,6 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinese */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-}
-.chinese .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 505px;
-  margin-right        : 1.0px;
-  margin-top          : 44px;
-  position            : relative;
-  width               : 959px;
-}
-.chinese {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-4);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1386px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.chinese .group-xWfRCW {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-article-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 124px;
-  justify-content     : flex-start;
-  margin-top          : -3px;
-  padding             : 34.0px 490.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinese .wikipedia-preview-de-1PLwYB {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 30.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 54px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 468px;
-}
-.chinese .u732b-wRVu4i {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 40.0px;
-  height              : auto;
-  line-height         : 43.7px;
-  margin-right        : 590.0px;
-  margin-top          : 40px;
-  min-height          : 44px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 42px;
-}
-.chinese .line-copy-5-4RoLgK {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 163px;
-  position            : absolute;
-  top                 : 347px;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 134px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 632px;
-}
-.chinese .span1-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span2-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span3-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span4-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span5-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span6-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span7-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .span8-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span9-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 315px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 632px;
-}
-.chinese .western-lowland-gorila-gorilla-gorilla-xsQWv3 {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 505px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 959px;
-}
-.chinese .a891px-cat-poster-2-nsyORG {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 780px;
-  margin-bottom       : -232.0px;
-  margin-left         : -4px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 966px;
-}
-.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 95px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper ,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
 /* ANIMA screen - chinesetablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -467,11 +143,13 @@ a {
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
   --auto-palette-color-1: rgba(51,51,51,1.0);
   --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
 .chinesetablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
@@ -479,6 +157,24 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
+}
+.chinesetablet .span4-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span5-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span6-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span7-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span8-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
 .chinesetablet .span9-wawyPq {
   letter-spacing      : 0.00px;
@@ -558,52 +254,86 @@ a {
   transform           : rotate(0deg);
   width               : 18px;
 }
+.chinesetablet .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 25.0px;
+  height              : auto;
+  left                : 188px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 26px;
+  transform           : rotate(0deg);
+  width               : 394px;
+}
+.chinesetablet .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-end;
+  margin-top          : 40px;
+  min-width           : 768px;
+  padding             : 0 75.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinesetablet .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.chinesetablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span2-6Gs33k {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
 .chinesetablet {
   align-items         : center;
-  background-color    : var(--auto-palette-color-4);
+  background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 842px;
+  min-height          : 910px;
   overflow            : hidden;
   position            : relative;
   width               : 768.0px;
 }
 .chinesetablet .header-xPpEh7 {
-  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/swahili-tablet-rectangle.png");
   background-size     : 100% 100%;
-  box-sizing          : border-box;
   cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
   height              : 96px;
-  justify-content     : flex-start;
   left                : 0px;
-  padding             : 26.0px 188.0px;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
-  width               : auto;
-}
-.chinesetablet .wikipedia-preview-de-fdhE5J {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 42px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 394px;
+  width               : 770px;
 }
 .chinesetablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   height              : 273px;
   left                : 1px;
@@ -614,7 +344,7 @@ a {
   width               : 768px;
 }
 .chinesetablet .mask-biZW9V {
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   height              : 272px;
   left                : 0px;
@@ -684,24 +414,6 @@ a {
   letter-spacing      : 0.00px;
 }
 .chinesetablet .span3-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span4-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span5-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span6-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span7-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span8-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
@@ -816,7 +528,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinese1 */
+/* ANIMA screen - chinesedesktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -847,113 +559,392 @@ a {
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
   --auto-palette-color-1: rgba(51,51,51,1.0);
   --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(215,215,215,1.0);
-  --auto-palette-color-4: rgba(255,255,255,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.chinese1 .overlap-group-4tDfkw {
+.chinesedesktop .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 239px;
+  height              : 124px;
+  margin-top          : -3px;
   position            : relative;
-  width               : 360px;
+  width               : 1448px;
 }
-.chinese1 .auto-flex-1lKxzb {
-  align-items         : center;
+.chinesedesktop .overlap-group1-yBpAcz {
   background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 505px;
+  margin-right        : 1.0px;
+  margin-top          : 44px;
+  position            : relative;
+  width               : 959px;
+}
+.chinesedesktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 62px;
-  width               : 360px;
-}
-.chinese1 {
-  background-color    : var(--auto-palette-color-4);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 974.0px;
-  min-width           : 360.0px;
+  min-height          : 1484px;
   overflow            : hidden;
   position            : relative;
-  width               : 100%;
+  width               : 1440.0px;
 }
-.chinese1 .rectangle-pwJWlx {
-  background-color    : var(--auto-palette-color-4);
-  height              : 62px;
-  left                : -2px;
+.chinesedesktop .group-Ho2qZs {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/desktop-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
-  width               : calc(100.00% + 4px);
+  width               : 1448px;
 }
-.chinese1 .u732b-pwA0Ld {
-  align-self          : flex-start;
+.chinesedesktop .u732b-wRVu4i {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 40.0px;
   height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
+  line-height         : 43.7px;
+  margin-right        : 590.0px;
+  margin-top          : 40px;
+  min-height          : 44px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 21px;
+  width               : 42px;
 }
-.chinese1 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-8QNMLJ {
+.chinesedesktop .line-copy-5-pxb10c {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 163px;
+  position            : absolute;
+  top                 : 347px;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.chinesedesktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 21.0px;
   height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 144px;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 134px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 330px;
+  width               : 632px;
 }
-.chinese1 .span1-8QNMLJ {
+.chinesedesktop .span1-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese1 .span2-8QNMLJ {
+.chinesedesktop .span2-wawyPq {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese1 .span3-8QNMLJ {
+.chinesedesktop .span3-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese1 .span4-8QNMLJ {
+.chinesedesktop .span4-wawyPq {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese1 .span5-8QNMLJ {
+.chinesedesktop .span5-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese1 .span6-8QNMLJ {
+.chinesedesktop .span6-wawyPq {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese1 .span7-8QNMLJ {
+.chinesedesktop .span7-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese1 .span8-8QNMLJ {
+.chinesedesktop .span8-wawyPq {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese1 .span9-8QNMLJ {
+.chinesedesktop .span9-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese1 .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FVrrrN {
+.chinesedesktop .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 315px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.chinesedesktop .western-lowland-gorila-gorilla-gorilla-NmJ8ip {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 505px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 959px;
+}
+.chinesedesktop .a891px-cat-poster-2-8WnsoH {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 780px;
+  margin-bottom       : -232.0px;
+  margin-left         : -4px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 966px;
+}
+.chinesedesktop .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-right        : 2.0px;
+  margin-top          : 22px;
+  min-height          : 95px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 630px;
+}
+.chinesedesktop .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 490px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  transform           : rotate(0deg);
+  width               : 468px;
+}
+.chinesedesktop .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-right        : 2.0px;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinesedesktop .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 630px;
+}
+.chinesedesktop .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span2-6Gs33k {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+/* ANIMA screen - chinese */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.chinese .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 239px;
+  margin-top          : 0px;
+  position            : relative;
+  width               : 360px;
+}
+.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
@@ -968,7 +959,7 @@ a {
   transform           : rotate(0deg);
   width               : 330px;
 }
-.chinese1 .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-lDqx5G {
+.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
@@ -983,9 +974,9 @@ a {
   transform           : rotate(0deg);
   width               : 330px;
 }
-.chinese1 .a594px-cat-poster-2-wrlWH5 {
+.chinese .a594px-cat-poster-2-mQvQTz {
   align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(215,215,215,1.0);
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
@@ -998,7 +989,7 @@ a {
   transform           : rotate(0deg);
   width               : 360px;
 }
-.chinese1 .a594px-cat-poster-2-x7alKC {
+.chinese .a594px-cat-poster-2-xx4VmP {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 291px;
@@ -1007,7 +998,7 @@ a {
   transform           : rotate(0deg);
   width               : 360px;
 }
-.chinese1 .group-2-XxOQkl {
+.chinese .group-2-8SiD8y {
   background-color    : rgba(255,255,255,0);
   cursor              : pointer;
   height              : 24px;
@@ -1017,7 +1008,7 @@ a {
   transform           : rotate(0deg);
   width               : 24px;
 }
-.chinese1 .group-4-6YqAyG {
+.chinese .group-4-xTHy2w {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1031,7 +1022,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinese1 .oval-9LQKxJ {
+.chinese .oval-uZFgU3 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 23px;
@@ -1039,7 +1030,7 @@ a {
   transform           : rotate(0deg);
   width               : 24px;
 }
-.chinese1 .group-4-QWMfcN {
+.chinese .group-4-N5dxCB {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
@@ -1055,7 +1046,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinese1 .fill-3-yJdi9H {
+.chinese .fill-3-KbVuVx {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 12px;
@@ -1063,37 +1054,168 @@ a {
   transform           : rotate(0deg);
   width               : 12px;
 }
-.chinese1 .wikipedia-preview-de-9jJ7iA {
+.chinese .group-xWfRCW {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
+  flex-shrink         : 0;
+  height              : 64px;
+  margin-top          : 34px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .group-2-copy-xLsqzf {
+  background-color    : rgba(240,244,248,1.0);
+  height              : 64px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .this-article-uses-ma-IENLXr {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  font-size           : 9.0px;
   height              : auto;
-  left                : 44px;
-  line-height         : 21.0px;
+  left                : 15px;
+  line-height         : 13.5px;
   position            : absolute;
   text-align          : center;
-  top                 : 21px;
+  top                 : 11px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.chinese .span1-IENLXr {
+  letter-spacing      : 0.00px;
+}
+.chinese .span2-IENLXr {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span3-IENLXr {
+  letter-spacing      : 0.00px;
+}
+.chinese {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1057px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 360.0px;
+}
+.chinese .group-3-iFKazk {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 62px;
+  justify-content     : flex-start;
+  min-width           : 364px;
+  padding             : 20.0px 46.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinese .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 21px;
+  position            : relative;
+  text-align          : center;
   transform           : rotate(0deg);
   width               : 272px;
+}
+.chinese .u732b-wRVu4i {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 21px;
+}
+.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
+  min-height          : 144px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.chinese .span1-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span2-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span3-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span4-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span5-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span6-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span7-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span8-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span9-wawyPq {
+  letter-spacing      : 0.00px;
 }
 @media screen and (max-width: 767px) {
   .chinesetablet {
     display             : none ;
   }
-  .chinese {
+  .chinesedesktop {
     display             : none ;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .chinese1 {
+  .chinese {
     display             : none ;
   }
-  .chinese {
+  .chinesedesktop {
     display             : none ;
   }
 }
 @media screen and (min-width: 1440px) {
-  .chinese1 {
+  .chinese {
     display             : none ;
   }
   .chinesetablet {

@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - englishtablet */
+/* ANIMA screen - spanishtablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -151,14 +151,14 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.englishtablet .overlap-group-Y7zamN {
+.spanishtablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 367px;
   position            : relative;
   width               : 770px;
 }
-.englishtablet {
+.spanishtablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
@@ -166,12 +166,12 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 1176px;
+  min-height          : 910px;
   overflow            : hidden;
   position            : relative;
   width               : 768.0px;
 }
-.englishtablet .header-xPpEh7 {
+.spanishtablet .header-xPpEh7 {
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/swahili-tablet-rectangle.png");
   background-size     : 100% 100%;
@@ -183,7 +183,7 @@ a {
   transform           : rotate(0deg);
   width               : 770px;
 }
-.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+.spanishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   height              : 273px;
@@ -194,7 +194,7 @@ a {
   transform           : rotate(0deg);
   width               : 768px;
 }
-.englishtablet .mask-biZW9V {
+.spanishtablet .mask-biZW9V {
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 3.0px;
   height              : 272px;
@@ -204,23 +204,23 @@ a {
   transform           : rotate(0deg);
   width               : 768px;
 }
-.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-AIOhYs {
+.spanishtablet .a802px-tesla-sarony-xHe5nk {
   background-color    : rgba(255,255,255,0);
-  height              : 536px;
+  height              : 1034px;
   left                : 0px;
   position            : absolute;
-  top                 : -131px;
+  top                 : -244px;
   transform           : rotate(0deg);
   width               : 768px;
 }
-.englishtablet .english-GlKqzs {
+.spanishtablet .english-GlKqzs {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 27px;
+  height              : 20px;
   justify-content     : flex-start;
   margin-right        : 27.0px;
   margin-top          : 20px;
@@ -229,20 +229,34 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.englishtablet .wildlife-of-the-cent-gSyr4d {
+.spanishtablet .nikola-tesla-lAaxKM {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
   line-height         : 27.6px;
-  min-height          : 27px;
+  margin-top          : -1.0px;
+  min-height          : 21px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 497px;
 }
-.englishtablet .wildlife-in-the-cent-copy-2-q5dzx6 {
+.spanishtablet .nikola-tesla-fue-un-Y7RTly {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.spanishtablet .su-car-341cter-su-enfr-MLxFt1 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
@@ -250,44 +264,29 @@ a {
   height              : auto;
   line-height         : 24.0px;
   margin-left         : 50.0px;
-  margin-top          : 10px;
-  min-height          : 192px;
+  margin-top          : 15px;
+  min-height          : 96px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
   width               : 572px;
 }
-.englishtablet .realising-the-seriou-copy-2-kSkBeX {
+.spanishtablet .nikola-tesla-de-etn-5zpmm8 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 48.0px;
+  margin-left         : 50.0px;
   margin-top          : 15px;
-  min-height          : 240px;
+  min-height          : 72px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 570px;
+  width               : 572px;
 }
-.englishtablet .in-2014-the-chinko-copy-2-6QGZsw {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 48.0px;
-  margin-top          : 15px;
-  min-height          : 192px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 570px;
-}
-.englishtablet .group-2-8SiD8y {
+.spanishtablet .group-2-8SiD8y {
   background-color    : rgba(255,255,255,0);
   cursor              : pointer;
   height              : 33px;
@@ -297,7 +296,7 @@ a {
   transform           : rotate(0deg);
   width               : 34px;
 }
-.englishtablet .group-4-xTHy2w {
+.spanishtablet .group-4-xTHy2w {
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/hindi-tablet-oval@2x.png");
   background-size     : 100% 100%;
@@ -308,7 +307,7 @@ a {
   transform           : rotate(0deg);
   width               : 34px;
 }
-.englishtablet .group-4-N5dxCB {
+.spanishtablet .group-4-N5dxCB {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
@@ -324,7 +323,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.englishtablet .fill-3-KbVuVx {
+.spanishtablet .fill-3-KbVuVx {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 18px;
@@ -332,7 +331,7 @@ a {
   transform           : rotate(0deg);
   width               : 18px;
 }
-.englishtablet .wikipedia-preview-de-Opx0Ax {
+.spanishtablet .wikipedia-preview-de-Opx0Ax {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   font-size           : 25.0px;
@@ -345,7 +344,7 @@ a {
   transform           : rotate(0deg);
   width               : 394px;
 }
-.englishtablet .footer-GlQdDE {
+.spanishtablet .footer-GlQdDE {
   align-items         : center;
   background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
@@ -361,7 +360,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.englishtablet .this-article-uses-ma-6Gs33k {
+.spanishtablet .this-article-uses-ma-6Gs33k {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-4);
   flex-shrink         : 0;
@@ -374,6 +373,24 @@ a {
   text-align          : center;
   transform           : rotate(0deg);
   width               : 570px;
+}
+.spanishtablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span2-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span3-6Gs33k {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span4-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span5-6Gs33k {
+  letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -487,7 +504,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - englishdesktop */
+/* ANIMA screen - spanishdesktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -526,7 +543,7 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.englishdesktop .overlap-group-Y7zamN {
+.spanishdesktop .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 124px;
@@ -534,7 +551,7 @@ a {
   position            : relative;
   width               : 1448px;
 }
-.englishdesktop .overlap-group1-yBpAcz {
+.spanishdesktop .overlap-group1-yBpAcz {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 513px;
@@ -543,22 +560,124 @@ a {
   position            : relative;
   width               : 967px;
 }
-.englishdesktop .in-2014-the-chinko-rnxNgC {
+.spanishdesktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1508px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.spanishdesktop .group-Ho2qZs {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/desktop-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1448px;
+}
+.spanishdesktop .nikola-tesla-ShVF1x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 40.0px;
+  height              : auto;
+  line-height         : 43.7px;
+  margin-right        : 407.0px;
+  margin-top          : 35px;
+  min-height          : 44px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 225px;
+}
+.spanishdesktop .line-copy-5-pxb10c {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 167px;
+  position            : absolute;
+  top                 : 350px;
+  transform           : rotate(0deg);
+  width               : 655px;
+}
+.spanishdesktop .nikola-tesla-fue-un-Y7RTly {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 21.0px;
   height              : auto;
-  line-height         : 33.8px;
-  margin-right        : 2.0px;
+  line-height         : 31.5px;
   margin-top          : 22px;
-  min-height          : 304px;
+  min-height          : 315px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 630px;
+  width               : 632px;
 }
-.englishdesktop .wikipedia-preview-de-Opx0Ax {
+.spanishdesktop .su-car-341cter-su-enfr-MLxFt1 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 158px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.spanishdesktop .nikola-tesla-de-etn-5zpmm8 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 95px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 632px;
+}
+.spanishdesktop .western-lowland-gorila-gorilla-gorilla-NmJ8ip {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/french---desktop-mask.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 513px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  padding             : 0 1.0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 967px;
+}
+.spanishdesktop .a802px-tesla-sarony-dzjwzZ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1298px;
+  margin-bottom       : -623.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 964px;
+}
+.spanishdesktop .wikipedia-preview-de-Opx0Ax {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-5);
   font-size           : 30.0px;
@@ -571,7 +690,7 @@ a {
   transform           : rotate(0deg);
   width               : 468px;
 }
-.englishdesktop .footer-GlQdDE {
+.spanishdesktop .footer-GlQdDE {
   align-items         : center;
   background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
@@ -587,7 +706,7 @@ a {
   transform           : rotate(0deg);
   width               : auto;
 }
-.englishdesktop .this-article-uses-ma-6Gs33k {
+.spanishdesktop .this-article-uses-ma-6Gs33k {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-4);
   flex-shrink         : 0;
@@ -600,110 +719,6 @@ a {
   text-align          : center;
   transform           : rotate(0deg);
   width               : 630px;
-}
-.englishdesktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 2034px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.englishdesktop .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/desktop-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 1448px;
-}
-.englishdesktop .wildlife-of-the-cent-POOjaJ {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 40.0px;
-  height              : auto;
-  line-height         : 43.7px;
-  margin-top          : 35px;
-  min-height          : 93px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 632px;
-}
-.englishdesktop .line-copy-5-pxb10c {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 167px;
-  position            : absolute;
-  top                 : 350px;
-  transform           : rotate(0deg);
-  width               : 655px;
-}
-.englishdesktop .wildlife-in-the-cent-nGYiKH {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-top          : 22px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 632px;
-}
-.englishdesktop .realising-the-seriou-zPvVx4 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 33.8px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 405px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 630px;
-}
-.englishdesktop .western-lowland-gorila-gorilla-gorilla-NmJ8ip {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/french---desktop-mask.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 513px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  padding             : 0 2.0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 967px;
-}
-.englishdesktop .western-lowland-gorila-gorilla-gorilla-RG5cp9 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 641px;
-  margin-top          : -65.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 962px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -817,286 +832,585 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - englishmobile */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.englishmobile .overlap-group-Y7zamN {
+/* ANIMA screen - mobilespanishcopy */
+.mobilespanishcopy .nikola-tesla-fue-un-Y7RTly {
   background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 350px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilespanishcopy .su-car-341cter-su-enfr-MLxFt1 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 725px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilespanishcopy .nikola-tesla-de-etn-5zpmm8 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 908px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilespanishcopy .western-lowland-gorila-gorilla-gorilla-copy-7-q6VTpL {
+  background-color    : rgba(215,215,215,1.0);
   height              : 239px;
-  margin-top          : 1px;
-  position            : relative;
+  left                : 0px;
+  opacity             : 1.0;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 62px;
+  transform           : rotate(0deg);
   width               : 360px;
 }
-.englishmobile {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1565px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 360.0px;
-}
-.englishmobile .group-5-hx9j3X {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 62px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 364px;
-}
-.englishmobile .rectangle-JSEgeI {
-  background-color    : var(--auto-palette-color-3);
-  height              : 62px;
+.mobilespanishcopy .mask-7GojJo {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 100%;
   left                : 0px;
+  opacity             : 1.0;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
   width               : 100%;
 }
-.englishmobile .wikipedia-preview-de-YSOy9S {
+.mobilespanishcopy .a535px-tesla-sarony-VEZeNK {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 46px;
-  line-height         : 21.0px;
+  height              : 506px;
+  left                : -13px;
+  opacity             : 1.0;
   position            : absolute;
-  text-align          : center;
-  top                 : 21px;
+  top                 : -40px;
   transform           : rotate(0deg);
-  width               : 272px;
+  width               : 373px;
 }
-.englishmobile .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+.mobilespanishcopy .group-3-iFKazk {
   background-color    : rgba(255,255,255,0);
-  height              : 239px;
+  cursor              : pointer;
+  height              : 62px;
   left                : 0px;
+  opacity             : 1.0;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
   width               : 360px;
 }
-.englishmobile .wildlife-of-the-cent-POOjaJ {
+.mobilespanishcopy .group-ii6llJ {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-hxpHb8 {
+  background-color    : rgba(255,255,255,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .wikipedia-preview-de-9mXMgR {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 25px;
-  position            : relative;
-  text-align          : left;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : 21px;
+  left                : 12.50%;
+  letter-spacing      : 0.00px;
+  line-height         : 21.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : center;
+  top                 : calc(50.00% - 11px);
   transform           : rotate(0deg);
-  width               : 330px;
+  width               : 75.00%;
 }
-.englishmobile .wildlife-in-the-cent-copy-GzNM97 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.englishmobile .realising-the-seriou-copy-xryUux {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 408px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 328px;
-}
-.englishmobile .in-2014-the-chinko-copy-U1Tvhc {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 328px;
-}
-.englishmobile .group-2-8SiD8y {
+.mobilespanishcopy .group-2-Aspe6u {
   background-color    : rgba(255,255,255,0);
   cursor              : pointer;
   height              : 24px;
   left                : 320px;
+  opacity             : 1.0;
   position            : absolute;
-  top                 : 8px;
+  top                 : 71px;
   transform           : rotate(0deg);
   width               : 24px;
 }
-.englishmobile .group-4-xTHy2w {
-  align-items         : flex-start;
+.mobilespanishcopy .group-4-2uKLgO {
   background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
   height              : 24px;
-  justify-content     : flex-start;
   left                : 0px;
+  opacity             : 1.0;
   position            : absolute;
   top                 : 0px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.englishmobile .oval-uZFgU3 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
   transform           : rotate(0deg);
   width               : 24px;
 }
-.englishmobile .group-4-N5dxCB {
-  align-items         : flex-start;
+.mobilespanishcopy .oval-qJbdaz {
   background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.englishmobile .fill-3-KbVuVx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 12px;
-}
-.englishmobile .group-3-iFKazk {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 64px;
-  margin-top          : 34px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.englishmobile .group-ii6llJ {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 64px;
-  justify-content     : flex-start;
+  height              : 23px;
   left                : 0px;
+  opacity             : 1.0;
   position            : absolute;
   top                 : 0px;
   transform           : rotate(0deg);
-  width               : auto;
+  width               : 24px;
 }
-.englishmobile .group-2-copy-i9TxiJ {
-  background-color    : rgba(240,244,248,1.0);
-  flex-shrink         : 0;
+.mobilespanishcopy .group-4-1dCKA3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 50.00%;
+  left                : 25.00%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 25.00%;
+  transform           : rotate(0deg);
+  width               : 50.00%;
+}
+.mobilespanishcopy .fill-1-KjE5TY {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .fill-3-xjxxRo {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .group-copy-2-qX3H8O {
+  background-color    : rgba(255,255,255,0);
   height              : 64px;
-  position            : relative;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 1062px;
   transform           : rotate(0deg);
   width               : 360px;
 }
-.englishmobile .this-article-uses-ma-APOjbz {
+.mobilespanishcopy .group-copy-7p0C0b {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .group-2-copy-UsxayF {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-2-xTxq0L {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-cBtvZy {
+  background-color    : rgba(240,244,248,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .this-article-uses-ma-pflfdu {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(0,0,0,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
   font-size           : 9.0px;
-  height              : auto;
-  left                : 15px;
+  height              : 42.19%;
+  left                : 4.44%;
+  letter-spacing      : 0.00px;
   line-height         : 13.5px;
   opacity             : 0.8;
   position            : absolute;
   text-align          : center;
-  top                 : 12px;
+  top                 : 28.91%;
+  transform           : rotate(0deg);
+  width               : 91.11%;
+}
+.mobilespanishcopy .span1-pflfdu {
+  
+}
+.mobilespanishcopy .span2-pflfdu {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.mobilespanishcopy .span3-pflfdu {
+  
+}
+.mobilespanishcopy .nikola-tesla-ShVF1x {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 316px;
+  transform           : rotate(0deg);
+  width               : 108px;
+}
+/* ANIMA screen - mobilespanishcopy */
+.mobilespanishcopy .nikola-tesla-fue-un-Y7RTly {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 350px;
   transform           : rotate(0deg);
   width               : 330px;
 }
+.mobilespanishcopy .su-car-341cter-su-enfr-MLxFt1 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 725px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilespanishcopy .nikola-tesla-de-etn-5zpmm8 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(51,51,51,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 908px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.mobilespanishcopy .western-lowland-gorila-gorilla-gorilla-copy-7-q6VTpL {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 239px;
+  left                : 0px;
+  opacity             : 1.0;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 62px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobilespanishcopy .mask-7GojJo {
+  background-color    : rgba(215,215,215,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .a535px-tesla-sarony-VEZeNK {
+  background-color    : rgba(255,255,255,0);
+  height              : 506px;
+  left                : -13px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : -40px;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.mobilespanishcopy .group-3-iFKazk {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 62px;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobilespanishcopy .group-ii6llJ {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-hxpHb8 {
+  background-color    : rgba(255,255,255,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  height              : 21px;
+  left                : 12.50%;
+  letter-spacing      : 0.00px;
+  line-height         : 21.0px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : center;
+  top                 : calc(50.00% - 11px);
+  transform           : rotate(0deg);
+  width               : 75.00%;
+}
+.mobilespanishcopy .group-2-Aspe6u {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 320px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 71px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.mobilespanishcopy .group-4-2uKLgO {
+  background-color    : rgba(255,255,255,0);
+  height              : 24px;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.mobilespanishcopy .oval-qJbdaz {
+  background-color    : rgba(255,255,255,0);
+  height              : 23px;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.mobilespanishcopy .group-4-1dCKA3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 50.00%;
+  left                : 25.00%;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 25.00%;
+  transform           : rotate(0deg);
+  width               : 50.00%;
+}
+.mobilespanishcopy .fill-1-KjE5TY {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .fill-3-xjxxRo {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .group-copy-2-qX3H8O {
+  background-color    : rgba(255,255,255,0);
+  height              : 64px;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 1062px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobilespanishcopy .group-copy-7p0C0b {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .group-2-copy-UsxayF {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-2-xTxq0L {
+  background-color    : rgba(255,255,255,0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .rectangle-cBtvZy {
+  background-color    : rgba(240,244,248,1.0);
+  height              : 100%;
+  left                : 0px;
+  opacity             : 1.0;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 100%;
+}
+.mobilespanishcopy .this-article-uses-ma-pflfdu {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(0,0,0,1.0);
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  height              : 42.19%;
+  left                : 4.44%;
+  letter-spacing      : 0.00px;
+  line-height         : 13.5px;
+  opacity             : 0.8;
+  position            : absolute;
+  text-align          : center;
+  top                 : 28.91%;
+  transform           : rotate(0deg);
+  width               : 91.11%;
+}
+.mobilespanishcopy .span1-pflfdu {
+  
+}
+.mobilespanishcopy .span2-pflfdu {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.mobilespanishcopy .span3-pflfdu {
+  
+}
+.mobilespanishcopy .nikola-tesla-ShVF1x {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  letter-spacing      : 0.00px;
+  line-height         : 21.6px;
+  opacity             : 1.0;
+  position            : absolute;
+  text-align          : left;
+  top                 : 316px;
+  transform           : rotate(0deg);
+  width               : 108px;
+}
 @media screen and (max-width: 767px) {
-  .englishtablet {
+  .spanishtablet {
     display             : none ;
   }
-  .englishdesktop {
+  .spanishdesktop {
     display             : none ;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .englishmobile {
+  .mobilespanishcopy {
     display             : none ;
   }
-  .englishdesktop {
+  .spanishdesktop {
     display             : none ;
   }
 }
 @media screen and (min-width: 1440px) {
-  .englishmobile {
+  .mobilespanishcopy {
     display             : none ;
   }
-  .englishtablet {
+  .spanishtablet {
     display             : none ;
   }
 }
