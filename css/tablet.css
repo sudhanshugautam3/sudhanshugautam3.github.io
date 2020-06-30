@@ -112,1154 +112,6 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - tablet */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.tablet .auto-flex-4RHks2 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
-.tablet .auto-flex1-xWlRvG {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 373px;
-}
-.tablet .auto-flex3-fx0QnL {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
-}
-.tablet .auto-flex2-3LESXx {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
-.tablet .auto-flex4-aljjS1 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 371px;
-}
-.tablet .auto-flex5-xYhCyw {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-kobli1-dGAOB6 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  margin-left         : -23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 178px;
-}
-.tablet .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u732b-axv2FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 30px;
-}
-.tablet .language-267-chinese-hPMSIN {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 151px;
-}
-.tablet .header-6IR25F {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 26.0px 188.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wikipedia-preview-de-xYdG1v {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 42px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 394px;
-}
-.tablet .line-copy-14-OCuCGB {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-11-HtZ2x5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-8-6JUJQK {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-12-bxBGxt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .line-copy-13-JHArHo {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 540px;
-}
-.tablet .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 58px;
-  justify-content     : flex-start;
-  margin-top          : 62px;
-  min-width           : 768px;
-  padding             : 0 99.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 570px;
-}
-.tablet .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.tablet .span2-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.tablet .span3-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.tablet .span31-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span32-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span33-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span34-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span35-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span36-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span37-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span38-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span39-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span44-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span45-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span46-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span47-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span48-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span49-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span50-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
-  align-items         : flex-end;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-bottom       : -3.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 263px;
-}
-.tablet .french-aZT9q3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .conseil-de-s-351curit-351-xQ0kVC {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-bottom       : -2px;
-  min-height          : 26px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .language-267-french-Clf84w {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .le-conseil-de-s-351curi-sjW4ll {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 157px;
-}
-.tablet .spanish-WFnFvQ {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .nikola-tesla-RMUsLm {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 33px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 165px;
-}
-.tablet .language-267-spanish-O3rCHM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .nikola-tesla-en-cir-lNMHMC {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 372px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .a535px-tesla-sarony-QYu6jR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 195px;
-  margin-top          : -37.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .swahili-QHGid8 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .afrika-hqxtPd {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 32px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 92px;
-}
-.tablet .language-267-swahili-HjYhnn {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 109px;
-}
-.tablet .afrika-ni-bara-la-pi-3xVBI0 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 371px;
-}
-.tablet .span4-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span5-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span6-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span7-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span8-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span9-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span10-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span11-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span12-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span13-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span14-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span15-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .language-267-hindi-XhFRiV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 10px;
-  min-height          : 52px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 373px;
-}
-.tablet .span1-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span2-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span3-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span4-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span5-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span6-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span7-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span8-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span9-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span10-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span11-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span12-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span13-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span14-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span15-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span16-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span17-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span18-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span19-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span20-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span21-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span22-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span23-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span24-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span25-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span26-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span27-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span28-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span29-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet .span30-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.tablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1178px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.tablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 134px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 28px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .wildlife-of-the-cent-uprjy7 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .language-267-english-8ddxMm {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 5px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 113px;
-}
-.tablet .wildlife-in-the-cent-kvZZul {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 374px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  flex-shrink         : 0;
-  height              : 121px;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .mask-us8llM {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 120px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 141px;
-}
-.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
-  background-color    : rgba(255,255,255,0);
-  height              : 120px;
-  left                : -16px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 172px;
-}
-.tablet .hindi-JPlgx7 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 373px;
-}
-.tablet .span1-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span2-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.tablet .span3-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper ,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
 /* ANIMA screen - mobile */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -1299,7 +151,7 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.mobile .auto-flex2-44zkdR {
+.mobile .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1311,7 +163,31 @@ a {
   position            : relative;
   width               : 244px;
 }
-.mobile .auto-flex1-CG2eCk {
+.mobile .auto-flex3-UyO79H {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.mobile .auto-flex5-NyFzAD {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.mobile .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1330,7 +206,7 @@ a {
   position            : relative;
   width               : 362px;
 }
-.mobile .auto-flex5-NyFzAD {
+.mobile .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1342,7 +218,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.mobile .auto-flex4-n3q5lb {
+.mobile .auto-flex-jta0tg {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1353,6 +229,47 @@ a {
   justify-content     : flex-start;
   position            : relative;
   width               : 244px;
+}
+.mobile .line-copy-7-oa5W5x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 329px;
+}
+.mobile .group-3-bgGCSh {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 64px;
+  margin-top          : 40px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.mobile .group-iAM3bT {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 64px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.mobile .group-2-copy-7tBdnF {
+  background-color    : rgba(240,244,248,1.0);
+  flex-shrink         : 0;
+  height              : 64px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 360px;
 }
 .mobile .this-article-uses-ma-To2rdp {
   background-color    : rgba(255,255,255,0);
@@ -1367,6 +284,19 @@ a {
   top                 : 12px;
   transform           : rotate(0deg);
   width               : 330px;
+}
+.mobile .span1-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span2-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.mobile .span3-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 .mobile .span4-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -1620,47 +550,6 @@ a {
   top                 : 21px;
   transform           : rotate(0deg);
   width               : 272px;
-}
-.mobile .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 329px;
-}
-.mobile .group-3-bgGCSh {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 64px;
-  margin-top          : 40px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.mobile .group-iAM3bT {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 64px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.mobile .group-2-copy-7tBdnF {
-  background-color    : rgba(240,244,248,1.0);
-  flex-shrink         : 0;
-  height              : 64px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
 }
 .mobile .group-2-Aspe6u {
   align-items         : flex-start;
@@ -1997,43 +886,6 @@ a {
   transform           : rotate(0deg);
   width               : 244px;
 }
-.mobile .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.mobile .auto-flex-jta0tg {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.mobile .auto-flex3-UyO79H {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
 .mobile {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -2327,6 +1179,1154 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
+/* ANIMA screen - tablet */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.tablet .auto-flex2-3LESXx {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 374px;
+}
+.tablet .auto-flex1-xWlRvG {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 373px;
+}
+.tablet .auto-flex3-fx0QnL {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 372px;
+}
+.tablet .auto-flex5-xYhCyw {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 372px;
+}
+.tablet .auto-flex4-aljjS1 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 371px;
+}
+.tablet .auto-flex-4RHks2 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 374px;
+}
+.tablet .language-267-french-Clf84w {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .le-conseil-de-s-351curi-sjW4ll {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 120px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 157px;
+}
+.tablet .spanish-WFnFvQ {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 16.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .nikola-tesla-RMUsLm {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 33px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 165px;
+}
+.tablet .language-267-spanish-O3rCHM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .nikola-tesla-en-cir-lNMHMC {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 25px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a535px-tesla-sarony-QYu6jR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 195px;
+  margin-top          : -37.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .swahili-QHGid8 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 17.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .afrika-hqxtPd {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 92px;
+}
+.tablet .language-267-swahili-HjYhnn {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 109px;
+}
+.tablet .afrika-ni-bara-la-pi-3xVBI0 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 371px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 25px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-kobli1-dGAOB6 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 120px;
+  margin-left         : -23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 178px;
+}
+.tablet .chinese-LPUsSV {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 17.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .u732b-axv2FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 30px;
+}
+.tablet .language-267-chinese-hPMSIN {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 372px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 26px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a594px-cat-poster-2-5Vf5Gb {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -4.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 151px;
+}
+.tablet .header-6IR25F {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 96px;
+  justify-content     : flex-start;
+  padding             : 26.0px 188.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .wikipedia-preview-de-xYdG1v {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 42px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 394px;
+}
+.tablet .line-copy-14-OCuCGB {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-11-HtZ2x5 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-8-6JUJQK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-12-bxBGxt {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .line-copy-13-JHArHo {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 18.0px;
+  margin-top          : 25px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 540px;
+}
+.tablet .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-start;
+  margin-top          : 62px;
+  min-width           : 768px;
+  padding             : 0 99.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.tablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span2-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.tablet .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.tablet .span12-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span13-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span14-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span15-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span16-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span17-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span18-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span19-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span20-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span21-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span22-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span23-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span24-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span25-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span26-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span27-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span28-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span29-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span30-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span31-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span32-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span33-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span34-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span35-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span36-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span37-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span38-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span39-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span40-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span41-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span42-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span43-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span44-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span45-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span46-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span47-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span48-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span49-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span50-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
+  align-items         : flex-end;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 123px;
+  margin-bottom       : -3.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 263px;
+}
+.tablet .french-aZT9q3 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 15.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .conseil-de-s-351curit-351-xQ0kVC {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  margin-bottom       : -2px;
+  min-height          : 26px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1178px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 768.0px;
+}
+.tablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 134px;
+  justify-content     : flex-start;
+  margin-left         : 15.0px;
+  margin-top          : 28px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .wildlife-of-the-cent-uprjy7 {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .language-267-english-8ddxMm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 5px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .wildlife-in-the-cent-kvZZul {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 45px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 374px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  flex-shrink         : 0;
+  height              : 121px;
+  margin-left         : 22px;
+  overflow            : hidden;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .mask-us8llM {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 120px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 141px;
+}
+.tablet .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
+  background-color    : rgba(255,255,255,0);
+  height              : 120px;
+  left                : -16px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 172px;
+}
+.tablet .hindi-JPlgx7 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : flex-start;
+  margin-left         : 16.0px;
+  margin-top          : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.tablet .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.tablet .span1-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span2-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span3-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span4-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span5-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span6-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span7-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span8-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span9-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span10-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span11-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span12-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span13-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span14-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .span15-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.tablet .language-267-hindi-XhFRiV {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 113px;
+}
+.tablet .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 10px;
+  min-height          : 52px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 373px;
+}
+.tablet .span1-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span2-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span3-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span4-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span5-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span6-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span7-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span8-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span9-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span10-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.tablet .span11-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper ,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
 /* ANIMA screen - desktop */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -2366,18 +2366,6 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.desktop .auto-flex5-GtcQsT {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 387px;
-}
 .desktop .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -2398,6 +2386,18 @@ a {
   position            : relative;
   width               : 1448px;
 }
+.desktop .auto-flex4-n3q5lb {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 408px;
+}
 .desktop .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -2410,7 +2410,7 @@ a {
   position            : relative;
   width               : 408px;
 }
-.desktop .auto-flex4-n3q5lb {
+.desktop .auto-flex5-GtcQsT {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2420,7 +2420,11 @@ a {
   height              : auto;
   justify-content     : flex-start;
   position            : relative;
-  width               : 408px;
+  width               : 387px;
+}
+.desktop .span53-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 .desktop .span54-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -2666,6 +2670,24 @@ a {
   transform           : rotate(0deg);
   width               : 630px;
 }
+.desktop .span6-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span7-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span8-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.desktop .span9-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
 .desktop .span10-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
@@ -2860,9 +2882,34 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span53-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+.desktop .group-2-Aspe6u {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.desktop .afrika-4uC00w {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 32px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 92px;
 }
 .desktop .language-267-swahili-m1txXj {
   background-color    : rgba(255,255,255,0);
@@ -3147,25 +3194,7 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.desktop .span6-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span7-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span8-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .span9-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.desktop .auto-flex-jta0tg {
+.desktop .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -3376,36 +3405,7 @@ a {
   transform           : rotate(0deg);
   width               : 186px;
 }
-.desktop .group-2-Aspe6u {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.desktop .afrika-4uC00w {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 32px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 92px;
-}
-.desktop .auto-flex1-CG2eCk {
+.desktop .auto-flex-jta0tg {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;

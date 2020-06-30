@@ -112,7 +112,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinesetablet */
+/* ANIMA screen - chinese */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -151,163 +151,15 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.chinesetablet .overlap-group-Y7zamN {
+.chinese .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 367px;
+  height              : 239px;
+  margin-top          : 0px;
   position            : relative;
-  width               : 770px;
+  width               : 360px;
 }
-.chinesetablet .span4-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span5-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span6-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span7-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span8-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span9-wawyPq {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-copy-Hql7Kv {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 15px;
-  min-height          : 192px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 572px;
-}
-.chinesetablet .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-copy-l16fMQ {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 15px;
-  min-height          : 72px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 572px;
-}
-.chinesetablet .group-2-8SiD8y {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 33px;
-  left                : 660px;
-  position            : absolute;
-  top                 : 104px;
-  transform           : rotate(0deg);
-  width               : 34px;
-}
-.chinesetablet .group-4-xTHy2w {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-tablet-oval@2x.png");
-  background-size     : 100% 100%;
-  height              : 33px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 34px;
-}
-.chinesetablet .group-4-N5dxCB {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 18px;
-  justify-content     : flex-start;
-  left                : 8px;
-  position            : absolute;
-  top                 : 8px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinesetablet .fill-3-KbVuVx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 18px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 18px;
-}
-.chinesetablet .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 25.0px;
-  height              : auto;
-  left                : 188px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 26px;
-  transform           : rotate(0deg);
-  width               : 394px;
-}
-.chinesetablet .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 58px;
-  justify-content     : flex-end;
-  margin-top          : 40px;
-  min-width           : 768px;
-  padding             : 0 75.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinesetablet .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 570px;
-}
-.chinesetablet .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span2-6Gs33k {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinesetablet .span3-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.chinesetablet {
+.chinese {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
@@ -315,105 +167,250 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 910px;
+  min-height          : 1057px;
   overflow            : hidden;
   position            : relative;
-  width               : 768.0px;
+  width               : 360.0px;
 }
-.chinesetablet .header-xPpEh7 {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 96px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 770px;
-}
-.chinesetablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 273px;
-  left                : 1px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 94px;
-  transform           : rotate(0deg);
-  width               : 768px;
-}
-.chinesetablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 768px;
-}
-.chinesetablet .a891px-cat-poster-2-Ymh5tV {
-  background-color    : rgba(255,255,255,0);
-  height              : 620px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  transform           : rotate(0deg);
-  width               : 768px;
-}
-.chinesetablet .english-GlKqzs {
-  align-items         : flex-start;
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
+.chinese .group-3-iFKazk {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
+  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 28px;
+  height              : 62px;
   justify-content     : flex-start;
-  margin-left         : 123.0px;
-  margin-top          : 20px;
-  min-width           : 24px;
+  min-width           : 364px;
+  padding             : 20.0px 46.0px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinesetablet .u732b-qWio2S {
+.chinese .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 21px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 272px;
+}
+.chinese .u732b-wRVu4i {
+  align-self          : flex-start;
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 21.0px;
+  font-size           : 16.0px;
   height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 22px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 26px;
+  width               : 21px;
 }
-.chinesetablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 7px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
+  min-height          : 144px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.chinese .span1-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span2-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span3-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span4-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span5-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span6-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span7-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .span8-wawyPq {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinese .span9-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
+  min-height          : 336px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 2.0px;
+  margin-top          : 15px;
   min-height          : 96px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 572px;
+  width               : 330px;
 }
-.chinesetablet .span1-wawyPq {
+.chinese .a594px-cat-poster-2-mQvQTz {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 239px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .a594px-cat-poster-2-xx4VmP {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 291px;
+  margin-top          : -26.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 320px;
+  position            : absolute;
+  top                 : 9px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.chinese .group-4-xTHy2w {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinese .oval-uZFgU3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.chinese .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinese .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.chinese .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 64px;
+  margin-top          : 34px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .group-2-copy-xLsqzf {
+  background-color    : rgba(240,244,248,1.0);
+  height              : 64px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 360px;
+}
+.chinese .this-article-uses-ma-IENLXr {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  font-size           : 9.0px;
+  height              : auto;
+  left                : 15px;
+  line-height         : 13.5px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 11px;
+  transform           : rotate(0deg);
+  width               : 330px;
+}
+.chinese .span1-IENLXr {
   letter-spacing      : 0.00px;
 }
-.chinesetablet .span2-wawyPq {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+.chinese .span2-IENLXr {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinesetablet .span3-wawyPq {
+.chinese .span3-IENLXr {
   letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
@@ -583,31 +580,6 @@ a {
   margin-top          : 44px;
   position            : relative;
   width               : 959px;
-}
-.chinesedesktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1484px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.chinesedesktop .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/desktop-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 1448px;
 }
 .chinesedesktop .u732b-wRVu4i {
   background-color    : rgba(255,255,255,0);
@@ -785,6 +757,31 @@ a {
 .chinesedesktop .span3-6Gs33k {
   letter-spacing      : 0.00px;
 }
+.chinesedesktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1484px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.chinesedesktop .group-Ho2qZs {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/desktop-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1448px;
+}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
@@ -897,7 +894,7 @@ a {
   position            : absolute;
   --anima-z-index: -1;
 }
-/* ANIMA screen - chinese */
+/* ANIMA screen - chinesetablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -936,166 +933,14 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.chinese .overlap-group-Y7zamN {
+.chinesetablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  height              : 239px;
-  margin-top          : 0px;
+  height              : 367px;
   position            : relative;
-  width               : 360px;
+  width               : 770px;
 }
-.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 96px;
-  position            : relative;
-  text-align          : left;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese .a594px-cat-poster-2-mQvQTz {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 239px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese .a594px-cat-poster-2-xx4VmP {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 291px;
-  margin-top          : -26.0px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese .group-2-8SiD8y {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 24px;
-  left                : 320px;
-  position            : absolute;
-  top                 : 9px;
-  transform           : rotate(0deg);
-  width               : 24px;
-}
-.chinese .group-4-xTHy2w {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 24px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinese .oval-uZFgU3 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 24px;
-}
-.chinese .group-4-N5dxCB {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  transform           : rotate(0deg);
-  width               : auto;
-}
-.chinese .fill-3-KbVuVx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 12px;
-}
-.chinese .group-xWfRCW {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 64px;
-  margin-top          : 34px;
-  position            : relative;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese .group-2-copy-xLsqzf {
-  background-color    : rgba(240,244,248,1.0);
-  height              : 64px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  transform           : rotate(0deg);
-  width               : 360px;
-}
-.chinese .this-article-uses-ma-IENLXr {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  font-size           : 9.0px;
-  height              : auto;
-  left                : 15px;
-  line-height         : 13.5px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 11px;
-  transform           : rotate(0deg);
-  width               : 330px;
-}
-.chinese .span1-IENLXr {
-  letter-spacing      : 0.00px;
-}
-.chinese .span2-IENLXr {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.chinese .span3-IENLXr {
-  letter-spacing      : 0.00px;
-}
-.chinese {
+.chinesetablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
@@ -1103,99 +948,254 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  min-height          : 1057px;
+  min-height          : 910px;
   overflow            : hidden;
   position            : relative;
-  width               : 360.0px;
+  width               : 768.0px;
 }
-.chinese .group-3-iFKazk {
-  align-items         : flex-end;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
+.chinesetablet .header-xPpEh7 {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
   cursor              : pointer;
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 770px;
+}
+.chinesetablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 1px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 94px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.chinesetablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.chinesetablet .a891px-cat-poster-2-Ymh5tV {
+  background-color    : rgba(255,255,255,0);
+  height              : 620px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  transform           : rotate(0deg);
+  width               : 768px;
+}
+.chinesetablet .english-GlKqzs {
+  align-items         : flex-start;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 62px;
+  height              : 28px;
   justify-content     : flex-start;
-  min-width           : 364px;
-  padding             : 20.0px 46.0px;
+  margin-left         : 123.0px;
+  margin-top          : 20px;
+  min-width           : 24px;
   position            : relative;
   transform           : rotate(0deg);
   width               : auto;
 }
-.chinese .wikipedia-preview-de-9mXMgR {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  position            : relative;
-  text-align          : center;
-  transform           : rotate(0deg);
-  width               : 272px;
-}
-.chinese .u732b-wRVu4i {
-  align-self          : flex-start;
+.chinesetablet .u732b-qWio2S {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
-  font-size           : 16.0px;
+  font-size           : 21.0px;
   height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
+  line-height         : 27.6px;
+  min-height          : 28px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 21px;
+  width               : 26px;
 }
-.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+.chinesetablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 15px;
-  min-height          : 144px;
+  margin-left         : 50.0px;
+  margin-top          : 7px;
+  min-height          : 96px;
   position            : relative;
   text-align          : left;
   transform           : rotate(0deg);
-  width               : 330px;
+  width               : 572px;
 }
-.chinese .span1-wawyPq {
+.chinesetablet .span1-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese .span2-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.chinesetablet .span2-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese .span3-wawyPq {
+.chinesetablet .span3-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese .span4-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.chinesetablet .span4-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese .span5-wawyPq {
+.chinesetablet .span5-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese .span6-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.chinesetablet .span6-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese .span7-wawyPq {
+.chinesetablet .span7-wawyPq {
   letter-spacing      : 0.00px;
 }
-.chinese .span8-wawyPq {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.chinesetablet .span8-wawyPq {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.chinese .span9-wawyPq {
+.chinesetablet .span9-wawyPq {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-copy-Hql7Kv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.chinesetablet .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-copy-l16fMQ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : 572px;
+}
+.chinesetablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 660px;
+  position            : absolute;
+  top                 : 104px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.chinesetablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 34px;
+}
+.chinesetablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinesetablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 18px;
+}
+.chinesetablet .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 25.0px;
+  height              : auto;
+  left                : 188px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 26px;
+  transform           : rotate(0deg);
+  width               : 394px;
+}
+.chinesetablet .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-end;
+  margin-top          : 40px;
+  min-width           : 768px;
+  padding             : 0 75.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.chinesetablet .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 570px;
+}
+.chinesetablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span2-6Gs33k {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span3-6Gs33k {
   letter-spacing      : 0.00px;
 }
 @media screen and (max-width: 767px) {
