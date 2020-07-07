@@ -2314,8 +2314,8 @@ div {
 .bp1-hindidesktop .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
   background-color    : rgba(255,255,255,0.0);
   top                 : 710px;
-  height              : auto;
-  width               : 632px;
+  height              : 44px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 404px;
@@ -2382,22 +2382,22 @@ div {
 .bp1-hindidesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 2px;
-  width               : 655px;
+  height              : 1px;
+  width               : 653px;
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 790px;
-  height              : auto;
+  height              : 236px;
   width               : 632px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -3060,11 +3060,11 @@ div {
 .bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1048px;
-  height              : auto;
+  height              : 402px;
   width               : 632px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -4126,11 +4126,11 @@ div {
 .bp1-hindidesktop .bp1-u092au094du0930u0924u0940u0924u0939u094bu0924u093eu0939u0948u0915u093fu0907u0938 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1629px;
-  height              : auto;
+  height              : 206px;
   width               : 632px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -4728,11 +4728,11 @@ div {
 .bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u0935u093fu0902u0927u094du092fu093e {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1472px;
-  height              : auto;
+  height              : 135px;
   width               : 630px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -5066,10 +5066,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : -3px;
   height              : 124px;
-  width               : 1448px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : -4px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

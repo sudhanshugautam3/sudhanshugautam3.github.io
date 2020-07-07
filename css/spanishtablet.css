@@ -461,11 +461,11 @@ div {
 .bp1-spanishdesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 2px;
-  width               : 655px;
+  height              : 1px;
+  width               : 653px;
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

@@ -986,6 +986,1102 @@ div {
   word-break          : break-all;
   word-break          : break-word;
 }
+.bp2-tablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1178px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-tablet .bp2-english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 134px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-english .bp2-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-english .bp2-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-english .bp2-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-westernlowlandgorilagorillagorillacopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 120px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : -16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 120px;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span1 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span3 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span5 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span6 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span7 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span8 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span9 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span10 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span11 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span12 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span13 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span14 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span15 {
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span1 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span3 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span5 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span6 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span7 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span8 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span9 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span10 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span11 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span12 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span13 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span14 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span15 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span16 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span17 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span18 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span19 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span20 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span21 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span22 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span23 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span24 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span25 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span26 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span27 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span28 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span29 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span30 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span31 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span32 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span33 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span34 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span35 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span36 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span37 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span38 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span39 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span40 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span41 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span42 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span43 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span44 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span45 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span46 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span47 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span48 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span49 {
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span50 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : -61px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 458px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-french .bp2-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-french .bp2-language267french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-french .bp2-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 618px;
+  height              : 120px;
+  width               : 538px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-spanish .bp2-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-spanish .bp2-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-spanish .bp2-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 397px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -37px;
+  height              : 195px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 778px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-swahili .bp2-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-swahili .bp2-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-swahili .bp2-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 371px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 938px;
+  height              : 120px;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-chinese .bp2-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-tablet .bp2-chinese .bp2-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-tablet .bp2-chinese .bp2-u8c93uff08u5b78u540duff1afeliscatus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 398px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 124px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-header .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-header .bp2-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp2-tablet .bp2-header .bp2-wikipediapreviewde-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 26px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-tablet .bp2-header .bp2-wikipediapreviewde-layout-container > * {
+  pointer-events      : auto;
+}
+.bp2-tablet .bp2-linecopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 283px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-linecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 603px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 443px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-linecopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 763px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-linecopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 923px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 58px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-footer .bp2-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-tablet .bp2-footer .bp2-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : 570px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-tablet .bp2-footer .bp2-articlesonthislis-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 11px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-tablet .bp2-footer .bp2-articlesonthislis-layout-container > * {
+  pointer-events      : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
 .bp1-desktop {
   width               : 100%;
   min-width           : 1440px;
@@ -1993,1102 +3089,6 @@ div {
   left                : 0;
 }
 .bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container > * {
-  pointer-events      : auto;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.bp2-tablet {
-  width               : 100%;
-  min-width           : 768px;
-  height              : 100vh;
-  min-height          : 1178px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-a {
-  text-decoration     : none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp2-tablet .bp2-english {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 124px;
-  height              : 134px;
-  width               : 537px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-english .bp2-wildlifeofthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 374px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-english .bp2-language267english {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 63px;
-  height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-english .bp2-wildlifeinthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
-  height              : auto;
-  width               : 374px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 22.4px;
-}
-.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 121px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 396px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 1px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-westernlowlandgorilagorillagorillacopy1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 120px;
-  width               : 172px;
-  position            : absolute;
-  margin              : 0;
-  left                : -16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-hindi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 298px;
-  height              : 120px;
-  width               : 536px;
-  position            : absolute;
-  margin              : 0;
-  left                : 124px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 373px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.0px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span1 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span3 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span4 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span5 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span6 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span7 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span8 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span9 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span10 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span11 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span12 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span13 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span14 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span15 {
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-language267hindi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 41px;
-  height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 66px;
-  height              : auto;
-  width               : 373px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 16.0px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span1 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span2 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span3 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span4 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span5 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span6 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span7 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span8 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span9 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span10 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span11 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span12 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span13 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span14 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span15 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span16 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span17 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span18 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span19 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span20 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span21 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span22 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span23 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span24 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span25 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span26 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span27 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span28 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span29 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span30 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span31 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span32 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span33 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span34 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span35 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span36 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span37 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span38 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span39 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span40 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span41 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span42 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span43 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span44 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span45 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span46 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span47 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span48 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span49 {
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span50 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 395px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-a640pxpanoramicviewofranimahalkalinjarfort {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 123px;
-  width               : 263px;
-  position            : absolute;
-  margin              : 0;
-  left                : -61px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-french {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 458px;
-  height              : 120px;
-  width               : 537px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-french .bp2-conseildes351curit351 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 374px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-french .bp2-language267french {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 32px;
-  height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-french .bp2-leconseildes351curi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 57px;
-  height              : auto;
-  width               : 372px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 22.4px;
-}
-.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 396px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 157px;
-  position            : absolute;
-  margin              : 0;
-  left                : -8px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-spanish {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 618px;
-  height              : 120px;
-  width               : 538px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-spanish .bp2-nikolatesla {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-spanish .bp2-language267spanish {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-spanish .bp2-nikolateslaencir {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 64px;
-  height              : auto;
-  width               : 372px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 22.4px;
-}
-.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 397px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-a535pxteslasarony {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -37px;
-  height              : 195px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-swahili {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 778px;
-  height              : 120px;
-  width               : 537px;
-  position            : absolute;
-  margin              : 0;
-  left                : 124px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-swahili .bp2-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 92px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-swahili .bp2-language267swahili {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
-  height              : auto;
-  width               : 109px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-swahili .bp2-afrikanibaralapi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 63px;
-  height              : auto;
-  width               : 371px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 22.4px;
-}
-.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 396px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-a640pxkobli1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 178px;
-  position            : absolute;
-  margin              : 0;
-  left                : -23px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-chinese {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 938px;
-  height              : 120px;
-  width               : 539px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-chinese .bp2-u732b {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-tablet .bp2-chinese .bp2-language267chinese {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
-  height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp2-tablet .bp2-chinese .bp2-u8c93uff08u5b78u540duff1afeliscatus1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 59px;
-  height              : auto;
-  width               : 372px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 0.9;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 22.4px;
-}
-.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 398px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 120px;
-  width               : 141px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-a594pxcatposter2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -4px;
-  height              : 124px;
-  width               : 151px;
-  position            : absolute;
-  margin              : 0;
-  left                : -5px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-header {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-header .bp2-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-header .bp2-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : auto;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
-}
-.bp2-tablet .bp2-header .bp2-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 26px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp2-tablet .bp2-header .bp2-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp2-tablet .bp2-linecopy14 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 283px;
-  height              : 1px;
-  width               : 540px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-linecopy11 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 603px;
-  height              : 1px;
-  width               : 540px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-linecopy8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 443px;
-  height              : 1px;
-  width               : 540px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-linecopy12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 763px;
-  height              : 1px;
-  width               : 540px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-linecopy13 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 923px;
-  height              : 1px;
-  width               : 540px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1120px;
-  height              : 58px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-footer .bp2-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 58px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-tablet .bp2-footer .bp2-articlesonthislis {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : 570px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 18.0px;
-}
-.bp2-tablet .bp2-footer .bp2-articlesonthislis-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 11px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp2-tablet .bp2-footer .bp2-articlesonthislis-layout-container > * {
   pointer-events      : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
