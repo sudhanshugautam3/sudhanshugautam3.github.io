@@ -117,6 +117,2093 @@ a {
 .anima-auto-animated .anima-container-center-horizontal {
   opacity             : 1;
 }
+/* ANIMA screen - frenchdesktop */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.frenchdesktop .overlap-group-4tDfkw {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 513px;
+  margin-right        : 1.0px;
+  position            : relative;
+  width               : 967px;
+}
+.frenchdesktop .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 162px;
+  width               : 1440px;
+}
+.frenchdesktop .span45-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span46-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span47-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span48-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span49-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span50-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span51-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span52-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span53-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span54-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span55-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span56-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span57-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span58-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span59-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span60-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span61-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span62-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span63-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span64-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span65-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span66-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span67-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span68-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span69-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span70-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span71-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span72-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span73-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span74-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span75-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span76-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .wikipedia-preview-de-iOCx9n {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 495px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 31px;
+  width               : auto;
+}
+.frenchdesktop .footer-bUTO8v {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  width               : auto;
+}
+.frenchdesktop .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
+}
+.frenchdesktop .span1-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span2-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span3-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span4-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span5-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span6-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span7-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span8-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span9-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span10-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span11-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span12-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span13-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span14-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span15-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span16-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span17-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span18-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span19-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span20-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span21-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span22-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span23-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span24-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span25-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span26-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span27-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span28-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span29-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span30-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span31-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span32-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span33-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span34-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span35-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span36-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span37-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span38-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span39-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span40-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span41-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span42-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span43-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span44-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span137-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span138-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span139-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span140-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span141-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span142-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span143-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span144-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span145-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span146-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span147-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span148-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span149-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span150-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span151-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span152-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span153-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span154-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span155-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span156-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span157-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span158-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span159-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span160-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span161-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span162-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span163-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span164-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span165-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span166-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span167-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span168-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span169-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span170-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span171-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span172-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span173-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span174-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span175-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span176-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span177-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span178-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span179-AX1MCJ {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .western-lowland-gorila-gorilla-gorilla-MJAoeI {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/french---desktop-mask.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 513px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  padding             : 0 4.0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 967px;
+}
+.frenchdesktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-1Bixsv {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 719px;
+  margin-top          : -92.0px;
+  position            : relative;
+  width               : 959px;
+}
+.frenchdesktop .le-conseil-de-s-351curi-0tQyll {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-right        : 2.0px;
+  margin-top          : 22px;
+  min-height          : 126px;
+  position            : relative;
+  text-align          : left;
+  width               : 630px;
+}
+.frenchdesktop .span93-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span94-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span95-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span96-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span97-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span98-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span99-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span100-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span101-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span102-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span103-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span104-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span105-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span106-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span107-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span108-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span109-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span110-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span111-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span112-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span113-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span114-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span115-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span116-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span117-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span118-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span119-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span120-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span121-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span122-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span123-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span124-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span125-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span126-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span127-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span128-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span129-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span130-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span131-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span132-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span133-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span134-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span135-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span136-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span49-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span50-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span51-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span52-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span53-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span54-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span55-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span56-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span57-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span58-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span59-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span60-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span61-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span62-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span63-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span64-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span65-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span66-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span67-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span68-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span69-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span70-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span71-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span72-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span73-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span74-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span75-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span76-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span77-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span78-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span79-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span80-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span81-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span82-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span83-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span84-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span85-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span86-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span87-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span88-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span89-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span90-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span91-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span92-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span5-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span6-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span7-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span8-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span9-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span10-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span11-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span12-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span13-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span14-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span15-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span16-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span17-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span18-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span19-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span20-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span21-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span22-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span23-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span24-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span25-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span26-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span27-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span28-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span29-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span30-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span31-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span32-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span33-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span34-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span35-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span36-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span37-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span38-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span39-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span40-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span41-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span42-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span43-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span44-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span45-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span46-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span47-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span48-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span89-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span90-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span91-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span92-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span93-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span94-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span95-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span96-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span97-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span98-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span99-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span100-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span101-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span102-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span103-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span104-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span105-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span106-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span107-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span108-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span109-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span110-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span111-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span112-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span113-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span114-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span115-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span116-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span117-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span118-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span119-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span120-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span121-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span122-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span123-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span124-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span125-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span126-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span127-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span128-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span129-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span130-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .certaines-d-351cisions-AX1MCJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 272px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
+}
+.frenchdesktop .span1-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span2-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span3-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span4-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span44-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span45-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span46-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span47-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span48-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span49-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span50-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span51-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span52-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span53-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span54-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span55-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span56-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span57-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span58-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span59-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span60-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span61-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span62-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span63-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span64-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span65-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span66-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span67-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span68-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span69-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span70-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span71-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span72-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span73-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span74-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span75-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span76-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span77-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span78-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span79-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span80-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span81-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span82-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span83-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span84-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span85-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span86-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span87-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span88-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .le-conseil-de-s-351curi-u2W7G8 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 189px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
+}
+.frenchdesktop .span1-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span2-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span3-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span4-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span5-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span6-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span7-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span8-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span9-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span10-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span11-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span12-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span13-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span14-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span15-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span16-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span17-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span18-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span19-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span20-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span21-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span22-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span23-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span24-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span25-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span26-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span27-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span28-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span29-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span30-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span31-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span32-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span33-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span34-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span35-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span36-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span37-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span38-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span39-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span40-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span41-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span42-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span43-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1536.0px;
+  min-width           : 1440.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.frenchdesktop .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/index-rectangle-1.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -3px;
+  width               : 100%;
+}
+.frenchdesktop .conseil-de-s-351curit-351-dkx7PR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 40.0px;
+  height              : auto;
+  line-height         : 40.0px;
+  margin-top          : 35px;
+  min-height          : 53px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
+}
+.frenchdesktop .span1-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span2-dkx7PR {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span3-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span4-dkx7PR {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span5-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span6-dkx7PR {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span7-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span8-dkx7PR {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span9-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span10-dkx7PR {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .span11-dkx7PR {
+  letter-spacing      : 0.00px;
+  line-height         : 43.7px;
+}
+.frenchdesktop .line-copy-5-mQhVGC {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 167px;
+  position            : absolute;
+  top                 : 350px;
+  width               : 655px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - mobilefrench */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.mobilefrench .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  height              : 247px;
+  left                : -4px;
+  position            : absolute;
+  top                 : 59px;
+  width               : 368px;
+}
+.mobilefrench .western-lowland-gorila-gorilla-gorilla-n8qraa {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-french-mask.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 247px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  padding             : 0 4.0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 368px;
+}
+.mobilefrench .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-AgUzIn {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 270px;
+  margin-bottom       : -26.0px;
+  position            : relative;
+  width               : 360px;
+}
+.mobilefrench .group-2-dTxCjt {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 324px;
+  position            : absolute;
+  top                 : 12px;
+  width               : 24px;
+}
+.mobilefrench .group-4-y3R4Ox {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
+}
+.mobilefrench .oval-M0gbwA {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  width               : 24px;
+}
+.mobilefrench .group-4-EBlBp1 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  width               : auto;
+}
+.mobilefrench .fill-3-bYL5ac {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.mobilefrench .footer-GlQdDE {
+  align-items         : flex-end;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 64px;
+  justify-content     : flex-end;
+  left                : 0px;
+  min-width           : 100%;
+  padding             : 11.0px 34.0px;
+  position            : absolute;
+  top                 : 1157px;
+  width               : auto;
+}
+.mobilefrench .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 41px;
+  min-width           : 301px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.mobilefrench {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1221.0px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.mobilefrench .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 61px;
+  justify-content     : flex-end;
+  left                : 0px;
+  min-width           : 100%;
+  padding             : 18.0px 62.0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
+}
+.mobilefrench .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.mobilefrench .conseil-de-s-351curit-351-K7cKTJ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(32,32,32,1.0);
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  line-height         : 21.6px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 316px;
+  width               : calc(100.00% - 90px);
+}
+.mobilefrench .le-conseil-de-s-351curi-StjQPz {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 350px;
+  width               : calc(100.00% - 32px);
+}
+.mobilefrench .certaines-d-351cisions-IRWx9B {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 581px;
+  width               : calc(100.00% - 32px);
+}
+.mobilefrench .le-conseil-de-s-351curi-F58tzm {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 16px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 906px;
+  width               : calc(100.00% - 33px);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
 /* ANIMA screen - frenchtablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -184,6 +2271,41 @@ a {
   position            : absolute;
   top                 : 387px;
   width               : 768px;
+}
+.frenchtablet .span105-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span106-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span107-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span108-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span109-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span110-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span111-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span112-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span113-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span114-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
 .frenchtablet .span115-0tQyll {
   letter-spacing      : 0.00px;
@@ -320,6 +2442,34 @@ a {
 .frenchtablet .span3-gkVIMP {
   letter-spacing      : 0.00px;
 }
+.frenchtablet .span60-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span61-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span62-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span63-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span64-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span65-0tQyll {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span66-0tQyll {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span67-0tQyll {
+  letter-spacing      : 0.00px;
+}
 .frenchtablet .span68-0tQyll {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
@@ -450,39 +2600,32 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span105-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span106-0tQyll {
+.frenchtablet .span16-0tQyll {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span107-0tQyll {
+.frenchtablet .span17-0tQyll {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span108-0tQyll {
+.frenchtablet .span18-0tQyll {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span109-0tQyll {
+.frenchtablet .span19-0tQyll {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span110-0tQyll {
+.frenchtablet .span20-0tQyll {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span111-0tQyll {
+.frenchtablet .span21-0tQyll {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span112-0tQyll {
+.frenchtablet .span22-0tQyll {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span113-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span114-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+.frenchtablet .span23-0tQyll {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span24-0tQyll {
@@ -611,32 +2754,32 @@ a {
 .frenchtablet .span59-0tQyll {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span60-0tQyll {
+.frenchtablet .span151-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span152-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span61-0tQyll {
+.frenchtablet .span153-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span62-0tQyll {
+.frenchtablet .span154-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span63-0tQyll {
+.frenchtablet .span155-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span64-0tQyll {
+.frenchtablet .span156-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span65-0tQyll {
+.frenchtablet .span157-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span66-0tQyll {
+.frenchtablet .span158-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span67-0tQyll {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span159-AX1MCJ {
@@ -774,32 +2917,39 @@ a {
 .frenchtablet .span15-0tQyll {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span16-0tQyll {
+.frenchtablet .span104-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span17-0tQyll {
+.frenchtablet .span105-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span18-0tQyll {
+.frenchtablet .span106-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span19-0tQyll {
+.frenchtablet .span107-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span20-0tQyll {
+.frenchtablet .span108-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span21-0tQyll {
+.frenchtablet .span109-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span22-0tQyll {
+.frenchtablet .span110-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span23-0tQyll {
+.frenchtablet .span111-AX1MCJ {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span112-AX1MCJ {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span113-AX1MCJ {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span114-AX1MCJ {
@@ -932,31 +3082,28 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span151-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span152-AX1MCJ {
+.frenchtablet .span60-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span153-AX1MCJ {
+.frenchtablet .span61-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span154-AX1MCJ {
+.frenchtablet .span62-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span155-AX1MCJ {
+.frenchtablet .span63-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span156-AX1MCJ {
+.frenchtablet .span64-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span157-AX1MCJ {
+.frenchtablet .span65-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span158-AX1MCJ {
+.frenchtablet .span66-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -1089,39 +3236,29 @@ a {
 .frenchtablet .span103-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span104-AX1MCJ {
+.frenchtablet .span16-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span105-AX1MCJ {
+.frenchtablet .span17-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span106-AX1MCJ {
+.frenchtablet .span18-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span107-AX1MCJ {
+.frenchtablet .span19-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span108-AX1MCJ {
+.frenchtablet .span20-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span109-AX1MCJ {
+.frenchtablet .span21-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span110-AX1MCJ {
+.frenchtablet .span22-AX1MCJ {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span111-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span112-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span113-AX1MCJ {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span23-AX1MCJ {
@@ -1253,29 +3390,39 @@ a {
 .frenchtablet .span59-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span60-AX1MCJ {
+.frenchtablet .span100-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span61-AX1MCJ {
+.frenchtablet .span101-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span62-AX1MCJ {
+.frenchtablet .span102-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span63-AX1MCJ {
+.frenchtablet .span103-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span64-AX1MCJ {
+.frenchtablet .span104-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span65-AX1MCJ {
+.frenchtablet .span105-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span66-AX1MCJ {
+.frenchtablet .span106-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span107-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span108-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span109-u2W7G8 {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span110-u2W7G8 {
@@ -1417,29 +3564,42 @@ a {
 .frenchtablet .span15-AX1MCJ {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span16-AX1MCJ {
+.frenchtablet .span55-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span56-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span17-AX1MCJ {
+.frenchtablet .span57-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span18-AX1MCJ {
+.frenchtablet .span58-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span19-AX1MCJ {
+.frenchtablet .span59-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span20-AX1MCJ {
+.frenchtablet .span60-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span21-AX1MCJ {
+.frenchtablet .span61-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span22-AX1MCJ {
+.frenchtablet .span62-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span63-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span64-u2W7G8 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span65-u2W7G8 {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span66-u2W7G8 {
@@ -1561,39 +3721,32 @@ a {
 .frenchtablet .span99-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span100-u2W7G8 {
+.frenchtablet .span11-u2W7G8 {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span12-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span101-u2W7G8 {
+.frenchtablet .span13-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span102-u2W7G8 {
+.frenchtablet .span14-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span103-u2W7G8 {
+.frenchtablet .span15-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span104-u2W7G8 {
+.frenchtablet .span16-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span105-u2W7G8 {
+.frenchtablet .span17-u2W7G8 {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span106-u2W7G8 {
+.frenchtablet .span18-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span107-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span108-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span109-u2W7G8 {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span19-u2W7G8 {
@@ -1720,44 +3873,6 @@ a {
 }
 .frenchtablet .span54-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span55-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span56-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span57-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span58-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span59-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span60-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span61-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span62-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span63-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span64-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span65-u2W7G8 {
   letter-spacing      : 0.00px;
 }
 .frenchtablet {
@@ -1949,2143 +4064,6 @@ a {
 .frenchtablet .span10-u2W7G8 {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
-}
-.frenchtablet .span11-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span12-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span13-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span14-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span15-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span16-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span17-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span18-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - mobilefrench */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-10 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-3 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-.font-class-9 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.mobilefrench .auto-flex-1lKxzb {
-  align-items         : center;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 316px;
-  width               : 360px;
-}
-.mobilefrench {
-  background-color    : var(--auto-palette-color-3);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 1221.0px;
-  min-width           : 360.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.mobilefrench .group-3-iFKazk {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 61px;
-  justify-content     : flex-end;
-  left                : 0px;
-  min-width           : 100%;
-  padding             : 18.0px 62.0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : auto;
-}
-.mobilefrench .wikipedia-preview-de-9mXMgR {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  min-height          : 24px;
-  min-width           : 244px;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.mobilefrench .conseil-de-s-351curit-351-dkx7PR {
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(32,32,32,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 16.0px;
-  min-height          : 22px;
-  min-width           : 282px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.mobilefrench .le-conseil-de-s-351curi-u2W7G8 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 12px;
-  min-height          : 217px;
-  position            : relative;
-  text-align          : left;
-  width               : 330px;
-}
-.mobilefrench .certaines-d-351cisions-AX1MCJ {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 14px;
-  min-height          : 309px;
-  position            : relative;
-  text-align          : left;
-  width               : 330px;
-}
-.mobilefrench .le-conseil-de-s-351curi-0tQyll {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 1.0px;
-  margin-top          : 16px;
-  min-height          : 239px;
-  position            : relative;
-  text-align          : left;
-  width               : 329px;
-}
-.mobilefrench .group-xWfRCW {
-  background-color    : rgba(255,255,255,0);
-  height              : 247px;
-  left                : -4px;
-  position            : absolute;
-  top                 : 59px;
-  width               : 368px;
-}
-.mobilefrench .western-lowland-gorila-gorilla-gorilla-n8qraa {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-french-mask.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 247px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  padding             : 0 4.0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 368px;
-}
-.mobilefrench .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-AgUzIn {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 270px;
-  margin-bottom       : -26.0px;
-  position            : relative;
-  width               : 360px;
-}
-.mobilefrench .group-2-dTxCjt {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 24px;
-  left                : 324px;
-  position            : absolute;
-  top                 : 12px;
-  width               : 24px;
-}
-.mobilefrench .group-4-y3R4Ox {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 24px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : auto;
-}
-.mobilefrench .oval-M0gbwA {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
-  width               : 24px;
-}
-.mobilefrench .group-4-EBlBp1 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  width               : auto;
-}
-.mobilefrench .fill-3-bYL5ac {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  width               : 12px;
-}
-.mobilefrench .footer-bUTO8v {
-  align-items         : flex-end;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-end;
-  margin-top          : 12px;
-  min-width           : 360px;
-  padding             : 11.0px 34.0px;
-  position            : relative;
-  width               : auto;
-}
-.mobilefrench .this-article-uses-ma-gkVIMP {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 41px;
-  min-width           : 301px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - frenchdesktop */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-10 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-3 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-.font-class-9 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.frenchdesktop .overlap-group-4tDfkw {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 513px;
-  margin-right        : 1.0px;
-  position            : relative;
-  width               : 967px;
-}
-.frenchdesktop .auto-flex-1lKxzb {
-  align-items         : center;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 162px;
-  width               : 1440px;
-}
-.frenchdesktop .span42-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span43-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span44-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span45-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span46-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span47-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span48-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span49-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span50-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span51-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span52-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span53-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span54-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span55-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span56-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span57-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span58-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span59-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span60-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span61-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span62-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span63-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span64-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span65-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span66-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span67-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span68-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span69-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span70-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span71-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span72-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span73-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span74-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span75-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span76-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .wikipedia-preview-de-iOCx9n {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 495px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 31px;
-  width               : auto;
-}
-.frenchdesktop .footer-bUTO8v {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.frenchdesktop .this-article-uses-ma-gkVIMP {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 630px;
-}
-.frenchdesktop .span178-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span179-AX1MCJ {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .western-lowland-gorila-gorilla-gorilla-MJAoeI {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/french---desktop-mask.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 513px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  padding             : 0 4.0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 967px;
-}
-.frenchdesktop .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-1Bixsv {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 719px;
-  margin-top          : -92.0px;
-  position            : relative;
-  width               : 959px;
-}
-.frenchdesktop .le-conseil-de-s-351curi-0tQyll {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-right        : 2.0px;
-  margin-top          : 22px;
-  min-height          : 126px;
-  position            : relative;
-  text-align          : left;
-  width               : 630px;
-}
-.frenchdesktop .span1-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span2-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span3-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span4-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span5-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span6-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span7-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span8-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span9-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span11-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span12-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span13-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span14-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span15-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span16-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span17-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span18-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span19-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span20-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span21-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span22-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span23-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span24-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span25-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span26-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span27-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span28-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span29-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span30-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span31-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span32-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span33-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span34-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span35-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span36-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span37-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span38-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span39-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span40-0tQyll {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span41-0tQyll {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span134-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span135-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span136-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span137-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span138-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span139-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span140-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span141-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span142-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span143-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span144-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span145-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span146-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span147-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span148-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span149-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span150-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span151-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span152-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span153-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span154-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span155-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span156-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span157-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span158-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span159-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span160-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span161-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span162-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span163-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span164-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span165-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span166-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span167-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span168-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span169-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span170-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span171-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span172-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span173-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span174-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span175-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span176-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span177-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span90-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span91-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span92-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span93-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span94-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span95-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span96-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span97-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span98-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span99-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span100-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span101-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span102-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span103-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span104-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span105-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span106-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span107-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span108-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span109-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span110-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span111-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span112-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span113-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span114-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span115-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span116-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span117-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span118-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span119-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span120-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span121-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span122-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span123-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span124-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span125-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span126-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span127-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span128-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span129-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span130-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span131-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span132-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span133-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span45-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span46-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span47-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span48-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span49-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span50-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span51-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span52-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span53-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span54-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span55-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span56-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span57-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span58-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span59-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span60-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span61-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span62-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span63-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span64-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span65-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span66-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span67-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span68-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span69-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span70-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span71-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span72-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span73-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span74-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span75-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span76-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span77-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span78-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span79-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span80-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span81-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span82-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span83-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span84-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span85-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span86-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span87-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span88-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span89-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span129-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span130-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .certaines-d-351cisions-AX1MCJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 272px;
-  position            : relative;
-  text-align          : left;
-  width               : 632px;
-}
-.frenchdesktop .span1-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span2-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span3-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span4-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span5-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span6-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span7-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span8-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span9-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span11-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span12-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span13-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span14-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span15-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span16-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span17-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span18-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span19-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span20-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span21-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span22-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span23-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span24-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span25-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span26-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span27-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span28-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span29-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span30-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span31-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span32-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span33-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span34-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span35-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span36-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span37-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span38-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span39-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span40-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span41-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span42-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span43-AX1MCJ {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span44-AX1MCJ {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span85-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span86-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span87-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span88-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span89-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span90-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span91-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span92-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span93-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span94-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span95-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span96-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span97-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span98-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span99-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span100-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span101-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span102-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span103-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span104-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span105-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span106-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span107-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span108-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span109-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span110-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span111-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span112-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span113-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span114-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span115-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span116-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span117-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span118-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span119-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span120-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span121-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span122-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span123-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span124-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span125-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span126-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span127-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span128-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span41-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span42-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span43-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span44-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span45-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span46-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span47-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span48-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span49-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span50-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span51-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span52-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span53-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span54-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span55-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span56-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span57-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span58-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span59-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span60-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span61-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span62-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span63-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span64-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span65-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span66-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span67-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span68-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span69-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span70-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span71-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span72-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span73-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span74-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span75-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span76-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span77-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span78-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span79-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span80-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span81-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span82-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span83-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span84-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-dkx7PR {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span11-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .line-copy-5-mQhVGC {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 167px;
-  position            : absolute;
-  top                 : 350px;
-  width               : 655px;
-}
-.frenchdesktop .le-conseil-de-s-351curi-u2W7G8 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 189px;
-  position            : relative;
-  text-align          : left;
-  width               : 632px;
-}
-.frenchdesktop .span1-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span2-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span3-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span4-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span5-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span6-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span7-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span8-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span9-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span11-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span12-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span13-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span14-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span15-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span16-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span17-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span18-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span19-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span20-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span21-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span22-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span23-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span24-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span25-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span26-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span27-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span28-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span29-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span30-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span31-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span32-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span33-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span34-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span35-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span36-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span37-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span38-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span39-u2W7G8 {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span40-u2W7G8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop {
-  background-color    : var(--auto-palette-color-3);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 1536.0px;
-  min-width           : 1440.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.frenchdesktop .group-xWfRCW {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/index-rectangle-1.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -3px;
-  width               : 100%;
-}
-.frenchdesktop .conseil-de-s-351curit-351-dkx7PR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 40.0px;
-  height              : auto;
-  line-height         : 40.0px;
-  margin-top          : 35px;
-  min-height          : 53px;
-  position            : relative;
-  text-align          : left;
-  width               : 632px;
-}
-.frenchdesktop .span1-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span2-dkx7PR {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span3-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span4-dkx7PR {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span5-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span6-dkx7PR {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span7-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span8-dkx7PR {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
-}
-.frenchdesktop .span9-dkx7PR {
-  letter-spacing      : 0.00px;
-  line-height         : 43.7px;
 }
 @media screen and (max-width: 767px) {
   .frenchtablet {

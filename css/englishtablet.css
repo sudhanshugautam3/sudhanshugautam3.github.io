@@ -117,7 +117,7 @@ a {
 .anima-auto-animated .anima-container-center-horizontal {
   opacity             : 1;
 }
-/* ANIMA screen - englishmobile */
+/* ANIMA screen - englishtablet */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -164,198 +164,230 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.englishmobile .wildlife-in-the-cent-copy-GzNM97 {
+.englishtablet .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 2.0px;
-  margin-top          : 18px;
-  min-height          : 334px;
-  position            : relative;
-  text-align          : left;
-  width               : 330px;
+  height              : 273px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 94px;
+  width               : 768px;
 }
-.englishmobile .realising-the-seriou-copy-xryUux {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 408px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.englishmobile .in-2014-the-chinko-copy-U1Tvhc {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 336px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.englishmobile .group-xWfRCW {
-  align-items         : flex-start;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-start;
-  margin-top          : 36px;
-  min-width           : 360px;
-  padding             : 11.0px 15.0px;
-  position            : relative;
-  width               : auto;
-}
-.englishmobile .this-article-uses-ma-IENLXr {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 41px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 330px;
-}
-.englishmobile {
+.englishtablet .auto-flex-1lKxzb {
   align-items         : center;
-  background-color    : var(--auto-palette-color-3);
+  background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 387px;
+  width               : 768px;
+}
+.englishtablet .wildlife-of-the-cent-o1Sjtq {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 27px;
+  position            : relative;
+  text-align          : left;
+  width               : 497px;
+}
+.englishtablet .wildlife-in-the-cent-copy-2-MAWU1p {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 10px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.englishtablet .realising-the-seriou-copy-2-VzDAHB {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 48.0px;
+  margin-top          : 15px;
+  min-height          : 240px;
+  position            : relative;
+  text-align          : left;
+  width               : 570px;
+}
+.englishtablet .in-2014-the-chinko-copy-2-JID1fG {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 48.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  width               : 570px;
+}
+.englishtablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 659px;
+  position            : absolute;
+  top                 : 10px;
+  width               : 34px;
+}
+.englishtablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 34px;
+}
+.englishtablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  width               : auto;
+}
+.englishtablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  width               : 18px;
+}
+.englishtablet .footer-bUTO8v {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 768px;
+  padding             : 0 99.0px;
+  position            : relative;
+  width               : auto;
+}
+.englishtablet .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 570px;
+}
+.englishtablet {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
   margin              : 0px;
-  min-height          : 1565px;
-  min-width           : 360.0px;
+  min-height          : 1176.0px;
+  min-width           : 768.0px;
   overflow            : hidden;
   position            : relative;
   width               : 100%;
 }
-.englishmobile .group-5-hx9j3X {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 61px;
-  justify-content     : flex-end;
-  min-width           : 100%;
-  padding             : 18.0px 62.0px;
-  position            : relative;
-  width               : auto;
-}
-.englishmobile .wikipedia-preview-de-YSOy9S {
+.englishtablet .group-xWfRCW {
   background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  min-height          : 24px;
-  min-width           : 244px;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.englishmobile .group-6-gOTYvh {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-mobile-westernlowlandgorilagorillagorilla-copy.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 239px;
-  justify-content     : flex-end;
-  margin-top          : 2px;
-  min-width           : 360px;
-  padding             : 8.0px 16.0px;
-  position            : relative;
-  width               : auto;
-}
-.englishmobile .group-2-6KnbGM {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 24px;
-  position            : relative;
-  width               : 24px;
-}
-.englishmobile .group-4-k6CTqb {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 24px;
-  justify-content     : flex-start;
+  height              : 96px;
   left                : 0px;
   position            : absolute;
   top                 : 0px;
+  width               : 100%;
+}
+.englishtablet .header-SkiqXa {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 770px;
+}
+.englishtablet .wikipedia-preview-de-wrmSLk {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 25.0px;
+  height              : auto;
+  left                : 197px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 26px;
   width               : auto;
 }
-.englishmobile .oval-bHeIvN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
-  width               : 24px;
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  width               : 768px;
 }
-.englishmobile .group-4-GEJPHA {
+.englishtablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-AIOhYs {
+  background-color    : rgba(255,255,255,0);
+  height              : 536px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -131px;
+  width               : 768px;
+}
+.englishtablet .english-xvR7vd {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 12px;
+  flex-shrink         : 0;
+  height              : 27px;
   justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  width               : auto;
-}
-.englishmobile .fill-3-plsuvL {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
+  margin-right        : 27.0px;
+  min-width           : 495px;
   position            : relative;
-  width               : 12px;
-}
-.englishmobile .wildlife-of-the-cent-POOjaJ {
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
-  min-width           : 289px;
-  position            : relative;
-  text-align          : left;
   width               : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
@@ -808,7 +840,7 @@ a {
 .anima-auto-animated .anima-container-center-horizontal {
   opacity             : 1;
 }
-/* ANIMA screen - englishtablet */
+/* ANIMA screen - englishmobile */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -855,230 +887,198 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.englishtablet .overlap-group-Y7zamN {
+.englishmobile .fill-3-plsuvL {
   background-color    : rgba(255,255,255,0);
-  height              : 273px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 94px;
-  width               : 768px;
-}
-.englishtablet .auto-flex-1lKxzb {
-  align-items         : center;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 387px;
-  width               : 768px;
-}
-.englishtablet .this-article-uses-ma-gkVIMP {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
   flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
+  height              : 12px;
   position            : relative;
-  text-align          : center;
-  width               : 570px;
+  width               : 12px;
 }
-.englishtablet {
-  background-color    : var(--auto-palette-color-3);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 1176.0px;
-  min-width           : 768.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.englishtablet .group-xWfRCW {
-  background-color    : rgba(255,255,255,0);
-  height              : 96px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 100%;
-}
-.englishtablet .header-SkiqXa {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 96px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 770px;
-}
-.englishtablet .wikipedia-preview-de-wrmSLk {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 25.0px;
-  height              : auto;
-  left                : 197px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 26px;
-  width               : auto;
-}
-.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 273px;
-  left                : 0px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  width               : 768px;
-}
-.englishtablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  width               : 768px;
-}
-.englishtablet .western-lowland-gorila-gorilla-gorilla-copy-AIOhYs {
-  background-color    : rgba(255,255,255,0);
-  height              : 536px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -131px;
-  width               : 768px;
-}
-.englishtablet .english-xvR7vd {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 27px;
-  justify-content     : flex-start;
-  margin-right        : 27.0px;
-  min-width           : 495px;
-  position            : relative;
-  width               : auto;
-}
-.englishtablet .wildlife-of-the-cent-o1Sjtq {
+.englishmobile .wildlife-of-the-cent-POOjaJ {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 27px;
-  position            : relative;
-  text-align          : left;
-  width               : 497px;
-}
-.englishtablet .wildlife-in-the-cent-copy-2-MAWU1p {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 10px;
-  min-height          : 192px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
-}
-.englishtablet .realising-the-seriou-copy-2-VzDAHB {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 48.0px;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
   margin-top          : 15px;
-  min-height          : 240px;
+  min-height          : 22px;
   position            : relative;
   text-align          : left;
-  width               : 570px;
+  width               : calc(100.00% - 83px);
 }
-.englishtablet .in-2014-the-chinko-copy-2-JID1fG {
+.englishmobile .wildlife-in-the-cent-copy-GzNM97 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 24.0px;
-  margin-left         : 48.0px;
-  margin-top          : 15px;
-  min-height          : 192px;
+  margin-left         : 16.0px;
+  margin-top          : 18px;
+  min-height          : 334px;
   position            : relative;
   text-align          : left;
-  width               : 570px;
+  width               : calc(100.00% - 32px);
 }
-.englishtablet .group-2-8SiD8y {
+.englishmobile .realising-the-seriou-copy-xryUux {
   background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 33px;
-  left                : 659px;
-  position            : absolute;
-  top                 : 10px;
-  width               : 34px;
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 408px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
 }
-.englishtablet .group-4-xTHy2w {
+.englishmobile .in-2014-the-chinko-copy-U1Tvhc {
   background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-tablet-oval@2x.png");
-  background-size     : 100% 100%;
-  height              : 33px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 34px;
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 336px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
 }
-.englishtablet .group-4-N5dxCB {
+.englishmobile .group-xWfRCW {
   align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 18px;
-  justify-content     : flex-start;
-  left                : 8px;
-  position            : absolute;
-  top                 : 8px;
-  width               : auto;
-}
-.englishtablet .fill-3-KbVuVx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 18px;
-  position            : relative;
-  width               : 18px;
-}
-.englishtablet .footer-bUTO8v {
-  align-items         : center;
   background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 58px;
+  height              : 64px;
   justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 768px;
-  padding             : 0 99.0px;
+  margin-top          : 36px;
+  min-width           : 100%;
+  padding             : 11.0px 15.0px;
   position            : relative;
+  width               : auto;
+}
+.englishmobile .this-article-uses-ma-IENLXr {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 41px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 330px;
+}
+.englishmobile {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  margin              : 0px;
+  min-height          : 1565px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.englishmobile .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 61px;
+  justify-content     : flex-end;
+  min-width           : 100%;
+  padding             : 18.0px 62.0px;
+  position            : relative;
+  width               : auto;
+}
+.englishmobile .wikipedia-preview-de-YSOy9S {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.englishmobile .group-6-gOTYvh {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/english-mobile-westernlowlandgorilagorillagorilla-copy.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 239px;
+  justify-content     : flex-end;
+  margin-top          : 2px;
+  min-width           : 360px;
+  padding             : 8.0px 16.0px;
+  position            : relative;
+  width               : auto;
+}
+.englishmobile .group-2-6KnbGM {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  flex-shrink         : 0;
+  height              : 24px;
+  position            : relative;
+  width               : 24px;
+}
+.englishmobile .group-4-k6CTqb {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
+}
+.englishmobile .oval-bHeIvN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  width               : 24px;
+}
+.englishmobile .group-4-GEJPHA {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
   width               : auto;
 }
 @media screen and (max-width: 767px) {
