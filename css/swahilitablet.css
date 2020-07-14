@@ -1,418 +1,5 @@
 
 
-.bp3-mobileswahili {
-  width               : 100%;
-  min-width           : 360px;
-  height              : 100vh;
-  min-height          : 1183px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp3-mobileswahili .bp3-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 62px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 62px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : auto;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 21px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp3-mobileswahili .bp3-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 316px;
-  height              : auto;
-  width               : 72px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.6px;
-}
-.bp3-mobileswahili .bp3-afrikanibaralapi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 353px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-afrikanibaralapi1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 488px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-nenoafrikalimeto {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 623px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-maeneoyandanikuel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 854px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-katikaramanizakal {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 965px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
-  height              : 239px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-a640pxkobli1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 320px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 .bp3-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 6px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1119px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 19px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 15px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 9.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 13.5px;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span1 {
-  
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span3 {
-  
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
 .bp1-swahilidesktop {
   width               : 100%;
   min-width           : 1440px;
@@ -470,11 +57,11 @@ div {
 .bp1-swahilidesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 1px;
-  width               : 653px;
+  height              : 2px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -653,6 +240,419 @@ div {
 }
 .bp1-swahilidesktop .bp1-footer .bp1-thisarticleusesma-layout-container > * {
   pointer-events      : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp3-mobileswahili {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 1183px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-mobileswahili .bp3-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group .bp3-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 20px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobileswahili .bp3-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : calc(100.00% - 1161px);
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobileswahili .bp3-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : calc(100.00% - 1063px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-mobileswahili .bp3-afrikanibaralapi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : calc(100.00% - 1063px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-mobileswahili .bp3-nenoafrikalimeto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 623px;
+  height              : calc(100.00% - 967px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-mobileswahili .bp3-maeneoyandanikuel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 854px;
+  height              : calc(100.00% - 1087px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-mobileswahili .bp3-katikaramanizakal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 965px;
+  height              : calc(100.00% - 1063px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-mobileswahili .bp3-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 239px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 .bp3-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1119px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group5 .bp3-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
+}
+.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span1 {
+  
+}
+.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span2 {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span3 {
+  
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

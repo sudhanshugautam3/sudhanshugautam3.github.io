@@ -1,0 +1,3302 @@
+
+
+.bp2-index {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1178px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-index .bp2-english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 134px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-english .bp2-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-english .bp2-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-english .bp2-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index .bp2-english .bp2-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-westernlowlandgorilagorillagorillacopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 120px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : -16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 120px;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.0px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span1 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span3 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span5 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span6 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span7 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span8 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span9 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span10 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span11 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span12 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span13 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span14 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span15 {
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-hindi .bp2-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span1 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span3 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span5 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span6 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span7 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span8 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span9 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span10 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span11 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span12 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span13 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span14 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span15 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span16 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span17 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span18 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span19 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span20 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span21 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span22 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span23 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span24 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span25 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span26 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span27 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span28 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span29 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span30 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span31 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span32 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span33 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span34 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span35 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span36 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span37 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span38 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span39 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span40 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span41 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span42 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span43 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span44 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span45 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span46 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span47 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span48 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span49 {
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span50 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : -61px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 458px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-french .bp2-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-french .bp2-language267french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-french .bp2-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 618px;
+  height              : 120px;
+  width               : 538px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-spanish .bp2-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-spanish .bp2-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-spanish .bp2-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 397px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -37px;
+  height              : 195px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 778px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-swahili .bp2-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-swahili .bp2-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-swahili .bp2-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 371px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 938px;
+  height              : 120px;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-chinese .bp2-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index .bp2-chinese .bp2-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index .bp2-chinese .bp2-u8c93uff08u5b78u540duff1afeliscatus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 398px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 124px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-header .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-header .bp2-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp2-index .bp2-header .bp2-wikipediapreviewde-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 26px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-index .bp2-header .bp2-wikipediapreviewde-layout-container > * {
+  pointer-events      : auto;
+}
+.bp2-index .bp2-linecopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 283px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-linecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 603px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 443px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-linecopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 763px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-linecopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 923px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 58px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-footer .bp2-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index .bp2-footer .bp2-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : 570px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-index .bp2-footer .bp2-articlesonthislis-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 11px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-index .bp2-footer .bp2-articlesonthislis-layout-container > * {
+  pointer-events      : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp3-mobile {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 978px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-mobile .bp3-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 87px;
+  align-items         : center;
+  height              : calc(100.00% - 862px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group6-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group6 .bp3-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6 .bp3-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group6 .bp3-language267englishcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 533px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group3-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group3 .bp3-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group3 .bp3-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group3 .bp3-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -25px;
+  height              : 123px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 656px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group2-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group2 .bp3-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group2 .bp3-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group2 .bp3-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 779px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group .bp3-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span1 {
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span3 {
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span5 {
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group5-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 233px;
+  align-items         : center;
+  height              : calc(100.00% - 872px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group5-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group5 .bp3-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : -43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span1 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span3 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span5 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span6 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span7 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span8 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span9 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span10 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span11 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span12 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span13 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span14 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span15 {
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span1 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span3 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span5 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span6 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span7 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span8 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span9 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span10 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span11 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span12 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span13 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span14 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span15 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span16 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span17 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span18 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span19 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span20 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span21 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span22 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span23 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span24 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span25 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span26 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span27 {
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 218px;
+  height              : 1px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : 1px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 640px;
+  height              : 3px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 764px;
+  height              : 3px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 369px;
+  align-items         : center;
+  height              : calc(100.00% - 844px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group4-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group4 .bp3-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-mobile .bp3-group4 .bp3-language267frenchcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group4 .bp3-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 25.6px;
+}
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 517px;
+  height              : 1px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 914px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 933px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
+}
+.bp3-mobile .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp1-desktop {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1520px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-desktop .bp1-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 345px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 144px;
+  height              : 180px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 .bp1-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group6 .bp1-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group6 .bp1-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : 408px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-westernlowlandgorilagorillagorillacopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : -46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 793px;
+  height              : 177px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group3 .bp1-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group3 .bp1-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group3 .bp1-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 408px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -41px;
+  height              : 257px;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1010px;
+  height              : 175px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group2 .bp1-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group2 .bp1-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group2 .bp1-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 408px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : -47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 578px;
+  height              : 175px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group4 .bp1-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group4 .bp1-language267french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group4 .bp1-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : 408px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : -32px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 361px;
+  height              : 175px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span1 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span2 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span3 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span5 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span6 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span7 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span8 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span9 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span10 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span11 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span12 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span13 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span14 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span15 {
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 388px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span1 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span3 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span5 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span6 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span7 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span8 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span9 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span10 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span11 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span12 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span13 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span14 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span15 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span16 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span17 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span18 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span19 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span20 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span21 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span22 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span23 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span24 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span25 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span26 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span27 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span28 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span29 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span30 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span31 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span32 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span33 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span34 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span35 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span36 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span37 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span38 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span39 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span40 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span41 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span42 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span43 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span44 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span45 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span46 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span47 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span48 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span49 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span50 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span51 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span52 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span53 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span54 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span55 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span56 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span57 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span58 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span59 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span60 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span61 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span62 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span63 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span64 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span65 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : -104px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-linecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1209px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 994px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 777px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 562px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1225px;
+  height              : 175px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-groupcopy .bp1-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-desktop .bp1-groupcopy .bp1-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-groupcopy .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 387px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 183px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : -29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp1-desktop .bp1-wikipediapreviewde-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 31px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop .bp1-wikipediapreviewde-layout-container > * {
+  pointer-events      : auto;
+}
+.bp1-desktop .bp1-group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1440px;
+  height              : 80px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group21 .bp1-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : 630px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 19px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container > * {
+  pointer-events      : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+@media screen and (max-width: 767px) {
+  .bp3-mobile {
+    display             : block;
+  }
+  .bp2-index {
+    display             : none;
+  }
+  .bp1-desktop {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .bp3-mobile {
+    display             : none;
+  }
+  .bp2-index {
+    display             : block;
+  }
+  .bp1-desktop {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp3-mobile {
+    display             : none;
+  }
+  .bp2-index {
+    display             : none;
+  }
+  .bp1-desktop {
+    display             : block;
+  }
+}

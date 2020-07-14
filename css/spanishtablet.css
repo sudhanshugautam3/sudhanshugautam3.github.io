@@ -19,8 +19,8 @@ div {
 .bp3-mobilespanishcopy .bp3-nikolatesla {
   background-color    : rgba(255,255,255,0.0);
   top                 : 316px;
-  height              : auto;
-  width               : 108px;
+  height              : calc(100.00% - 1104px);
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -35,8 +35,8 @@ div {
 .bp3-mobilespanishcopy .bp3-nikolateslafueun {
   background-color    : rgba(255,255,255,0.0);
   top                 : 350px;
-  height              : auto;
-  width               : 330px;
+  height              : calc(100.00% - 766px);
+  width               : 328px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -51,8 +51,8 @@ div {
 .bp3-mobilespanishcopy .bp3-sucar341ctersuenfr {
   background-color    : rgba(255,255,255,0.0);
   top                 : 725px;
-  height              : auto;
-  width               : 330px;
+  height              : calc(100.00% - 958px);
+  width               : 328px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -67,8 +67,8 @@ div {
 .bp3-mobilespanishcopy .bp3-nikolatesladeetn {
   background-color    : rgba(255,255,255,0.0);
   top                 : 908px;
-  height              : auto;
-  width               : 330px;
+  height              : calc(100.00% - 1006px);
+  width               : 328px;
   position            : absolute;
   margin              : 0;
   left                : 16px;
@@ -194,7 +194,7 @@ div {
 .bp3-mobilespanishcopy .bp3-group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 62px;
+  height              : 61px;
   width               : 360px;
   position            : absolute;
   margin              : 0;
@@ -205,7 +205,7 @@ div {
 .bp3-mobilespanishcopy .bp3-group3 .bp3-rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 62px;
+  height              : 61px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -229,7 +229,7 @@ div {
 .bp3-mobilespanishcopy .bp3-group3 .bp3-wikipediapreviewde-layout-container {
   pointer-events      : none;
   flex-direction      : column;
-  top                 : 21px;
+  top                 : 20px;
   align-items         : center;
   height              : auto;
   width               : 100%;
@@ -461,11 +461,11 @@ div {
 .bp1-spanishdesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 1px;
-  width               : 653px;
+  height              : 2px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

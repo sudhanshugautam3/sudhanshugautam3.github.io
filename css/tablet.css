@@ -1,10 +1,10 @@
 
 
-.bp3-mobile {
+.bp1-desktop {
   width               : 100%;
-  min-width           : 360px;
+  min-width           : 1440px;
   height              : 100vh;
-  min-height          : 978px;
+  min-height          : 1520px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -16,74 +16,76 @@
 div {
   -webkit-text-size-adjust: none;
 }
-.bp3-mobile .bp3-group6 {
+.bp1-desktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 87px;
-  height              : 116px;
-  width               : 328px;
+  top                 : 345px;
+  height              : 1px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group6 .bp3-wildlifeofthecent {
+.bp1-desktop .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 144px;
+  height              : 180px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 .bp1-wildlifeofthecent {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 244px;
+  width               : 410px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 21.6px;
+  line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 70px;
-  position            : absolute;
-  margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+.bp1-desktop .bp1-group6 .bp1-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 113px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 4px;
   transform           : rotate(0deg);
   opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
 }
-.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-westernlowlandgorilagorillagorillacopy {
+.bp1-desktop .bp1-group6 .bp1-wildlifeinthecent {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 108px;
-  position            : absolute;
-  margin              : 0;
-  left                : -19px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group6 .bp3-wildlifeinthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 71px;
+  top                 : 90px;
   height              : auto;
-  width               : 244px;
+  width               : 408px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -95,54 +97,90 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp3-mobile .bp3-group6 .bp3-language267englishcopy4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 47px;
-  height              : auto;
-  width               : auto;
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  border-radius       : 3px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 12.0px;
 }
-.bp3-mobile .bp3-group3 {
+.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-westernlowlandgorilagorillagorillacopy1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 532px;
-  height              : 93px;
-  width               : 328px;
+  top                 : 0px;
+  height              : 180px;
+  width               : 258px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : -46px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group3 .bp3-nikolatesla {
+.bp1-desktop .bp1-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 793px;
+  height              : 177px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group3 .bp1-nikolatesla {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 112px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 21.6px;
+  line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group3 .bp3-nikolateslafueun {
+.bp1-desktop .bp1-group3 .bp1-language267spanish {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 50px;
+  top                 : 39px;
   height              : auto;
-  width               : 244px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group3 .bp1-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 408px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -154,90 +192,90 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp3-mobile .bp3-group3 .bp3-language267spanish {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 12.0px;
-}
-.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 {
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 176px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
+  left                : 489px;
+  border-radius       : 3px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-mask {
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 176px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 4px;
+  border-radius       : 3px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-a535pxteslasarony {
+.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-a535pxteslasarony {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -25px;
-  height              : 123px;
-  width               : 91px;
+  top                 : -41px;
+  height              : 257px;
+  width               : 186px;
   position            : absolute;
   margin              : 0;
-  left                : -10px;
+  left                : -11px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group2 {
+.bp1-desktop .bp1-group2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 657px;
-  height              : 93px;
-  width               : 328px;
+  top                 : 1010px;
+  height              : 175px;
+  width               : 654px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group2 .bp3-afrika {
+.bp1-desktop .bp1-group2 .bp1-afrika {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 58px;
+  width               : 92px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 21.6px;
+  line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group2 .bp3-afrikanibaralapi {
+.bp1-desktop .bp1-group2 .bp1-language267swahili {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 50px;
+  top                 : 38px;
   height              : auto;
-  width               : 244px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group2 .bp1-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 408px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -249,306 +287,237 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp3-mobile .bp3-group2 .bp3-language267swahili {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 12.0px;
-}
-.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 {
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
+  left                : 489px;
+  border-radius       : 3px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-mask {
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 4px;
+  border-radius       : 3px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-a640pxkobli1 {
+.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-a640pxkobli1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 108px;
+  height              : 175px;
+  width               : 259px;
   position            : absolute;
   margin              : 0;
-  left                : -19px;
+  left                : -47px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group {
+.bp1-desktop .bp1-group4 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 781px;
-  height              : 93px;
-  width               : 328px;
+  top                 : 578px;
+  height              : 175px;
+  width               : 654px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group .bp3-u732b {
+.bp1-desktop .bp1-group4 .bp1-conseildes351curit351 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 19px;
+  width               : 410px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 1px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 21.6px;
+  line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 70px;
-  position            : absolute;
-  margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 70px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 4px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-a594pxcatposter2 {
+.bp1-desktop .bp1-group4 .bp1-language267french {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 89px;
-  position            : absolute;
-  margin              : 0;
-  left                : -9px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group .bp3-language267chinese {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
+  top                 : 62px;
   height              : auto;
-  width               : auto;
+  width               : 113px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
+  font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 12.0px;
+  line-height         : 15.0px;
 }
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+.bp1-desktop .bp1-group4 .bp1-leconseildes351curi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 50px;
+  top                 : 90px;
   height              : auto;
-  width               : 244px;
+  width               : 408px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 1px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : "Georgia", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 16.0px;
-}
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span1 {
   line-height         : 22.4px;
 }
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span2 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 22.4px;
-}
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span3 {
-  line-height         : 22.4px;
-}
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span4 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 22.4px;
-}
-.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span5 {
-  line-height         : 22.4px;
-}
-.bp3-mobile .bp3-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 233px;
-  height              : 106px;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-group5 .bp3-language267hindi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 32px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 12.0px;
-}
-.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 {
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
+  left                : 489px;
+  border-radius       : 3px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 4px;
+  border-radius       : 3px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxpanoramicviewofranimahalkalinjarfort {
+.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 157px;
+  height              : 175px;
+  width               : 229px;
   position            : absolute;
   margin              : 0;
-  left                : -43px;
+  left                : -32px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy {
+.bp1-desktop .bp1-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 361px;
+  height              : 175px;
+  width               : 654px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 244px;
+  width               : 410px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 16.0px;
+  line-height         : 24.0px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span1 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span1 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span2 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span2 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span3 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span3 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span4 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span4 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span5 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span5 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span6 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span6 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span7 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span7 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span8 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span8 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span9 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span9 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span10 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span10 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span11 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span11 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span12 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span12 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span13 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span13 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span14 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span14 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span15 {
+.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span15 {
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+.bp1-desktop .bp1-group5 .bp1-language267hindi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 56px;
+  top                 : 41px;
   height              : auto;
-  width               : 244px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 388px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -560,251 +529,409 @@ div {
   text-align          : left;
   line-height         : 16.0px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span1 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span1 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span2 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span2 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span3 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span3 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span4 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span4 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span5 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span5 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span6 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span6 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span7 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span7 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span8 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span8 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span9 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span9 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span10 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span10 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span11 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span11 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span12 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span12 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span13 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span13 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span14 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span14 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span15 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span15 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span16 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span16 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span17 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span17 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span18 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span18 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span19 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span19 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span20 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span20 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span21 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span21 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span22 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span22 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span23 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span23 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span24 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span24 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span25 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span25 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span26 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span26 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span27 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span27 {
   line-height         : 25.6px;
 }
-.bp3-mobile .bp3-linecopy5 {
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span28 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span29 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span30 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span31 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span32 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span33 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span34 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span35 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span36 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span37 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span38 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span39 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span40 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span41 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span42 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span43 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span44 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span45 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span46 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span47 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span48 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span49 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span50 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span51 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span52 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span53 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span54 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span55 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span56 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span57 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span58 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span59 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span60 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span61 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span62 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span63 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span64 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span65 {
+  line-height         : 25.6px;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 489px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 218px;
+  top                 : 0px;
+  height              : 175px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : -104px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-linecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1209px;
   height              : 1px;
-  width               : 329px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-linecopy6 {
+.bp1-desktop .bp1-linecopy9 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 353px;
+  top                 : 994px;
   height              : 1px;
-  width               : 329px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-linecopy8 {
+.bp1-desktop .bp1-linecopy7 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 640px;
-  height              : 3px;
-  width               : 327px;
+  top                 : 777px;
+  height              : 1px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-linecopy9 {
+.bp1-desktop .bp1-linecopy6 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 764px;
-  height              : 3px;
-  width               : 327px;
+  top                 : 562px;
+  height              : 1px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group4 {
+.bp1-desktop .bp1-groupcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 368px;
-  height              : 134px;
-  width               : 328px;
+  top                 : 1225px;
+  height              : 175px;
+  width               : 654px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group4 .bp3-conseildes351curit351 {
+.bp1-desktop .bp1-groupcopy .bp1-u732b {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 244px;
+  width               : 30px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
   line-height         : 27.6px;
 }
-.bp3-mobile .bp3-group4 .bp3-language267frenchcopy {
+.bp1-desktop .bp1-groupcopy .bp1-language267chinese {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 59px;
+  top                 : 34px;
   height              : auto;
-  width               : auto;
+  width               : 113px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 11.0px;
+  font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 12.0px;
+  line-height         : 15.0px;
 }
-.bp3-mobile .bp3-group4 .bp3-leconseildes351curi {
+.bp1-desktop .bp1-groupcopy .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 84px;
+  top                 : 59px;
   height              : auto;
-  width               : 244px;
+  width               : 387px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 25.6px;
+  line-height         : 22.4px;
 }
-.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 {
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
-  border-radius       : 4px;
+  left                : 489px;
+  border-radius       : 3px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 72px;
-  width               : 70px;
+  height              : 175px;
+  width               : 165px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 4px;
+  border-radius       : 3px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-a594pxcatposter2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 96px;
+  top                 : -4px;
+  height              : 183px;
+  width               : 223px;
   position            : absolute;
   margin              : 0;
-  left                : -8px;
+  left                : -29px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-wikipediapreviewde {
+.bp1-desktop .bp1-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
   position            : relative;
   height              : auto;
@@ -812,15 +939,15 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
   text-align          : center;
-  line-height         : 21.0px;
+  line-height         : 52.8px;
 }
-.bp3-mobile .bp3-wikipediapreviewde-layout-container {
+.bp1-desktop .bp1-wikipediapreviewde-layout-container {
   pointer-events      : none;
   flex-direction      : column;
-  top                 : 21px;
+  top                 : 31px;
   align-items         : center;
   height              : auto;
   width               : 100%;
@@ -829,24 +956,13 @@ div {
   display             : flex;
   left                : 0;
 }
-.bp3-mobile .bp3-wikipediapreviewde-layout-container > * {
+.bp1-desktop .bp1-wikipediapreviewde-layout-container > * {
   pointer-events      : auto;
 }
-.bp3-mobile .bp3-linecopy7 {
+.bp1-desktop .bp1-group21 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 517px;
-  height              : 1px;
-  width               : 329px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobile .bp3-rectangle1 {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 914px;
-  height              : 64px;
+  top                 : 1440px;
+  height              : 80px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -854,21 +970,44 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-mobile .bp3-articlesonthislis {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 933px;
-  height              : auto;
-  width               : 330px;
+.bp1-desktop .bp1-group21 .bp1-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : 15px;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : 630px;
   transform           : rotate(0deg);
   opacity             : 0.8;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 9.0px;
+  font-size           : 13.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 13.5px;
+  line-height         : 21.0px;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 19px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container > * {
+  pointer-events      : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -2082,11 +2221,11 @@ div {
   word-break          : break-all;
   word-break          : break-word;
 }
-.bp1-desktop {
+.bp3-mobile {
   width               : 100%;
-  min-width           : 1440px;
+  min-width           : 360px;
   height              : 100vh;
-  min-height          : 1520px;
+  min-height          : 978px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -2098,76 +2237,86 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp1-desktop .bp1-linecopy5 {
+.bp3-mobile .bp3-group6 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 345px;
-  height              : 1px;
-  width               : 655px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
+.bp3-mobile .bp3-group6-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 87px;
+  align-items         : center;
+  height              : calc(100.00% - 862px);
   width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  display             : flex;
+  left                : 0;
 }
-.bp1-desktop .bp1-group6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 144px;
-  height              : 180px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.bp3-mobile .bp3-group6-layout-container > * {
+  pointer-events      : auto;
 }
-.bp1-desktop .bp1-group6 .bp1-wildlifeofthecent {
+.bp3-mobile .bp3-group6 .bp3-wildlifeofthecent {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 410px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 27.6px;
+  line-height         : 21.6px;
 }
-.bp1-desktop .bp1-group6 .bp1-language267english {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 64px;
-  height              : auto;
-  width               : 113px;
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  border-radius       : 4px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
 }
-.bp1-desktop .bp1-group6 .bp1-wildlifeinthecent {
+.bp3-mobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-westernlowlandgorilagorillagorillacopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 90px;
+  top                 : 0px;
+  height              : 72px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group6 .bp3-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
   height              : auto;
-  width               : 408px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -2179,90 +2328,66 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 180px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 180px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group6 .bp1-westernlowlandgorilagorillagorillacopy .bp1-westernlowlandgorilagorillagorillacopy1 {
+.bp3-mobile .bp3-group6 .bp3-language267englishcopy4 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 180px;
-  width               : 258px;
-  position            : absolute;
-  margin              : 0;
-  left                : -46px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 793px;
-  height              : 177px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group3 .bp1-nikolatesla {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 47px;
   height              : auto;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp1-desktop .bp1-group3 .bp1-language267spanish {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : 113px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 15.0px;
+  line-height         : 12.0px;
 }
-.bp1-desktop .bp1-group3 .bp1-nikolateslaencir {
+.bp3-mobile .bp3-group3 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 64px;
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 533px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group3-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group3 .bp3-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
   height              : auto;
-  width               : 408px;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group3 .bp3-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -2274,90 +2399,102 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 176px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 176px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group3 .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-a535pxteslasarony {
+.bp3-mobile .bp3-group3 .bp3-language267spanish {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -41px;
-  height              : 257px;
-  width               : 186px;
-  position            : absolute;
-  margin              : 0;
-  left                : -11px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1010px;
-  height              : 175px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group2 .bp1-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 26px;
   height              : auto;
-  width               : 92px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp1-desktop .bp1-group2 .bp1-language267swahili {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
-  height              : auto;
-  width               : 113px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 15.0px;
+  line-height         : 12.0px;
 }
-.bp1-desktop .bp1-group2 .bp1-afrikanibaralapi {
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group3 .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-a535pxteslasarony {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 63px;
+  top                 : -25px;
+  height              : 123px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group2-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 656px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group2-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group2 .bp3-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
   height              : auto;
-  width               : 408px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-mobile .bp3-group2 .bp3-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -2369,237 +2506,330 @@ div {
   text-align          : left;
   line-height         : 22.4px;
 }
-.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+.bp3-mobile .bp3-group2 .bp3-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-mask {
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+  height              : 72px;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 3px;
+  border-radius       : 4px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group2 .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-a640pxkobli1 {
+.bp3-mobile .bp3-group2 .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-a640pxkobli1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 259px;
+  height              : 72px;
+  width               : 108px;
   position            : absolute;
   margin              : 0;
-  left                : -47px;
+  left                : -19px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group4 {
+.bp3-mobile .bp3-group {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 578px;
-  height              : 175px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group4 .bp1-conseildes351curit351 {
+.bp3-mobile .bp3-group-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 779px;
+  align-items         : center;
+  height              : calc(100.00% - 885px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group .bp3-u732b {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 410px;
+  width               : 19px;
   position            : absolute;
   margin              : 0;
-  left                : 1px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 27.6px;
+  line-height         : 21.6px;
 }
-.bp1-desktop .bp1-group4 .bp1-language267french {
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-westernlowlandgorilagorillagorillacopy10 .bp3-a594pxcatposter2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
+  top                 : 0px;
+  height              : 72px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group .bp3-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
   height              : auto;
-  width               : 113px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 15.0px;
+  line-height         : 12.0px;
 }
-.bp1-desktop .bp1-group4 .bp1-leconseildes351curi {
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 90px;
+  top                 : 50px;
   height              : auto;
-  width               : 408px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
-  left                : 1px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
+  line-height         : 16.0px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span1 {
   line-height         : 22.4px;
 }
-.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span2 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span3 {
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span4 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp3-span5 {
+  line-height         : 22.4px;
+}
+.bp3-mobile .bp3-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-group5-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 233px;
+  align-items         : center;
+  height              : calc(100.00% - 872px);
+  width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group5-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group5 .bp3-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 12.0px;
+}
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 258px;
+  border-radius       : 4px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-mask {
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+  height              : 72px;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 3px;
+  border-radius       : 4px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group4 .bp1-westernlowlandgorilagorillagorillacopy3 .bp1-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+.bp3-mobile .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxpanoramicviewofranimahalkalinjarfort {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 229px;
+  height              : 72px;
+  width               : 157px;
   position            : absolute;
   margin              : 0;
-  left                : -32px;
+  left                : -43px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 361px;
-  height              : 175px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 410px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 24.0px;
+  line-height         : 16.0px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span1 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span1 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span2 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span2 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span3 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span3 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span4 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span4 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span5 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span5 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span6 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span6 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span7 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span7 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span8 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span8 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span9 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span9 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span10 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span10 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span11 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span11 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span12 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span12 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span13 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span13 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span14 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span14 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp1-span15 {
+.bp3-mobile .bp3-group5 .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093ecopy .bp3-span15 {
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-language267hindi {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 41px;
+  top                 : 56px;
   height              : auto;
-  width               : 113px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 0.6);
-  text-align          : left;
-  line-height         : 15.0px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 68px;
-  height              : auto;
-  width               : 388px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -2611,451 +2841,255 @@ div {
   text-align          : left;
   line-height         : 16.0px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span1 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span1 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span2 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span2 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span3 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span3 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span4 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span4 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span5 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span5 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span6 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span6 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span7 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span7 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span8 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span8 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span9 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span9 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span10 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span10 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span11 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span11 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span12 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span12 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span13 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span13 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span14 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span14 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span15 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span15 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span16 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span16 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span17 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span17 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span18 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span18 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span19 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span19 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span20 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span20 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span21 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span21 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span22 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span22 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span23 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span23 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span24 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span24 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span25 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span25 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span26 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span26 {
   font-family         : "Georgia", Helvetica, Arial, serif;
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span27 {
+.bp3-mobile .bp3-group5 .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp3-span27 {
   line-height         : 25.6px;
 }
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span28 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span29 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span30 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span31 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span32 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span33 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span34 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span35 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span36 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span37 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span38 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span39 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span40 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span41 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span42 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span43 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span44 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span45 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span46 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span47 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span48 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span49 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span50 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span51 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span52 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span53 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span54 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span55 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span56 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span57 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span58 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span59 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span60 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span61 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span62 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span63 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span64 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp1-span65 {
-  line-height         : 25.6px;
-}
-.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 175px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 175px;
-  width               : 165px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group5 .bp1-westernlowlandgorilagorillagorillacopy2 .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
+.bp3-mobile .bp3-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 175px;
-  width               : 374px;
-  position            : absolute;
-  margin              : 0;
-  left                : -104px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-linecopy10 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1209px;
+  top                 : 218px;
   height              : 1px;
-  width               : 655px;
+  width               : calc(100.00% - 33px);
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 17px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-linecopy9 {
+.bp3-mobile .bp3-linecopy6 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 994px;
+  top                 : 353px;
   height              : 1px;
-  width               : 655px;
+  width               : calc(100.00% - 33px);
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 17px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-linecopy7 {
+.bp3-mobile .bp3-linecopy8 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 777px;
-  height              : 1px;
-  width               : 655px;
+  top                 : 640px;
+  height              : 3px;
+  width               : calc(100.00% - 33px);
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-linecopy6 {
+.bp3-mobile .bp3-linecopy9 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 562px;
-  height              : 1px;
-  width               : 655px;
+  top                 : 764px;
+  height              : 3px;
+  width               : calc(100.00% - 33px);
   position            : absolute;
   margin              : 0;
-  left                : 403px;
+  left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-groupcopy {
+.bp3-mobile .bp3-group4 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1225px;
-  height              : 175px;
-  width               : 654px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
+  position            : relative;
+  width               : 328px;
+  height              : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-groupcopy .bp1-u732b {
+.bp3-mobile .bp3-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 369px;
+  align-items         : center;
+  height              : calc(100.00% - 844px);
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-mobile .bp3-group4-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-mobile .bp3-group4 .bp3-conseildes351curit351 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
-  width               : 30px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
   line-height         : 27.6px;
 }
-.bp1-desktop .bp1-groupcopy .bp1-language267chinese {
+.bp3-mobile .bp3-group4 .bp3-language267frenchcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 59px;
   height              : auto;
-  width               : 113px;
+  width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
+  font-size           : 11.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 15.0px;
+  line-height         : 12.0px;
 }
-.bp1-desktop .bp1-groupcopy .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+.bp3-mobile .bp3-group4 .bp3-leconseildes351curi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 59px;
+  top                 : 84px;
   height              : auto;
-  width               : 387px;
+  width               : 244px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : "Georgia", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
-  line-height         : 22.4px;
+  line-height         : 25.6px;
 }
-.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 {
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+  height              : 72px;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
-  left                : 489px;
-  border-radius       : 3px;
+  left                : 258px;
+  border-radius       : 4px;
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-mask {
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
   background-color    : rgba(215, 215, 215, 1.0);
   top                 : 0px;
-  height              : 175px;
-  width               : 165px;
+  height              : 72px;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  border-radius       : 3px;
+  border-radius       : 4px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-groupcopy .bp1-westernlowlandgorilagorillagorillacopy6 .bp1-a594pxcatposter2 {
+.bp3-mobile .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -4px;
-  height              : 183px;
-  width               : 223px;
-  position            : absolute;
-  margin              : 0;
-  left                : -29px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : auto;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
-}
-.bp1-desktop .bp1-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 31px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-desktop .bp1-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp1-desktop .bp1-group21 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1440px;
-  height              : 80px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-desktop .bp1-group21 .bp1-rectangle1 {
-  background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
-  height              : 80px;
+  height              : 72px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -3063,33 +3097,59 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-desktop .bp1-group21 .bp1-articlesonthislis {
+.bp3-mobile .bp3-linecopy7 {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 517px;
+  height              : 1px;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 914px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobile .bp3-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 933px;
   height              : auto;
-  width               : 630px;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
   transform           : rotate(0deg);
   opacity             : 0.8;
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
+  font-size           : 9.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 21.0px;
+  line-height         : 13.5px;
 }
-.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 19px;
-  align-items         : center;
+.bp3-mobile .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
   height              : auto;
-  width               : 100%;
+  width               : auto;
   position            : absolute;
   margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-desktop .bp1-group21 .bp1-articlesonthislis-layout-container > * {
-  pointer-events      : auto;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

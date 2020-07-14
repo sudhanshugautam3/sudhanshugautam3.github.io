@@ -1,382 +1,10 @@
 
 
-.bp3-englishmobile {
-  width               : 100%;
-  min-width           : 360px;
-  height              : 100vh;
-  min-height          : 1565px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp3-englishmobile .bp3-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 62px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 62px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : auto;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
-}
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 21px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp3-englishmobile .bp3-group6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 63px;
-  height              : 239px;
-  width               : 100.00%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 320px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 .bp3-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 6px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-wildlifeofthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 317px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.6px;
-}
-.bp3-englishmobile .bp3-wildlifeinthecentcopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 357px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-englishmobile .bp3-realisingtheserioucopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 708px;
-  height              : auto;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-englishmobile .bp3-in2014thechinkocopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1131px;
-  height              : auto;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-englishmobile .bp3-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1501px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group .bp3-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group .bp3-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 12px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 15px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 9.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 13.5px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
 .bp1-englishdesktop {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 2034px;
+  min-height          : 1989px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -468,19 +96,19 @@ div {
 .bp1-englishdesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 1px;
-  width               : 653px;
+  height              : 2px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-englishdesktop .bp1-wildlifeinthecent {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 825px;
+  top                 : 784px;
   height              : auto;
-  width               : 632px;
+  width               : calc(100.00% - 810px);
   position            : absolute;
   margin              : 0;
   left                : 404px;
@@ -494,9 +122,9 @@ div {
 }
 .bp1-englishdesktop .bp1-realisingtheseriou {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1183px;
+  top                 : 1142px;
   height              : auto;
-  width               : 630px;
+  width               : calc(100.00% - 810px);
   position            : absolute;
   margin              : 0;
   left                : 404px;
@@ -544,9 +172,9 @@ div {
 }
 .bp1-englishdesktop .bp1-in2014thechinko {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1610px;
+  top                 : 1565px;
   height              : auto;
-  width               : 630px;
+  width               : calc(100.00% - 810px);
   position            : absolute;
   margin              : 0;
   left                : 404px;
@@ -560,7 +188,7 @@ div {
 }
 .bp1-englishdesktop .bp1-footer {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1954px;
+  top                 : 1909px;
   height              : 80px;
   width               : 100%;
   position            : absolute;
@@ -1027,6 +655,378 @@ div {
 }
 .bp2-englishtablet .bp2-footer .bp2-thisarticleusesma-layout-container > * {
   pointer-events      : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp3-englishmobile {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 1565px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-englishmobile .bp3-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group5 .bp3-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 20px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-englishmobile .bp3-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 239px;
+  width               : 100.00%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 .bp3-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 317px;
+  height              : calc(100.00% - 1543px);
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp3-englishmobile .bp3-wildlifeinthecentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 357px;
+  height              : calc(100.00% - 1231px);
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-englishmobile .bp3-realisingtheserioucopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 706px;
+  height              : calc(100.00% - 1157px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-englishmobile .bp3-in2014thechinkocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1129px;
+  height              : calc(100.00% - 1229px);
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-englishmobile .bp3-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1501px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group .bp3-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group .bp3-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
