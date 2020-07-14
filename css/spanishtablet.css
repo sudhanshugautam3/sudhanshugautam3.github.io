@@ -1,734 +1,363 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
+.bp3-mobilespanishcopy {
   width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - mobilespanishcopy */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-10 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-3 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-.font-class-9 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.mobilespanishcopy {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
+  min-width           : 360px;
+  height              : 100vh;
   min-height          : 1126px;
-  overflow            : hidden;
   position            : relative;
-  width               : 360.0px;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
-.mobilespanishcopy .nikola-tesla-ShVF1x {
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-mobilespanishcopy .bp3-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
   height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
   line-height         : 21.6px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
-  min-width           : 101px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
 }
-.mobilespanishcopy .nikola-tesla-fue-un-Y7RTly {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 12px;
-  min-height          : 360px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.mobilespanishcopy .su-car-341cter-su-enfr-MLxFt1 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 168px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.mobilespanishcopy .nikola-tesla-de-etn-5zpmm8 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 15px;
-  min-height          : 120px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.mobilespanishcopy .group-5-hx9j3X {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 239px;
-  margin-top          : 1px;
-  position            : relative;
-  width               : 360px;
-}
-.mobilespanishcopy .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
-  align-items         : flex-end;
-  background-color    : rgba(215,215,215,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 239px;
-  justify-content     : flex-start;
-  left                : 0px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  width               : 360px;
-}
-.mobilespanishcopy .a535px-tesla-sarony-XueVtb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 506px;
-  margin-bottom       : -227.0px;
-  margin-left         : -13px;
-  position            : relative;
-  width               : 373px;
-}
-.mobilespanishcopy .group-2-8xQpHT {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 24px;
-  left                : 320px;
-  position            : absolute;
-  top                 : 9px;
-  width               : 24px;
-}
-.mobilespanishcopy .group-4-xktenD {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 24px;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : auto;
-}
-.mobilespanishcopy .oval-4mv0dc {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 23px;
-  position            : relative;
-  width               : 24px;
-}
-.mobilespanishcopy .group-4-cpXcri {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  width               : auto;
-}
-.mobilespanishcopy .fill-3-lfUf5K {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  width               : 12px;
-}
-.mobilespanishcopy .group-3-iFKazk {
-  align-items         : flex-start;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 61px;
-  justify-content     : flex-end;
-  min-width           : 360px;
-  padding             : 18.0px 62.0px;
-  position            : relative;
-  width               : auto;
-}
-.mobilespanishcopy .wikipedia-preview-de-9mXMgR {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  min-height          : 24px;
-  min-width           : 244px;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.mobilespanishcopy .group-copy-2-qX3H8O {
-  align-items         : flex-start;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-start;
-  margin-top          : 34px;
-  min-width           : 360px;
-  padding             : 18.0px 15.0px;
-  position            : relative;
-  width               : auto;
-}
-.mobilespanishcopy .this-article-uses-ma-pflfdu {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 27px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 330px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - spanishdesktop */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-10 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-3 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-.font-class-9 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.spanishdesktop .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -3px;
-  position            : relative;
-  width               : 1448px;
-}
-.spanishdesktop .overlap-group1-yBpAcz {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 513px;
-  margin-right        : 1.0px;
-  margin-top          : 41px;
-  position            : relative;
-  width               : 967px;
-}
-.spanishdesktop .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 499px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 34px;
-  width               : auto;
-}
-.spanishdesktop .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.spanishdesktop .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 630px;
-}
-.spanishdesktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1508px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.spanishdesktop .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-desktop-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 1448px;
-}
-.spanishdesktop .nikola-tesla-ShVF1x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 40.0px;
-  height              : auto;
-  line-height         : 43.7px;
-  margin-right        : 407.0px;
-  margin-top          : 35px;
-  min-height          : 44px;
-  position            : relative;
-  text-align          : left;
-  width               : 225px;
-}
-.spanishdesktop .line-copy-5-pxb10c {
-  background-color    : rgba(255,255,255,0);
-  height              : 2px;
-  left                : 167px;
-  position            : absolute;
+.bp3-mobilespanishcopy .bp3-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
   top                 : 350px;
-  width               : 655px;
-}
-.spanishdesktop .nikola-tesla-fue-un-Y7RTly {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
   height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 315px;
-  position            : relative;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  width               : 632px;
+  line-height         : 24.0px;
 }
-.spanishdesktop .su-car-341cter-su-enfr-MLxFt1 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
+.bp3-mobilespanishcopy .bp3-sucar341ctersuenfr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 725px;
   height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 158px;
-  position            : relative;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  width               : 632px;
+  line-height         : 24.0px;
 }
-.spanishdesktop .nikola-tesla-de-etn-5zpmm8 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
+.bp3-mobilespanishcopy .bp3-nikolatesladeetn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 908px;
   height              : auto;
-  line-height         : 31.5px;
-  margin-top          : 22px;
-  min-height          : 95px;
-  position            : relative;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  width               : 632px;
+  line-height         : 24.0px;
 }
-.spanishdesktop .western-lowland-gorila-gorilla-gorilla-NmJ8ip {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/french---desktop-mask.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 513px;
-  justify-content     : flex-start;
+.bp3-mobilespanishcopy .bp3-group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
   left                : 0px;
   overflow            : hidden;
-  padding             : 0 1.0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 967px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.spanishdesktop .a802px-tesla-sarony-dzjwzZ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1298px;
-  margin-bottom       : -623.0px;
-  position            : relative;
-  width               : 964px;
+.bp3-mobilespanishcopy .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-westernlowlandgorilagorillagorillacopy7 .bp3-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -40px;
+  height              : 506px;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : -13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 .bp3-group4 .bp3-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 .bp3-group41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 .bp3-group41 .bp3-fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group5 .bp3-group2 .bp3-group41 .bp3-fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group3 .bp3-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-group3 .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp3-mobilespanishcopy .bp3-groupcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1062px;
+  height              : 64px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-groupcopy2 .bp3-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-mobilespanishcopy .bp3-groupcopy2 .bp3-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  animation-delay     : 0s;
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 @keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -761,12 +390,347 @@ a {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp1-spanishdesktop {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1508px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-spanishdesktop .bp1-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
+  width               : 1448px;
+  position            : absolute;
+  margin              : 0;
+  left                : -4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-group .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 124px;
+  width               : 1448px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 710px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 43.7px;
+}
+.bp1-spanishdesktop .bp1-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 512px;
+  height              : 2px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 776px;
+  height              : auto;
+  width               : 632px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 31.5px;
+}
+.bp1-spanishdesktop .bp1-sucar341ctersuenfr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1113px;
+  height              : auto;
+  width               : 632px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 31.5px;
+}
+.bp1-spanishdesktop .bp1-nikolatesladeetn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1293px;
+  height              : auto;
+  width               : 632px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 31.5px;
+}
+.bp1-spanishdesktop .bp1-westernlowlandgorilagorillagorilla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 513px;
+  width               : 967px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 513px;
+  width               : 967px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-a802pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -162px;
+  height              : 1298px;
+  width               : 964px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 495px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp1-spanishdesktop .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1428px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-footer .bp1-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-spanishdesktop .bp1-footer .bp1-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
 .anima-component-wrapper a,
-.anima-screen a {
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp2-spanishtablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 910px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
   text-decoration     : none;
 }
-.anima-flexbox-container a {
-  line-height         : 0;
+div {
+  -webkit-text-size-adjust: none;
 }
 .anima-full-width-a {
   width               : 100%;
@@ -774,351 +738,434 @@ a {
 .anima-full-height-a {
   height              : 100%;
 }
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
+div {
   -webkit-text-size-adjust: none;
 }
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
+.bp2-spanishtablet .bp2-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
   margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
+.bp2-spanishtablet .bp2-group .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
+.bp2-spanishtablet .bp2-group .bp2-header .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
+.bp2-spanishtablet .bp2-group .bp2-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp2-spanishtablet .bp2-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 94px;
+  height              : 273px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 272px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-a802pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -244px;
+  height              : 1034px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 387px;
+  height              : 20px;
+  width               : 495px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-english .bp2-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : auto;
+  width               : 497px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-spanishtablet .bp2-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 422px;
+  height              : auto;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp2-spanishtablet .bp2-sucar341ctersuenfr {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 629px;
+  height              : auto;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp2-spanishtablet .bp2-nikolatesladeetn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 740px;
+  height              : auto;
+  width               : 572px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp2-spanishtablet .bp2-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 104px;
+  height              : 33px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 659px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-group2 .bp2-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-group2 .bp2-group4 .bp2-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 33px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-group2 .bp2-group41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-group2 .bp2-group41 .bp2-fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-group2 .bp2-group41 .bp2-fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 852px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-footer .bp2-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 570px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma .bp2-span1 {
+  
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma .bp2-span2 {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma .bp2-span3 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma .bp2-span4 {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.bp2-spanishtablet .bp2-footer .bp2-thisarticleusesma .bp2-span5 {
+  
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 .anima-component-wrapper,
-.anima-screen {
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
   overflow-wrap       : break-word;
   word-wrap           : break-word;
   word-break          : break-all;
   word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - spanishtablet */
-.font-class-1 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-10 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-}
-.font-class-2 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-3 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-}
-.font-class-9 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.spanishtablet .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 367px;
-  position            : relative;
-  width               : 770px;
-}
-.spanishtablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 910px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.spanishtablet .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  height              : 96px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 770px;
-}
-.spanishtablet .header-GnTEc8 {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 96px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 770px;
-}
-.spanishtablet .wikipedia-preview-de-4oE2i3 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 25.0px;
-  height              : auto;
-  left                : 197px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 26px;
-  width               : auto;
-}
-.spanishtablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 273px;
-  left                : 1px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 94px;
-  width               : 768px;
-}
-.spanishtablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  width               : 768px;
-}
-.spanishtablet .a802px-tesla-sarony-xHe5nk {
-  background-color    : rgba(255,255,255,0);
-  height              : 1034px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -244px;
-  width               : 768px;
-}
-.spanishtablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 20px;
-  justify-content     : flex-start;
-  margin-right        : 27.0px;
-  margin-top          : 20px;
-  min-width           : 495px;
-  position            : relative;
-  width               : auto;
-}
-.spanishtablet .nikola-tesla-lAaxKM {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-top          : -1.0px;
-  min-height          : 21px;
-  position            : relative;
-  text-align          : left;
-  width               : 497px;
-}
-.spanishtablet .nikola-tesla-fue-un-Y7RTly {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 15px;
-  min-height          : 192px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
-}
-.spanishtablet .su-car-341cter-su-enfr-MLxFt1 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 15px;
-  min-height          : 96px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
-}
-.spanishtablet .nikola-tesla-de-etn-5zpmm8 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-left         : 50.0px;
-  margin-top          : 15px;
-  min-height          : 72px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
-}
-.spanishtablet .group-2-8SiD8y {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 33px;
-  left                : 660px;
-  position            : absolute;
-  top                 : 104px;
-  width               : 34px;
-}
-.spanishtablet .group-4-xTHy2w {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-tablet-oval@2x.png");
-  background-size     : 100% 100%;
-  height              : 33px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 34px;
-}
-.spanishtablet .group-4-N5dxCB {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 18px;
-  justify-content     : flex-start;
-  left                : 8px;
-  position            : absolute;
-  top                 : 8px;
-  width               : auto;
-}
-.spanishtablet .fill-3-KbVuVx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 18px;
-  position            : relative;
-  width               : 18px;
-}
-.spanishtablet .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 58px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 768px;
-  padding             : 0 99.0px;
-  position            : relative;
-  width               : auto;
-}
-.spanishtablet .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 570px;
-}
-.spanishtablet .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span2-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span3-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span4-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span5-6Gs33k {
-  letter-spacing      : 0.00px;
 }
 @media screen and (max-width: 767px) {
-  .spanishtablet {
-    display             : none ;
+  .bp3-mobilespanishcopy {
+    display             : block;
   }
-  .spanishdesktop {
-    display             : none ;
+  .bp2-spanishtablet {
+    display             : none;
+  }
+  .bp1-spanishdesktop {
+    display             : none;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .mobilespanishcopy {
-    display             : none ;
+  .bp3-mobilespanishcopy {
+    display             : none;
   }
-  .spanishdesktop {
-    display             : none ;
+  .bp2-spanishtablet {
+    display             : block;
+  }
+  .bp1-spanishdesktop {
+    display             : none;
   }
 }
 @media screen and (min-width: 1440px) {
-  .mobilespanishcopy {
-    display             : none ;
+  .bp3-mobilespanishcopy {
+    display             : none;
   }
-  .spanishtablet {
-    display             : none ;
+  .bp2-spanishtablet {
+    display             : none;
+  }
+  .bp1-spanishdesktop {
+    display             : block;
   }
 }
