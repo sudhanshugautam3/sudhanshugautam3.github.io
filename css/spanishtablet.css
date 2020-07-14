@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 /* .anima-animate-appear prefix for appear animations */
@@ -120,30 +121,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -154,29 +163,6 @@ a {
   --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.mobilespanishcopy .this-article-uses-ma-pflfdu {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 27px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 330px;
-}
-.mobilespanishcopy .span1-pflfdu {
-  letter-spacing      : 0.00px;
-}
-.mobilespanishcopy .span2-pflfdu {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilespanishcopy .span3-pflfdu {
-  letter-spacing      : 0.00px;
 }
 .mobilespanishcopy {
   align-items         : center;
@@ -202,7 +188,7 @@ a {
   margin-left         : 16.0px;
   margin-top          : 15px;
   min-height          : 22px;
-  min-width           : 114px;
+  min-width           : 101px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -210,6 +196,7 @@ a {
 .mobilespanishcopy .nikola-tesla-fue-un-Y7RTly {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
+  cursor              : pointer;
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
@@ -223,6 +210,7 @@ a {
 .mobilespanishcopy .su-car-341cter-su-enfr-MLxFt1 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
+  cursor              : pointer;
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
@@ -236,6 +224,7 @@ a {
 .mobilespanishcopy .nikola-tesla-de-etn-5zpmm8 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-1);
+  cursor              : pointer;
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
@@ -329,7 +318,7 @@ a {
   width               : 12px;
 }
 .mobilespanishcopy .group-3-iFKazk {
-  align-items         : center;
+  align-items         : flex-start;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   cursor              : pointer;
@@ -339,7 +328,7 @@ a {
   height              : 61px;
   justify-content     : flex-end;
   min-width           : 360px;
-  padding             : 0 44.0px;
+  padding             : 18.0px 62.0px;
   position            : relative;
   width               : auto;
 }
@@ -349,15 +338,15 @@ a {
   flex-shrink         : 0;
   font-size           : 18.0px;
   height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  min-width           : 281px;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
   position            : relative;
   text-align          : center;
   width               : auto;
 }
 .mobilespanishcopy .group-copy-2-qX3H8O {
-  align-items         : flex-end;
+  align-items         : flex-start;
   background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
   display             : inline-flex;
@@ -370,6 +359,19 @@ a {
   padding             : 18.0px 15.0px;
   position            : relative;
   width               : auto;
+}
+.mobilespanishcopy .this-article-uses-ma-pflfdu {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 27px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 330px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -491,30 +493,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -542,6 +552,46 @@ a {
   margin-top          : 41px;
   position            : relative;
   width               : 967px;
+}
+.spanishdesktop .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 499px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  width               : auto;
+}
+.spanishdesktop .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  width               : auto;
+}
+.spanishdesktop .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
 }
 .spanishdesktop {
   align-items         : center;
@@ -651,46 +701,6 @@ a {
   margin-bottom       : -623.0px;
   position            : relative;
   width               : 964px;
-}
-.spanishdesktop .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 499px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 34px;
-  width               : auto;
-}
-.spanishdesktop .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.spanishdesktop .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 630px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -812,30 +822,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);

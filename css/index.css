@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 /* .anima-animate-appear prefix for appear animations */
@@ -120,30 +121,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -154,18 +163,6 @@ a {
   --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.index .auto-flex3-UyO79H {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
 }
 .index .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
@@ -182,7 +179,7 @@ a {
   position            : relative;
   width               : 360px;
 }
-.index .auto-flex4-n3q5lb {
+.index .auto-flex4-RyKbYW {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -194,7 +191,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.index .auto-flex5-NyFzAD {
+.index .auto-flex5-KN1eAF {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -206,7 +203,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.index .auto-flex2-44zkdR {
+.index .auto-flex6-Jxy90I {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -217,13 +214,77 @@ a {
   justify-content     : flex-start;
   position            : relative;
   width               : 244px;
+}
+.index .auto-flex2-FlznUc {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.index .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -43px;
+  position            : relative;
+  width               : 157px;
+}
+.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 244px;
+}
+.index .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 25.6px;
+  margin-top          : 11px;
+  min-height          : 50px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  width               : 244px;
+}
+.index .line-copy-5-18i8FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 16px;
+  position            : relative;
+  width               : 329px;
+}
+.index .line-copy-6-91jlDU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 14px;
+  position            : relative;
+  width               : 329px;
 }
 .index .line-copy-8-6JUJQK {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 3px;
   margin-right        : 1.0px;
-  margin-top          : 14px;
+  margin-top          : 15px;
   position            : relative;
   width               : 327px;
 }
@@ -232,7 +293,7 @@ a {
   flex-shrink         : 0;
   height              : 3px;
   margin-right        : 1.0px;
-  margin-top          : 15px;
+  margin-top          : 16px;
   position            : relative;
   width               : 327px;
 }
@@ -241,16 +302,16 @@ a {
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
   cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 134px;
+  height              : auto;
   justify-content     : flex-start;
   margin-top          : 15px;
   position            : relative;
-  width               : auto;
+  width               : 328px;
 }
-.index .conseil-de-s-351curit-351-cnPj8S {
+.index .conseil-de-s-351curit-351-LwjhkE {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -262,35 +323,35 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index .language-267-french-copy-zjvIfX {
+.index .language-267-french-copy-8aZz7j {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 6px;
-  min-height          : 12px;
+  line-height         : 15.0px;
+  margin-top          : 4px;
+  min-height          : 15px;
   min-width           : 105px;
   position            : relative;
   text-align          : left;
   width               : auto;
 }
-.index .le-conseil-de-s-351curi-3ueV0P {
+.index .le-conseil-de-s-351curi-OtFAxh {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 25.6px;
-  margin-top          : 13px;
-  min-height          : 50px;
+  margin-top          : 12px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
-  width               : 244px;
+  width               : 260px;
 }
-.index .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
+.index .western-lowland-gorila-gorilla-gorilla-copy-7-UPWT07 {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -305,7 +366,7 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
+.index .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-H1cN5H {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 72px;
@@ -326,7 +387,7 @@ a {
   flex-shrink         : 0;
   height              : 1px;
   margin-left         : 1.0px;
-  margin-top          : 14px;
+  margin-top          : 19px;
   position            : relative;
   width               : 329px;
 }
@@ -348,7 +409,7 @@ a {
   opacity             : 0.8;
   position            : absolute;
   text-align          : center;
-  top                 : 19px;
+  top                 : 18px;
   width               : 330px;
 }
 .index .wikipedia-preview-de-Opx0Ax {
@@ -363,217 +424,6 @@ a {
   top                 : 20px;
   width               : auto;
 }
-.index .span3-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span4-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span5-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span6-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span7-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span8-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span9-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span10-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span11-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span12-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span13-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span14-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span15-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
-  min-height          : 50px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .span1-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span2-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span3-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span4-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span5-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span6-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span7-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span8-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span9-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span10-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span11-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span12-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span13-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span14-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span15-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span16-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span17-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span18-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span19-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span20-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span21-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span22-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span23-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span24-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span25-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span26-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .line-copy-5-18i8FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 15px;
-  position            : relative;
-  width               : 329px;
-}
-.index .line-copy-6-91jlDU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 329px;
-}
 .index {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -582,12 +432,10 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
-  margin              : 0px;
   min-height          : 978px;
-  min-width           : 360.0px;
   overflow            : hidden;
   position            : relative;
-  width               : 100%;
+  width               : 360.0px;
 }
 .index .group-6-gOTYvh {
   align-items         : flex-start;
@@ -597,7 +445,7 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 116px;
+  height              : 115px;
   justify-content     : flex-start;
   margin-top          : 24px;
   position            : relative;
@@ -644,7 +492,7 @@ a {
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 12px;
+  margin-top          : 10px;
   min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
@@ -657,9 +505,9 @@ a {
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
+  line-height         : 15.0px;
+  margin-top          : 2px;
+  min-height          : 15px;
   min-width           : 107px;
   position            : relative;
   text-align          : left;
@@ -673,13 +521,13 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 93px;
+  height              : 92px;
   justify-content     : flex-start;
   margin-top          : 15px;
   position            : relative;
   width               : auto;
 }
-.index .nikola-tesla-t0Y353 {
+.index .nikola-tesla-npoyDu {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -691,30 +539,30 @@ a {
   text-align          : left;
   width               : 112px;
 }
-.index .nikola-tesla-fue-un-K6xHG8 {
+.index .nikola-tesla-fue-un-gjDAd4 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 12px;
+  margin-top          : 10px;
   min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   width               : 244px;
 }
-.index .language-267-spanish-YZuxPY {
+.index .language-267-spanish-fp2XuR {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
+  line-height         : 15.0px;
+  margin-top          : 2px;
+  min-height          : 15px;
+  min-width           : 111px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -743,6 +591,18 @@ a {
   position            : relative;
   width               : 91px;
 }
+.index .auto-flex3-GMoYKS {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : auto;
+}
 .index .group-2-Aspe6u {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -751,13 +611,13 @@ a {
   display             : inline-flex;
   flex-direction      : row;
   flex-shrink         : 0;
-  height              : 93px;
+  height              : 92px;
   justify-content     : flex-start;
   margin-top          : 13px;
   position            : relative;
   width               : auto;
 }
-.index .afrika-4uC00w {
+.index .afrika-60NKqC {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -769,30 +629,30 @@ a {
   text-align          : left;
   width               : 58px;
 }
-.index .afrika-ni-bara-la-pi-GxxOgi {
+.index .afrika-ni-bara-la-pi-sxxLry {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 22.4px;
-  margin-top          : 12px;
+  margin-top          : 10px;
   min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   width               : 244px;
 }
-.index .language-267-swahili-m1txXj {
+.index .language-267-swahili-9gob78 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 106px;
+  line-height         : 15.0px;
+  margin-top          : 2px;
+  min-height          : 15px;
+  min-width           : 107px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -833,8 +693,9 @@ a {
   position            : relative;
   width               : auto;
 }
-.index .u732b-uNkwlt {
+.index .u732b-EHfEBS {
   background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
@@ -867,55 +728,33 @@ a {
   position            : relative;
   width               : 89px;
 }
-.index .language-267-chinese-Cgya9I {
+.index .language-267-chinese-BMcLC6 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 109px;
+  line-height         : 15.0px;
+  margin-top          : 2px;
+  min-height          : 15px;
+  min-width           : 111px;
   position            : relative;
   text-align          : left;
   width               : auto;
 }
-.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
+.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-YdgdRS {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 12px;
+  line-height         : 22.4px;
+  margin-top          : 11px;
   min-height          : 43px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
   width               : 244px;
-}
-.index .span1-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index .span2-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index .span3-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index .span4-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index .span5-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
 }
 .index .group-5-hx9j3X {
   align-items         : flex-start;
@@ -937,10 +776,10 @@ a {
   flex-shrink         : 0;
   font-size           : 11.0px;
   height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 99px;
+  line-height         : 15.0px;
+  margin-top          : 2px;
+  min-height          : 15px;
+  min-width           : 97px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -959,34 +798,6 @@ a {
   overflow            : hidden;
   position            : relative;
   width               : 70px;
-}
-.index .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -43px;
-  position            : relative;
-  width               : 157px;
-}
-.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .span1-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span2-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
 }
 .index .auto-flex1-CG2eCk {
   align-items         : flex-start;
@@ -1132,30 +943,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -1239,6 +1058,42 @@ a {
   position            : relative;
   width               : 372px;
 }
+.index1 .a594px-cat-poster-2-5Vf5Gb {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -4.0px;
+  position            : relative;
+  width               : 151px;
+}
+.index1 .header-6IR25F {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 96px;
+  justify-content     : flex-start;
+  padding             : 17.0px 197.0px;
+  position            : relative;
+  width               : auto;
+}
+.index1 .wikipedia-preview-de-xYdG1v {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 53px;
+  min-width           : 386px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
 .index1 .line-copy-14-OCuCGB {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
@@ -1311,6 +1166,24 @@ a {
   position            : relative;
   text-align          : center;
   width               : 570px;
+}
+.index1 .span41-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span42-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span43-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span44-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 .index1 .span45-xtSa7p {
   letter-spacing      : 0.00px;
@@ -1661,41 +1534,41 @@ a {
   position            : relative;
   width               : 141px;
 }
-.index1 .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  width               : 151px;
+.index1 .span14-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
 }
-.index1 .header-6IR25F {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 17.0px 197.0px;
-  position            : relative;
-  width               : auto;
+.index1 .span15-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
 }
-.index1 .wikipedia-preview-de-xYdG1v {
+.index1 .language-267-hindi-XhFRiV {
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
+  color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
-  font-size           : 25.0px;
+  font-size           : 13.0px;
   height              : auto;
-  line-height         : 52.8px;
-  min-height          : 53px;
-  min-width           : 386px;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
   position            : relative;
-  text-align          : center;
-  width               : auto;
+  text-align          : left;
+  width               : 113px;
+}
+.index1 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 10px;
+  min-height          : 52px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  width               : 373px;
 }
 .index1 .span1-xtSa7p {
   letter-spacing      : 0.00px;
@@ -1873,24 +1746,6 @@ a {
   line-height         : 25.6px;
 }
 .index1 .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span44-xtSa7p {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
@@ -2073,42 +1928,6 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index1 .span14-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span15-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .language-267-hindi-XhFRiV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index1 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 10px;
-  min-height          : 52px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 373px;
-}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
@@ -2229,30 +2048,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -2263,26 +2090,6 @@ a {
   --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.index .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -3px;
-  position            : relative;
-  width               : 1448px;
-}
-.index .auto-flex3-UyO79H {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 408px;
 }
 .index .auto-flex5-GtcQsT {
   align-items         : flex-start;
@@ -2296,6 +2103,18 @@ a {
   position            : relative;
   width               : 387px;
 }
+.index .auto-flex1-CG2eCk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 410px;
+}
 .index .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -2307,6 +2126,14 @@ a {
   justify-content     : flex-start;
   position            : relative;
   width               : 411px;
+}
+.index .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -3px;
+  position            : relative;
+  width               : 1448px;
 }
 .index .auto-flex4-n3q5lb {
   align-items         : flex-start;
@@ -2320,58 +2147,17 @@ a {
   position            : relative;
   width               : 408px;
 }
-.index .a594px-cat-poster-2-Gm3DUk {
+.index .auto-flex3-UyO79H {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 183px;
-  margin-top          : -4.0px;
-  position            : relative;
-  width               : 223px;
-}
-.index .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 499px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 34px;
-  width               : auto;
-}
-.index .group-2-x1w6tk {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.index .articles-on-this-lis-mfgTvU {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
   height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
+  justify-content     : flex-start;
   position            : relative;
-  text-align          : center;
-  width               : 630px;
-}
-.index .span38-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
+  width               : 408px;
 }
 .index .span39-18ss8g {
   letter-spacing      : 0.00px;
@@ -2392,33 +2178,6 @@ a {
   line-height         : 25.6px;
 }
 .index .span43-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span44-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span45-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span46-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span47-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span48-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span49-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
@@ -2621,23 +2380,53 @@ a {
   position            : relative;
   width               : 165px;
 }
-.index .span8-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .a594px-cat-poster-2-Gm3DUk {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 183px;
+  margin-top          : -4.0px;
+  position            : relative;
+  width               : 223px;
 }
-.index .span9-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 499px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  width               : auto;
 }
-.index .span10-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .group-2-x1w6tk {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  width               : auto;
 }
-.index .span11-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .articles-on-this-lis-mfgTvU {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
 }
 .index .span12-lnd7Jx {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
@@ -2850,62 +2639,10 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1520px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.index .line-copy-5-18i8FR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 21px;
-  position            : relative;
-  width               : 655px;
-}
-.index .rectangle-p6bHfG {
-  background-color    : rgba(255,255,255,0);
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 1448px;
-}
-.index .group-6-gOTYvh {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 180px;
-  justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 23px;
-  position            : relative;
-  width               : auto;
-}
-.index .wildlife-of-the-cent-tglvvZ {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
-  position            : relative;
-  text-align          : left;
-  width               : 410px;
+.index .span38-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 .index .language-267-english-dTPrM4 {
   background-color    : rgba(255,255,255,0);
@@ -3246,16 +2983,79 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index .auto-flex1-CG2eCk {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
+.index .span8-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span9-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span10-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span11-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   display             : flex;
   flex-direction      : column;
-  flex-shrink         : 0;
   height              : auto;
   justify-content     : flex-start;
+  min-height          : 1520px;
+  overflow            : hidden;
   position            : relative;
+  width               : 1440.0px;
+}
+.index .line-copy-5-18i8FR {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 21px;
+  position            : relative;
+  width               : 655px;
+}
+.index .rectangle-p6bHfG {
+  background-color    : rgba(255,255,255,0);
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 1448px;
+}
+.index .group-6-gOTYvh {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 180px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 23px;
+  position            : relative;
+  width               : auto;
+}
+.index .wildlife-of-the-cent-tglvvZ {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 58px;
+  position            : relative;
+  text-align          : left;
   width               : 410px;
 }
 .index .auto-flex-jta0tg {
@@ -3269,6 +3069,33 @@ a {
   justify-content     : flex-start;
   position            : relative;
   width               : 410px;
+}
+.index .span49-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span45-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span44-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span47-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span46-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span48-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
 }
 @media screen and (max-width: 767px) {
   .index1 {

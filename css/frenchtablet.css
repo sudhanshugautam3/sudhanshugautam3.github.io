@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 /* .anima-animate-appear prefix for appear animations */
@@ -120,30 +121,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -154,6 +163,49 @@ a {
   --auto-palette-color-4: rgba(0,0,0,1.0);
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.mobilefrench .fill-3-s2b9Mm {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.mobilefrench .footer-GlQdDE {
+  align-items         : flex-end;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 64px;
+  justify-content     : flex-end;
+  margin-top          : 12px;
+  min-width           : 360px;
+  padding             : 11.0px 34.0px;
+  position            : relative;
+  width               : auto;
+}
+.mobilefrench .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 41px;
+  min-width           : 301px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.mobilefrench .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 306px;
+  position            : relative;
+  width               : 368px;
 }
 .mobilefrench {
   align-items         : center;
@@ -169,7 +221,7 @@ a {
   width               : 360.0px;
 }
 .mobilefrench .group-3-0KZAIi {
-  align-items         : center;
+  align-items         : flex-start;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
   cursor              : pointer;
@@ -179,7 +231,7 @@ a {
   justify-content     : flex-end;
   left                : 4px;
   min-width           : 360px;
-  padding             : 0 44.0px;
+  padding             : 18.0px 62.0px;
   position            : absolute;
   top                 : 0px;
   width               : auto;
@@ -190,24 +242,25 @@ a {
   flex-shrink         : 0;
   font-size           : 18.0px;
   height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  min-width           : 281px;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
   position            : relative;
   text-align          : center;
   width               : auto;
 }
 .mobilefrench .conseil-de-s-351curit-351-K7cKTJ {
+  align-self          : flex-start;
   background-color    : rgba(255,255,255,0);
   color               : rgba(32,32,32,1.0);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
   line-height         : 21.6px;
-  margin-right        : 21.0px;
+  margin-left         : 16.0px;
   margin-top          : 10px;
   min-height          : 22px;
-  min-width           : 317px;
+  min-width           : 282px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -331,99 +384,6 @@ a {
   top                 : 6px;
   width               : auto;
 }
-.mobilefrench .fill-3-s2b9Mm {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  width               : 12px;
-}
-.mobilefrench .footer-GlQdDE {
-  align-items         : flex-end;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-start;
-  margin-top          : 12px;
-  min-width           : 360px;
-  padding             : 11.0px 37.0px;
-  position            : relative;
-  width               : auto;
-}
-.mobilefrench .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 41px;
-  min-width           : 296px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.mobilefrench .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span2-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span3-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span4-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span5-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span6-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span7-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span8-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span9-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span10-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span11-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span12-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .span13-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.mobilefrench .overlap-group-Y7zamN {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 306px;
-  position            : relative;
-  width               : 368px;
-}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
@@ -544,30 +504,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -595,6 +563,37 @@ a {
   margin-top          : 41px;
   position            : relative;
   width               : 967px;
+}
+.frenchdesktop .span49-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span50-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span51-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span52-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span53-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span54-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span55-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span56-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span57-F58tzm {
+  letter-spacing      : 0.00px;
 }
 .frenchdesktop .span58-F58tzm {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -702,6 +701,31 @@ a {
   position            : relative;
   text-align          : center;
   width               : 630px;
+}
+.frenchdesktop .span4-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span5-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span6-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span7-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span8-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span9-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span10-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
 .frenchdesktop .span11-F58tzm {
   letter-spacing      : 0.00px;
@@ -836,35 +860,28 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span49-F58tzm {
+.frenchdesktop .span143-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span50-F58tzm {
+.frenchdesktop .span144-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span51-F58tzm {
+.frenchdesktop .span145-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span52-F58tzm {
+.frenchdesktop .span146-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span53-F58tzm {
+.frenchdesktop .span147-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span54-F58tzm {
+.frenchdesktop .span148-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span55-F58tzm {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span56-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span57-F58tzm {
+.frenchdesktop .span149-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span150-IRWx9B {
@@ -1021,29 +1038,28 @@ a {
 .frenchdesktop .span3-F58tzm {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span4-F58tzm {
+.frenchdesktop .span99-IRWx9B {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span100-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span5-F58tzm {
+.frenchdesktop .span101-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span6-F58tzm {
+.frenchdesktop .span102-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span7-F58tzm {
+.frenchdesktop .span103-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span8-F58tzm {
+.frenchdesktop .span104-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span9-F58tzm {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+.frenchdesktop .span105-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span106-IRWx9B {
@@ -1176,28 +1192,39 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span143-IRWx9B {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span144-IRWx9B {
+.frenchdesktop .span52-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span145-IRWx9B {
+.frenchdesktop .span53-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span146-IRWx9B {
+.frenchdesktop .span54-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span147-IRWx9B {
+.frenchdesktop .span55-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span148-IRWx9B {
+.frenchdesktop .span56-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span149-IRWx9B {
+.frenchdesktop .span57-IRWx9B {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span58-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span59-IRWx9B {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span60-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span61-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span62-IRWx9B {
@@ -1330,28 +1357,25 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span99-IRWx9B {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span100-IRWx9B {
+.frenchdesktop .span8-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span101-IRWx9B {
+.frenchdesktop .span9-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span102-IRWx9B {
+.frenchdesktop .span10-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span103-IRWx9B {
+.frenchdesktop .span11-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span104-IRWx9B {
+.frenchdesktop .span12-IRWx9B {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span105-IRWx9B {
+.frenchdesktop .span13-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span14-IRWx9B {
@@ -1487,39 +1511,25 @@ a {
 .frenchdesktop .span51-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span52-IRWx9B {
+.frenchdesktop .span95-StjQPz {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span96-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span53-IRWx9B {
+.frenchdesktop .span97-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span54-IRWx9B {
+.frenchdesktop .span98-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span55-IRWx9B {
+.frenchdesktop .span99-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span56-IRWx9B {
+.frenchdesktop .span100-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span57-IRWx9B {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span58-IRWx9B {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span59-IRWx9B {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span60-IRWx9B {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span61-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span101-StjQPz {
@@ -1663,25 +1673,29 @@ a {
 .frenchdesktop .span7-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span8-IRWx9B {
+.frenchdesktop .span50-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span9-IRWx9B {
+.frenchdesktop .span51-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span10-IRWx9B {
+.frenchdesktop .span52-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span11-IRWx9B {
+.frenchdesktop .span53-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span12-IRWx9B {
+.frenchdesktop .span54-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span13-IRWx9B {
+.frenchdesktop .span55-StjQPz {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span56-StjQPz {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span57-StjQPz {
@@ -1817,24 +1831,38 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span95-StjQPz {
+.frenchdesktop .span3-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span96-StjQPz {
+.frenchdesktop .span4-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span97-StjQPz {
+.frenchdesktop .span5-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span98-StjQPz {
+.frenchdesktop .span6-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span99-StjQPz {
+.frenchdesktop .span7-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span100-StjQPz {
+.frenchdesktop .span8-StjQPz {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span9-StjQPz {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span10-StjQPz {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span11-StjQPz {
+  letter-spacing      : 0.00px;
+}
+.frenchdesktop .span12-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -1967,31 +1995,6 @@ a {
 .frenchdesktop .span49-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchdesktop .span50-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span51-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span52-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span53-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span54-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span55-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span56-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
 .frenchdesktop {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -2101,41 +2104,6 @@ a {
   letter-spacing      : 0.00px;
 }
 .frenchdesktop .span2-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span3-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span4-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span5-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span6-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span7-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span8-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span9-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span10-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span11-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchdesktop .span12-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -2259,30 +2227,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -2300,6 +2276,32 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
+}
+.frenchtablet .span129-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span130-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 660px;
+  position            : absolute;
+  top                 : 104px;
+  width               : 34px;
+}
+.frenchtablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 34px;
 }
 .frenchtablet .group-4-N5dxCB {
   align-items         : flex-start;
@@ -2359,6 +2361,20 @@ a {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span3-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span84-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span85-F58tzm {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span86-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span87-F58tzm {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span88-F58tzm {
@@ -2505,31 +2521,19 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span129-F58tzm {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span130-F58tzm {
+.frenchtablet .span40-F58tzm {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .group-2-8SiD8y {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  height              : 33px;
-  left                : 660px;
-  position            : absolute;
-  top                 : 104px;
-  width               : 34px;
+.frenchtablet .span41-F58tzm {
+  letter-spacing      : 0.00px;
 }
-.frenchtablet .group-4-xTHy2w {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/hindi-tablet-oval@2x.png");
-  background-size     : 100% 100%;
-  height              : 33px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 34px;
+.frenchtablet .span42-F58tzm {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span43-F58tzm {
+  letter-spacing      : 0.00px;
 }
 .frenchtablet .span44-F58tzm {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
@@ -2671,18 +2675,7 @@ a {
 .frenchtablet .span83-F58tzm {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span84-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span85-F58tzm {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span86-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span87-F58tzm {
+.frenchtablet .span175-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span176-IRWx9B {
@@ -2845,18 +2838,7 @@ a {
 .frenchtablet .span39-F58tzm {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span40-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span41-F58tzm {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span42-F58tzm {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span43-F58tzm {
+.frenchtablet .span131-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span132-IRWx9B {
@@ -3010,7 +2992,18 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span175-IRWx9B {
+.frenchtablet .span84-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span85-IRWx9B {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span86-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span87-IRWx9B {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span88-IRWx9B {
@@ -3164,7 +3157,15 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span131-IRWx9B {
+.frenchtablet .span40-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span41-IRWx9B {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span42-IRWx9B {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span43-IRWx9B {
@@ -3310,18 +3311,18 @@ a {
 .frenchtablet .span83-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span84-IRWx9B {
+.frenchtablet .span126-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span85-IRWx9B {
+.frenchtablet .span127-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span86-IRWx9B {
+.frenchtablet .span128-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span87-IRWx9B {
+.frenchtablet .span129-StjQPz {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span130-StjQPz {
@@ -3477,14 +3478,7 @@ a {
 .frenchtablet .span39-IRWx9B {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span40-IRWx9B {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span41-IRWx9B {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span42-IRWx9B {
+.frenchtablet .span82-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -3638,18 +3632,18 @@ a {
 .frenchtablet .span125-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span126-StjQPz {
+.frenchtablet .span35-StjQPz {
+  letter-spacing      : 0.00px;
+}
+.frenchtablet .span36-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span127-StjQPz {
+.frenchtablet .span37-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span128-StjQPz {
+.frenchtablet .span38-StjQPz {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span129-StjQPz {
   letter-spacing      : 0.00px;
 }
 .frenchtablet .span39-StjQPz {
@@ -3802,9 +3796,23 @@ a {
 .frenchtablet .span81-StjQPz {
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span82-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+.frenchtablet .span3-rqOYx7 {
   letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.frenchtablet .span4-rqOYx7 {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.frenchtablet .span5-rqOYx7 {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.frenchtablet .span6-rqOYx7 {
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
 }
 .frenchtablet .span7-rqOYx7 {
   letter-spacing      : 0.00px;
@@ -3960,20 +3968,6 @@ a {
   font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.frenchtablet .span35-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span36-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span37-StjQPz {
-  letter-spacing      : 0.00px;
-}
-.frenchtablet .span38-StjQPz {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
 .frenchtablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -4076,24 +4070,6 @@ a {
   line-height         : 27.6px;
 }
 .frenchtablet .span2-rqOYx7 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.frenchtablet .span3-rqOYx7 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.frenchtablet .span4-rqOYx7 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.frenchtablet .span5-rqOYx7 {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.frenchtablet .span6-rqOYx7 {
   font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;

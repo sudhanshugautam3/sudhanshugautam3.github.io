@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 /* .anima-animate-appear prefix for appear animations */
@@ -120,30 +121,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -161,6 +170,17 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
+}
+.hinditablet .span202-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span203-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span204-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
 .hinditablet .span205-o0o5Lx {
   letter-spacing      : 0.00px;
@@ -328,6 +348,20 @@ a {
 .hinditablet .span3-6Gs33k {
   letter-spacing      : 0.00px;
 }
+.hinditablet .span157-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span158-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span159-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span160-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
 .hinditablet .span161-o0o5Lx {
   letter-spacing      : 0.00px;
 }
@@ -471,14 +505,17 @@ a {
 .hinditablet .span201-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hinditablet .span202-o0o5Lx {
+.hinditablet .span113-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hinditablet .span114-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hinditablet .span203-o0o5Lx {
+.hinditablet .span115-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hinditablet .span204-o0o5Lx {
+.hinditablet .span116-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -622,18 +659,7 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hinditablet .span157-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span158-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span159-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span160-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hinditablet .span69-o0o5Lx {
   letter-spacing      : 0.00px;
 }
 .hinditablet .span70-o0o5Lx {
@@ -787,18 +813,7 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hinditablet .span113-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span114-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span115-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hinditablet .span116-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hinditablet .span25-o0o5Lx {
   letter-spacing      : 0.00px;
 }
 .hinditablet .span26-o0o5Lx {
@@ -952,8 +967,14 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hinditablet .span69-o0o5Lx {
-  letter-spacing      : 0.00px;
+.hinditablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
 }
 .hinditablet .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-IH4sb0 {
   background-color    : rgba(255,255,255,0);
@@ -1154,9 +1175,6 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hinditablet .span25-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
 .hinditablet {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -1209,15 +1227,6 @@ a {
   overflow            : hidden;
   position            : absolute;
   top                 : 94px;
-  width               : 768px;
-}
-.hinditablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
   width               : 768px;
 }
 /* .anima-animate-appear prefix for appear animations */
@@ -1340,30 +1349,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -1383,28 +1400,6 @@ a {
   position            : relative;
   width               : 368px;
 }
-.mobilehindi .fill-3-ZUHQ0x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  width               : 12px;
-}
-.mobilehindi .footer-GlQdDE {
-  align-items         : flex-end;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 360px;
-  padding             : 18.0px 29.0px;
-  position            : relative;
-  width               : auto;
-}
 .mobilehindi .this-article-uses-ma-6Gs33k {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-4);
@@ -1413,136 +1408,84 @@ a {
   height              : auto;
   line-height         : 13.5px;
   min-height          : 27px;
-  min-width           : 311px;
+  min-width           : 307px;
   opacity             : 0.8;
   position            : relative;
   text-align          : center;
   width               : auto;
 }
-.mobilehindi .span1-6Gs33k {
-  letter-spacing      : 0.00px;
+.mobilehindi {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1507px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 360.0px;
 }
-.mobilehindi .span2-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
+.mobilehindi .group-3-0KZAIi {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-hindi-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 69px;
+  justify-content     : flex-end;
+  left                : 0px;
+  min-width           : 368px;
+  padding             : 20.0px 66.0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
 }
-.mobilehindi .span3-6Gs33k {
-  letter-spacing      : 0.00px;
+.mobilehindi .wikipedia-preview-de-MOr3hx {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
 }
-.mobilehindi .span185-o0o5Lx {
-  letter-spacing      : 0.00px;
+.mobilehindi .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-SbB06E {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 22px;
+  min-width           : 242px;
+  position            : relative;
+  text-align          : left;
+  width               : auto;
 }
-.mobilehindi .span186-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span187-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span188-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span189-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span190-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span191-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span192-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span193-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span194-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span195-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span196-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span197-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span198-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span199-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span200-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span201-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span202-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span203-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span204-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span205-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span206-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span207-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span208-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span209-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span210-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span211-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span212-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span213-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span214-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span215-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span216-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span217-o0o5Lx {
-  letter-spacing      : 0.00px;
+.mobilehindi .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-o0o5Lx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 12px;
+  min-height          : 264px;
+  position            : relative;
+  text-align          : left;
+  width               : 328px;
 }
 .mobilehindi .u092a-u094d-u0930-u093e-u091a-u0940-u0928-u0915-u093e-u0932-u092e-u0947-u0902-u092f-u0939-u0926-u0941-kmjCRy {
   background-color    : rgba(255,255,255,0);
@@ -1660,788 +1603,27 @@ a {
   top                 : 6px;
   width               : auto;
 }
-.mobilehindi .span140-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span141-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span142-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span143-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span144-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span145-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span146-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span147-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span148-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span149-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span150-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span151-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span152-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span153-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span154-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span155-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span156-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span157-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span158-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span159-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span160-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span161-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span162-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span163-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span164-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span165-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span166-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span167-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span168-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span169-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span170-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span171-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span172-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span173-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span174-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span175-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span176-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span177-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span178-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span179-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span180-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span181-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span182-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span183-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span184-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span96-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span97-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span98-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span99-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span100-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span101-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span102-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span103-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span104-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span105-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span106-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span107-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span108-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span109-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span110-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span111-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span112-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span113-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span114-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span115-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span116-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span117-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span118-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span119-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span120-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span121-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span122-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span123-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span124-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span125-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span126-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span127-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span128-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span129-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span130-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span131-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span132-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span133-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span134-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span135-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span136-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span137-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span138-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span139-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span49-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span50-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span51-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span52-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span53-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span54-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span55-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span56-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span57-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span58-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span59-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span60-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span61-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span62-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span63-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span64-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span65-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span66-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span67-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span68-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span69-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span70-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span71-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span72-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span73-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span74-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span75-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span76-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span77-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span78-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span79-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span80-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span81-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span82-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span83-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span84-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span85-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span86-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span87-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span88-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span89-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span90-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span91-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span92-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span93-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span94-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span95-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span5-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span6-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span7-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span8-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span9-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span10-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span11-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span12-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span13-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span14-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span15-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span16-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span17-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span18-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span19-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span20-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span21-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span22-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span23-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span24-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span25-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span26-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span27-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span28-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span29-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span30-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span31-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span32-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span33-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span34-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span35-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span36-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span37-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span38-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span39-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span40-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span41-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span42-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span43-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span44-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span45-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span46-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span47-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span48-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1507px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 360.0px;
-}
-.mobilehindi .group-3-0KZAIi {
-  align-items         : flex-start;
+.mobilehindi .fill-3-ZUHQ0x {
   background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-hindi-rectangle.png");
-  background-size     : 100% 100%;
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.mobilehindi .footer-GlQdDE {
+  align-items         : flex-end;
+  background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
-  cursor              : pointer;
   display             : inline-flex;
   flex-direction      : row;
-  height              : 69px;
-  justify-content     : flex-end;
-  left                : 0px;
-  min-width           : 368px;
-  padding             : 22.0px 48.0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : auto;
-}
-.mobilehindi .wikipedia-preview-de-MOr3hx {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  min-width           : 281px;
+  height              : 64px;
+  justify-content     : flex-start;
+  margin-top          : 16px;
+  min-width           : 360px;
+  padding             : 18.0px 31.0px;
   position            : relative;
-  text-align          : center;
   width               : auto;
-}
-.mobilehindi .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-SbB06E {
-  align-self          : flex-start;
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-left         : 16.0px;
-  margin-top          : 15px;
-  min-height          : 22px;
-  min-width           : 236px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.mobilehindi .span1-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span2-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span3-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span4-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span5-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span6-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span7-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span8-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span9-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span10-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span11-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span12-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span13-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span14-SbB06E {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .span15-SbB06E {
-  letter-spacing      : 0.00px;
-  line-height         : 21.6px;
-}
-.mobilehindi .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-o0o5Lx {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-1);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 24.0px;
-  margin-top          : 12px;
-  min-height          : 240px;
-  position            : relative;
-  text-align          : left;
-  width               : 328px;
-}
-.mobilehindi .span1-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span2-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span3-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.mobilehindi .span4-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -2563,30 +1745,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -2606,23 +1796,6 @@ a {
   margin-top          : 41px;
   position            : relative;
   width               : 967px;
-}
-.hindidesktop .span71-wjsfCz {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span72-wjsfCz {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span73-wjsfCz {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span74-wjsfCz {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span75-wjsfCz {
-  letter-spacing      : 0.00px;
 }
 .hindidesktop .span76-wjsfCz {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -2795,20 +1968,6 @@ a {
   text-align          : center;
   width               : 630px;
 }
-.hindidesktop .span27-wjsfCz {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span28-wjsfCz {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span29-wjsfCz {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span30-wjsfCz {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
 .hindidesktop .span31-wjsfCz {
   letter-spacing      : 0.00px;
 }
@@ -2949,29 +2108,21 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span167-TlXxfe {
+.hindidesktop .span71-wjsfCz {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span72-wjsfCz {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span168-TlXxfe {
+.hindidesktop .span73-wjsfCz {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span169-TlXxfe {
+.hindidesktop .span74-wjsfCz {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span170-TlXxfe {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span171-TlXxfe {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span172-TlXxfe {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span173-TlXxfe {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hindidesktop .span75-wjsfCz {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span174-TlXxfe {
@@ -3137,28 +2288,18 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span123-TlXxfe {
+.hindidesktop .span27-wjsfCz {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span124-TlXxfe {
+.hindidesktop .span28-wjsfCz {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span125-TlXxfe {
+.hindidesktop .span29-wjsfCz {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span126-TlXxfe {
+.hindidesktop .span30-wjsfCz {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span127-TlXxfe {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span128-TlXxfe {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span129-TlXxfe {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span130-TlXxfe {
@@ -3291,28 +2432,28 @@ a {
 .hindidesktop .span166-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span76-TlXxfe {
+.hindidesktop .span167-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span77-TlXxfe {
+.hindidesktop .span168-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span78-TlXxfe {
+.hindidesktop .span169-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span79-TlXxfe {
+.hindidesktop .span170-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span80-TlXxfe {
+.hindidesktop .span171-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span81-TlXxfe {
+.hindidesktop .span172-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span82-TlXxfe {
+.hindidesktop .span173-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -3345,6 +2486,27 @@ a {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span91-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span92-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span93-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span94-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span95-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span96-TlXxfe {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span97-TlXxfe {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span98-TlXxfe {
@@ -3435,29 +2597,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span32-TlXxfe {
+.hindidesktop .span123-TlXxfe {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span124-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span33-TlXxfe {
+.hindidesktop .span125-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span34-TlXxfe {
+.hindidesktop .span126-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span35-TlXxfe {
+.hindidesktop .span127-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span36-TlXxfe {
+.hindidesktop .span128-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span37-TlXxfe {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span38-TlXxfe {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hindidesktop .span129-TlXxfe {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span39-TlXxfe {
@@ -3589,32 +2750,29 @@ a {
 .hindidesktop .span75-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span338-kmjCRy {
+.hindidesktop .span76-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span339-kmjCRy {
+.hindidesktop .span77-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span340-kmjCRy {
+.hindidesktop .span78-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span341-kmjCRy {
+.hindidesktop .span79-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span342-kmjCRy {
+.hindidesktop .span80-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span343-kmjCRy {
+.hindidesktop .span81-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span344-kmjCRy {
+.hindidesktop .span82-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span345-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span346-kmjCRy {
@@ -3757,38 +2915,28 @@ a {
 .hindidesktop .span31-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span291-kmjCRy {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span292-kmjCRy {
+.hindidesktop .span32-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span293-kmjCRy {
+.hindidesktop .span33-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span294-kmjCRy {
+.hindidesktop .span34-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span295-kmjCRy {
+.hindidesktop .span35-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span296-kmjCRy {
+.hindidesktop .span36-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span297-kmjCRy {
+.hindidesktop .span37-TlXxfe {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span298-kmjCRy {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span299-kmjCRy {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span300-kmjCRy {
+.hindidesktop .span38-TlXxfe {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -3921,28 +3069,32 @@ a {
 .hindidesktop .span337-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span247-kmjCRy {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span248-kmjCRy {
+.hindidesktop .span338-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span249-kmjCRy {
+.hindidesktop .span339-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span250-kmjCRy {
+.hindidesktop .span340-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span251-kmjCRy {
+.hindidesktop .span341-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span252-kmjCRy {
+.hindidesktop .span342-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span253-kmjCRy {
+.hindidesktop .span343-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span344-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span345-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span254-kmjCRy {
@@ -4075,28 +3227,39 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span203-kmjCRy {
+.hindidesktop .span291-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span204-kmjCRy {
+.hindidesktop .span292-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span205-kmjCRy {
+.hindidesktop .span293-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span206-kmjCRy {
+.hindidesktop .span294-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span207-kmjCRy {
+.hindidesktop .span295-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span208-kmjCRy {
+.hindidesktop .span296-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span209-kmjCRy {
+.hindidesktop .span297-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span298-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span299-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span300-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span210-kmjCRy {
@@ -4229,28 +3392,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span159-kmjCRy {
+.hindidesktop .span247-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span160-kmjCRy {
+.hindidesktop .span248-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span161-kmjCRy {
+.hindidesktop .span249-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span162-kmjCRy {
+.hindidesktop .span250-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span163-kmjCRy {
+.hindidesktop .span251-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span164-kmjCRy {
+.hindidesktop .span252-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span165-kmjCRy {
+.hindidesktop .span253-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span166-kmjCRy {
@@ -4383,32 +3546,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span111-kmjCRy {
+.hindidesktop .span203-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span112-kmjCRy {
+.hindidesktop .span204-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span113-kmjCRy {
+.hindidesktop .span205-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span114-kmjCRy {
+.hindidesktop .span206-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span115-kmjCRy {
+.hindidesktop .span207-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span116-kmjCRy {
+.hindidesktop .span208-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span117-kmjCRy {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span118-kmjCRy {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hindidesktop .span209-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span119-kmjCRy {
@@ -4551,28 +3710,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span67-kmjCRy {
+.hindidesktop .span159-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span68-kmjCRy {
+.hindidesktop .span160-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span69-kmjCRy {
+.hindidesktop .span161-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span70-kmjCRy {
+.hindidesktop .span162-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span71-kmjCRy {
+.hindidesktop .span163-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span72-kmjCRy {
+.hindidesktop .span164-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span73-kmjCRy {
+.hindidesktop .span165-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span74-kmjCRy {
@@ -4705,28 +3864,32 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span23-kmjCRy {
+.hindidesktop .span111-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span24-kmjCRy {
+.hindidesktop .span112-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span25-kmjCRy {
+.hindidesktop .span113-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span26-kmjCRy {
+.hindidesktop .span114-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span27-kmjCRy {
+.hindidesktop .span115-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span28-kmjCRy {
+.hindidesktop .span116-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span29-kmjCRy {
+.hindidesktop .span117-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span118-kmjCRy {
+  font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span30-kmjCRy {
@@ -4859,28 +4022,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span197-o0o5Lx {
+.hindidesktop .span67-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span198-o0o5Lx {
+.hindidesktop .span68-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span199-o0o5Lx {
+.hindidesktop .span69-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span200-o0o5Lx {
+.hindidesktop .span70-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span201-o0o5Lx {
+.hindidesktop .span71-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span202-o0o5Lx {
+.hindidesktop .span72-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span203-o0o5Lx {
+.hindidesktop .span73-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span204-o0o5Lx {
@@ -5023,39 +4186,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span150-o0o5Lx {
+.hindidesktop .span23-kmjCRy {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span24-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span151-o0o5Lx {
+.hindidesktop .span25-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span152-o0o5Lx {
+.hindidesktop .span26-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span153-o0o5Lx {
+.hindidesktop .span27-kmjCRy {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span154-o0o5Lx {
+.hindidesktop .span28-kmjCRy {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span155-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span156-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span157-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span158-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span159-o0o5Lx {
+.hindidesktop .span29-kmjCRy {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span160-o0o5Lx {
@@ -5188,29 +4340,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span106-o0o5Lx {
+.hindidesktop .span197-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span198-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span107-o0o5Lx {
+.hindidesktop .span199-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span108-o0o5Lx {
+.hindidesktop .span200-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span109-o0o5Lx {
+.hindidesktop .span201-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span110-o0o5Lx {
+.hindidesktop .span202-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span111-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span112-o0o5Lx {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+.hindidesktop .span203-o0o5Lx {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span113-o0o5Lx {
@@ -5342,32 +4493,39 @@ a {
 .hindidesktop .span149-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span61-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span62-o0o5Lx {
+.hindidesktop .span150-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span63-o0o5Lx {
+.hindidesktop .span151-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span64-o0o5Lx {
+.hindidesktop .span152-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span65-o0o5Lx {
+.hindidesktop .span153-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span66-o0o5Lx {
+.hindidesktop .span154-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span67-o0o5Lx {
+.hindidesktop .span155-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span68-o0o5Lx {
+.hindidesktop .span156-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span157-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span158-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span159-o0o5Lx {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span69-o0o5Lx {
@@ -5499,28 +4657,29 @@ a {
 .hindidesktop .span105-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span17-o0o5Lx {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span18-o0o5Lx {
+.hindidesktop .span106-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span19-o0o5Lx {
+.hindidesktop .span107-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span20-o0o5Lx {
+.hindidesktop .span108-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span21-o0o5Lx {
+.hindidesktop .span109-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span22-o0o5Lx {
+.hindidesktop .span110-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span23-o0o5Lx {
+.hindidesktop .span111-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span112-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span24-o0o5Lx {
@@ -5650,6 +4809,34 @@ a {
   letter-spacing      : 0.00px;
 }
 .hindidesktop .span60-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span61-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span62-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span63-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span64-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span65-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span66-o0o5Lx {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span67-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span68-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
@@ -5825,25 +5012,28 @@ a {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span92-TlXxfe {
+.hindidesktop .span17-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span18-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span95-TlXxfe {
+.hindidesktop .span19-o0o5Lx {
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span97-TlXxfe {
-  letter-spacing      : 0.00px;
-}
-.hindidesktop .span96-TlXxfe {
+.hindidesktop .span20-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span94-TlXxfe {
+.hindidesktop .span21-o0o5Lx {
+  letter-spacing      : 0.00px;
+}
+.hindidesktop .span22-o0o5Lx {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
 }
-.hindidesktop .span93-TlXxfe {
+.hindidesktop .span23-o0o5Lx {
   letter-spacing      : 0.00px;
 }
 @media screen and (max-width: 767px) {

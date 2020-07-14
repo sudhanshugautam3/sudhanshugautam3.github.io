@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 /* .anima-animate-appear prefix for appear animations */
@@ -120,30 +121,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -155,43 +164,15 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.mobileswahili {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1183px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 360.0px;
-}
-.mobileswahili .group-xWfRCW {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 61px;
-  justify-content     : flex-end;
-  min-width           : 360px;
-  padding             : 0 44.0px;
-  position            : relative;
-  width               : auto;
-}
 .mobileswahili .wikipedia-preview-de-wrmSLk {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
   font-size           : 18.0px;
   height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  min-width           : 281px;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
   position            : relative;
   text-align          : center;
   width               : auto;
@@ -207,7 +188,7 @@ a {
   margin-left         : 16.0px;
   margin-top          : 15px;
   min-height          : 22px;
-  min-width           : 65px;
+  min-width           : 56px;
   position            : relative;
   text-align          : left;
   width               : auto;
@@ -345,7 +326,7 @@ a {
   width               : 12px;
 }
 .mobileswahili .group-5-hx9j3X {
-  align-items         : flex-end;
+  align-items         : flex-start;
   background-color    : rgba(240,244,248,1.0);
   box-sizing          : border-box;
   display             : inline-flex;
@@ -372,15 +353,33 @@ a {
   text-align          : center;
   width               : 330px;
 }
-.mobileswahili .span1-2OiUlu {
-  letter-spacing      : 0.00px;
+.mobileswahili {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1183px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 360.0px;
 }
-.mobileswahili .span2-2OiUlu {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.mobileswahili .span3-2OiUlu {
-  letter-spacing      : 0.00px;
+.mobileswahili .group-xWfRCW {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 61px;
+  justify-content     : flex-end;
+  min-width           : 360px;
+  padding             : 18.0px 62.0px;
+  position            : relative;
+  width               : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -502,30 +501,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -553,6 +560,30 @@ a {
   margin-top          : 41px;
   position            : relative;
   width               : 967px;
+}
+.swahilidesktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1488px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.swahilidesktop .group-Ho2qZs {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/english-desktop-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 1448px;
 }
 .swahilidesktop .afrika-MDss9z {
   background-color    : rgba(255,255,255,0);
@@ -694,30 +725,6 @@ a {
   text-align          : center;
   width               : 630px;
 }
-.swahilidesktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1488px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.swahilidesktop .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-desktop-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 1448px;
-}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
@@ -838,30 +845,38 @@ a {
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
 .font-class-2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
 }
 .font-class-3 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
 }
 .font-class-4 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-family         : Roboto, Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
 }
 .font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
   color               : var(--auto-palette-color-1);
   font-family         : "Times-Roman", Helvetica, Arial, serif;
 }
-.font-class-6 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-}
 .font-class-7 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
 .font-class-8 {
   color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
 }
 :root {
   --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
@@ -879,6 +894,49 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
+}
+.swahilitablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.swahilitablet .a1084px-kobli1-RNET0I {
+  background-color    : rgba(255,255,255,0);
+  height              : 510px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -118px;
+  width               : 768px;
+}
+.swahilitablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 28px;
+  justify-content     : flex-start;
+  margin-left         : 48.0px;
+  margin-top          : 20px;
+  min-width           : 570px;
+  position            : relative;
+  width               : auto;
+}
+.swahilitablet .afrika-cxOE3D {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
 }
 .swahilitablet .afrika-ni-bara-la-pi-zmafIV {
   background-color    : rgba(255,255,255,0);
@@ -1081,49 +1139,6 @@ a {
   position            : absolute;
   top                 : 94px;
   width               : 768px;
-}
-.swahilitablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  width               : 768px;
-}
-.swahilitablet .a1084px-kobli1-RNET0I {
-  background-color    : rgba(255,255,255,0);
-  height              : 510px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -118px;
-  width               : 768px;
-}
-.swahilitablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 28px;
-  justify-content     : flex-start;
-  margin-left         : 48.0px;
-  margin-top          : 20px;
-  min-width           : 570px;
-  position            : relative;
-  width               : auto;
-}
-.swahilitablet .afrika-cxOE3D {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
 }
 @media screen and (max-width: 767px) {
   .swahilitablet {
