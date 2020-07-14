@@ -1,24 +1,71 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
-.bp3-chinese {
-  width               : 100%;
-  min-width           : 360px;
-  height              : 100vh;
-  min-height          : 1057px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
 }
 a {
   text-decoration     : none;
 }
-div {
-  -webkit-text-size-adjust: none;
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-full-width-a {
   width               : 100%;
@@ -26,701 +73,332 @@ div {
 .anima-full-height-a {
   height              : 100%;
 }
-div {
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
   -webkit-text-size-adjust: none;
 }
-.bp3-chinese .bp3-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 61px;
-  width               : 360px;
-  position            : absolute;
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
   margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
 }
-.bp3-chinese .bp3-group3 .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 61px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
 }
-.bp3-chinese .bp3-group3 .bp3-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : auto;
-  width               : auto;
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
   position            : absolute;
-  margin              : 0;
-  left                : 64px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - chinesedesktop */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
   font-weight         : 500;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : center;
-  line-height         : 24.0px;
 }
-.bp3-chinese .bp3-u732b {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 316px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
   font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.6px;
 }
-.bp3-chinese .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 353px;
-  height              : auto;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.bp3-chinese .bp3-u73feu5728uff0cu8c93u6210u70bau4e16u754cu4e0au6700u70bau5ee3u6cdbu7684u5bf5u7269u4e4bu4e00uff0cu98fc {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 512px;
-  height              : auto;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-chinese .bp3-u54c1u7a2eu7372u8a8du8b49u7684u8c93u6703u7a31u70bau7d14u7a2eu8c93uff0cu4ebau985eu4ee5u9078u64c7u7e41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 863px;
-  height              : auto;
-  width               : 328px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-chinese .bp3-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-a594pxcatposter2 {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-a594pxcatposter2 .bp3-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-a594pxcatposter2 .bp3-a594pxcatposter21 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -26px;
-  height              : 291px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 320px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 .bp3-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 .bp3-group4 .bp3-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 .bp3-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 6px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 .bp3-group41 .bp3-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group5 .bp3-group2 .bp3-group41 .bp3-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 993px;
-  height              : 64px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group .bp3-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 64px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-chinese .bp3-group .bp3-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 15px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Roboto", Roboto,Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 9.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 13.5px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.bp1-chinesedesktop {
-  width               : 100%;
-  min-width           : 1440px;
-  height              : 100vh;
-  min-height          : 1484px;
+.chinesedesktop .overlap-group-4tDfkw {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 505px;
+  margin-left         : 1.0px;
   position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
+  width               : 959px;
 }
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp1-chinesedesktop .bp1-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
-  width               : 1448px;
-  position            : absolute;
-  margin              : 0;
-  left                : -4px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-group .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 124px;
-  width               : 1448px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-u732b {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 710px;
+.chinesedesktop .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   height              : auto;
-  width               : 42px;
+  justify-content     : flex-start;
+  left                : -1px;
   position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 40.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 43.7px;
-}
-.bp1-chinesedesktop .bp1-linecopy5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 512px;
-  height              : 2px;
-  width               : 655px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 776px;
-  height              : auto;
-  width               : 632px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span1 {
-  
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span2 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span3 {
-  
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span4 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span5 {
-  
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span6 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span7 {
-  
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span8 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.bp1-chinesedesktop .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp1-span9 {
-  
-}
-.bp1-chinesedesktop .bp1-u73feu5728uff0cu8c93u6210u70bau4e16u754cu4e0au6700u70bau5ee3u6cdbu7684u5bf5u7269u4e4bu4e00uff0cu98fc {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 932px;
-  height              : auto;
-  width               : 632px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-chinesedesktop .bp1-westernlowlandgorilagorillagorilla {
-  background-color    : rgba(255,255,255,0.0);
   top                 : 165px;
-  height              : 505px;
-  width               : 959px;
-  position            : absolute;
-  margin              : 0;
-  left                : 240px;
+  width               : 1440px;
+}
+.chinesedesktop {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1484.0px;
+  min-width           : 1440.0px;
   overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  position            : relative;
+  width               : 100%;
 }
-.bp1-chinesedesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 505px;
-  width               : 959px;
-  position            : absolute;
-  margin              : 0;
+.chinesedesktop .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/index-rectangle-1.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
   left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-westernlowlandgorilagorillagorilla .bp1-a891pxcatposter2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -43px;
-  height              : 780px;
-  width               : 966px;
   position            : absolute;
-  margin              : 0;
-  left                : -4px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  top                 : -3px;
+  width               : 100%;
 }
-.bp1-chinesedesktop .bp1-u54c1u7a2eu7372u8a8du8b49u7684u8c93u6703u7a31u70bau7d14u7a2eu8c93uff0cu4ebau985eu4ee5u9078u64c7u7e41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1269px;
+.chinesedesktop .u732b-pwA0Ld {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 40.0px;
   height              : auto;
-  width               : 630px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
+  line-height         : 43.7px;
+  margin-right        : 588.0px;
+  margin-top          : 40px;
+  min-height          : 44px;
+  position            : relative;
   text-align          : left;
+  width               : 42px;
+}
+.chinesedesktop .line-copy-5-mQhVGC {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 163px;
+  position            : absolute;
+  top                 : 347px;
+  width               : 655px;
+}
+.chinesedesktop .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-8QNMLJ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
   line-height         : 31.5px;
+  margin-left         : 2.0px;
+  margin-top          : 22px;
+  min-height          : 134px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
 }
-.bp1-chinesedesktop .bp1-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 495px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
+.chinesedesktop .span1-8QNMLJ {
+  letter-spacing      : 0.00px;
 }
-.bp1-chinesedesktop .bp1-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1404px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-footer .bp1-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 19px;
-  height              : auto;
-  width               : 630px;
-  position            : absolute;
-  margin              : 0;
-  left                : 405px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
+.chinesedesktop .span2-8QNMLJ {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 1.0);
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span3-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span4-8QNMLJ {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span5-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span6-8QNMLJ {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span7-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span8-8QNMLJ {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .span9-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesedesktop .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FVrrrN {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-left         : 2.0px;
+  margin-top          : 22px;
+  min-height          : 315px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
+}
+.chinesedesktop .western-lowland-gorila-gorilla-gorilla-MJAoeI {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 505px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  width               : 959px;
+}
+.chinesedesktop .a891px-cat-poster-2-ZyxF8D {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 780px;
+  margin-bottom       : -232.0px;
+  margin-left         : -4px;
+  position            : relative;
+  width               : 966px;
+}
+.chinesedesktop .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-lDqx5G {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 95px;
+  position            : relative;
+  text-align          : left;
+  width               : 630px;
+}
+.chinesedesktop .wikipedia-preview-de-iOCx9n {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 495px;
+  line-height         : 52.8px;
+  position            : absolute;
   text-align          : center;
+  top                 : 31px;
+  width               : auto;
+}
+.chinesedesktop .footer-bUTO8v {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  width               : auto;
+}
+.chinesedesktop .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
   line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
 }
-.bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma .bp1-span1 {
-  
+.chinesedesktop .span1-gkVIMP {
+  letter-spacing      : 0.00px;
 }
-.bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma .bp1-span2 {
+.chinesedesktop .span2-gkVIMP {
   font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
-.bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma .bp1-span3 {
-  
+.chinesedesktop .span3-gkVIMP {
+  letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  animation-delay     : 0s;
 }
 @keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -753,406 +431,343 @@ div {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
 }
-.bp2-chinesetablet {
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
   width               : 100%;
-  min-width           : 768px;
-  height              : 100vh;
-  min-height          : 910px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
 }
-div {
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
   -webkit-text-size-adjust: none;
 }
-.bp2-chinesetablet .bp2-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 94px;
-  height              : 273px;
-  width               : 768px;
-  position            : absolute;
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
   margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
 }
-.bp2-chinesetablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 1px;
-  height              : 272px;
-  width               : 768px;
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
   position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  --anima-z-index: -1;
 }
-.bp2-chinesetablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-a891pxcatposter2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
-  height              : 620px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
 }
-.bp2-chinesetablet .bp2-english {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 387px;
-  height              : 28px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-english .bp2-u732b {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 26px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 422px;
-  height              : auto;
-  width               : 572px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span1 {
-  
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span3 {
-  
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span4 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span5 {
-  
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span6 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span7 {
-  
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span8 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span9 {
-  
-}
-.bp2-chinesetablet .bp2-u73feu5728uff0cu8c93u6210u70bau4e16u754cu4e0au6700u70bau5ee3u6cdbu7684u5bf5u7269u4e4bu4e00uff0cu98fccopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 533px;
-  height              : auto;
-  width               : 572px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp2-chinesetablet .bp2-u54c1u7a2eu7372u8a8du8b49u7684u8c93u6703u7a31u70bau7d14u7a2eu8c93uff0cu4ebau985eu4ee5u9078u64c7u7e41copy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 740px;
-  height              : auto;
-  width               : 572px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp2-chinesetablet .bp2-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 104px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
-  left                : 659px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group2 .bp2-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group2 .bp2-group4 .bp2-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group2 .bp2-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group2 .bp2-group41 .bp2-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group2 .bp2-group41 .bp2-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group .bp2-header {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group .bp2-header .bp2-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-group .bp2-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 197px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
-}
-.bp2-chinesetablet .bp2-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 852px;
-  height              : 58px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-footer .bp2-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 58px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  width               : 570px;
-  position            : absolute;
-  margin              : 0;
-  left                : 99px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
+/* ANIMA screen - chinese */
+.font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 18.0px;
 }
-.bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma .bp2-span1 {
-  
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
 }
-.bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma .bp2-span2 {
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-7 {
   font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
 }
-.bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma .bp2-span3 {
-  
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.chinese {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  margin              : 0px;
+  min-height          : 1057px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.chinese .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 61px;
+  justify-content     : flex-end;
+  min-width           : 100%;
+  padding             : 18.0px 62.0px;
+  position            : relative;
+  width               : auto;
+}
+.chinese .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.chinese .u732b-wRVu4i {
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 22px;
+  min-width           : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : auto;
+}
+.chinese .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wawyPq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 144px;
+  position            : relative;
+  text-align          : left;
+  width               : 328px;
+}
+.chinese .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-FJdjUP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 336px;
+  position            : relative;
+  text-align          : left;
+  width               : 328px;
+}
+.chinese .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-z2dMzv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-top          : 15px;
+  min-height          : 96px;
+  position            : relative;
+  text-align          : left;
+  width               : 328px;
+}
+.chinese .group-5-hx9j3X {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 239px;
+  margin-top          : 1px;
+  position            : relative;
+  width               : 360px;
+}
+.chinese .a594px-cat-poster-2-76EMso {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 239px;
+  justify-content     : flex-start;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  width               : 360px;
+}
+.chinese .a594px-cat-poster-2-2ZfGxb {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 291px;
+  margin-top          : -26.0px;
+  position            : relative;
+  width               : 360px;
+}
+.chinese .group-2-8xQpHT {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 24px;
+  left                : 320px;
+  position            : absolute;
+  top                 : 9px;
+  width               : 24px;
+}
+.chinese .group-4-xktenD {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
+}
+.chinese .oval-4mv0dc {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  width               : 24px;
+}
+.chinese .group-4-cpXcri {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  width               : auto;
+}
+.chinese .fill-3-lfUf5K {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.chinese .group-xWfRCW {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 64px;
+  justify-content     : flex-start;
+  margin-top          : 34px;
+  min-width           : 360px;
+  padding             : 0 15.0px;
+  position            : relative;
+  width               : auto;
+}
+.chinese .this-article-uses-ma-IENLXr {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 330px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  animation-delay     : 0s;
 }
 @keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -1185,42 +800,398 @@ div {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-word-break {
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
   overflow-wrap       : break-word;
   word-wrap           : break-word;
   word-break          : break-all;
   word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - chinesetablet */
+.font-class-1 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-10 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.chinesetablet .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  height              : 273px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 94px;
+  width               : 768px;
+}
+.chinesetablet .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 387px;
+  width               : 768px;
+}
+.chinesetablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  width               : auto;
+}
+.chinesetablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  width               : 18px;
+}
+.chinesetablet .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 100%;
+}
+.chinesetablet .header-SkiqXa {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 770px;
+}
+.chinesetablet .wikipedia-preview-de-wrmSLk {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 25.0px;
+  height              : auto;
+  left                : 197px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 26px;
+  width               : auto;
+}
+.chinesetablet .footer-bUTO8v {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 768px;
+  padding             : 0 99.0px;
+  position            : relative;
+  width               : auto;
+}
+.chinesetablet .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 36px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 570px;
+}
+.chinesetablet .span1-gkVIMP {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span2-gkVIMP {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span3-gkVIMP {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 910.0px;
+  min-width           : 768.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.chinesetablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  width               : 768px;
+}
+.chinesetablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.chinesetablet .a891px-cat-poster-2-Ymh5tV {
+  background-color    : rgba(255,255,255,0);
+  height              : 620px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.chinesetablet .english-xvR7vd {
+  align-items         : flex-start;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 28px;
+  justify-content     : flex-start;
+  margin-left         : 123.0px;
+  min-width           : 24px;
+  position            : relative;
+  width               : auto;
+}
+.chinesetablet .u732b-OK7xBr {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 26px;
+}
+.chinesetablet .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-8QNMLJ {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 7px;
+  min-height          : 96px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.chinesetablet .span1-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span2-8QNMLJ {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span3-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span4-8QNMLJ {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span5-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span6-8QNMLJ {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span7-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span8-8QNMLJ {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .span9-8QNMLJ {
+  letter-spacing      : 0.00px;
+}
+.chinesetablet .u73fe-u5728-uff0c-u8c93-u6210-u70ba-u4e16-u754c-u4e0a-u6700-u70ba-u5ee3-u6cdb-u7684-u5bf5-u7269-u4e4b-u4e00-uff0c-u98fc-copy-3HZ826 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 192px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.chinesetablet .u54c1-u7a2e-u7372-u8a8d-u8b49-u7684-u8c93-u6703-u7a31-u70ba-u7d14-u7a2e-u8c93-uff0c-u4eba-u985e-u4ee5-u9078-u64c7-u7e41-copy-J0ecPU {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 50.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.chinesetablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 659px;
+  position            : absolute;
+  top                 : 10px;
+  width               : 34px;
+}
+.chinesetablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 34px;
 }
 @media screen and (max-width: 767px) {
-  .bp3-chinese {
-    display             : block;
+  .chinesetablet {
+    display             : none ;
   }
-  .bp2-chinesetablet {
-    display             : none;
-  }
-  .bp1-chinesedesktop {
-    display             : none;
+  .chinesedesktop {
+    display             : none ;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .bp3-chinese {
-    display             : none;
+  .chinese {
+    display             : none ;
   }
-  .bp2-chinesetablet {
-    display             : block;
-  }
-  .bp1-chinesedesktop {
-    display             : none;
+  .chinesedesktop {
+    display             : none ;
   }
 }
 @media screen and (min-width: 1440px) {
-  .bp3-chinese {
-    display             : none;
+  .chinese {
+    display             : none ;
   }
-  .bp2-chinesetablet {
-    display             : none;
-  }
-  .bp1-chinesedesktop {
-    display             : block;
+  .chinesetablet {
+    display             : none ;
   }
 }
