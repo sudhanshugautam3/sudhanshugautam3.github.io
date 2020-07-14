@@ -116,7 +116,7 @@ a {
 .anima-auto-animated .anima-container-center-horizontal {
   opacity             : 1;
 }
-/* ANIMA screen - index2 */
+/* ANIMA screen - index */
 .font-class-1 {
   font-family         : "Georgia", Helvetica, Arial, serif;
 }
@@ -155,14 +155,26 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.index2 .overlap-group-Y7zamN {
+.index .auto-flex3-UyO79H {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 244px;
+}
+.index .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 63px;
   position            : relative;
   width               : 362px;
 }
-.index2 .overlap-group1-yBpAcz {
+.index .overlap-group1-yBpAcz {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 64px;
@@ -170,7 +182,7 @@ a {
   position            : relative;
   width               : 360px;
 }
-.index2 .auto-flex4-n3q5lb {
+.index .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -182,7 +194,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.index2 .auto-flex2-44zkdR {
+.index .auto-flex5-NyFzAD {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -194,65 +206,19 @@ a {
   position            : relative;
   width               : 244px;
 }
-.index2 .span19-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span20-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span21-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span22-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span23-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span24-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span25-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span26-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index2 .line-copy-5-18i8FR {
+.index .auto-flex2-44zkdR {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 15px;
+  height              : auto;
+  justify-content     : flex-start;
   position            : relative;
-  width               : 329px;
+  width               : 244px;
 }
-.index2 .line-copy-6-91jlDU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 1.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 329px;
-}
-.index2 .line-copy-8-6JUJQK {
+.index .line-copy-8-6JUJQK {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 3px;
@@ -261,7 +227,7 @@ a {
   position            : relative;
   width               : 327px;
 }
-.index2 .line-copy-9-ROHgnd {
+.index .line-copy-9-ROHgnd {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 3px;
@@ -270,7 +236,7 @@ a {
   position            : relative;
   width               : 327px;
 }
-.index2 .group-4-Tu8Qgm {
+.index .group-4-Tu8Qgm {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -284,7 +250,7 @@ a {
   position            : relative;
   width               : auto;
 }
-.index2 .conseil-de-s-351curit-351-cnPj8S {
+.index .conseil-de-s-351curit-351-cnPj8S {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -296,7 +262,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .language-267-french-copy-zjvIfX {
+.index .language-267-french-copy-zjvIfX {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -310,7 +276,7 @@ a {
   text-align          : left;
   width               : auto;
 }
-.index2 .le-conseil-de-s-351curi-3ueV0P {
+.index .le-conseil-de-s-351curi-3ueV0P {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -324,7 +290,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
+.index .western-lowland-gorila-gorilla-gorilla-copy-7-jellVA {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -339,7 +305,7 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index2 .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
+.index .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-cXo7Yg {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 72px;
@@ -347,7 +313,7 @@ a {
   position            : relative;
   width               : 96px;
 }
-.index2 .rectangle-p6bHfG {
+.index .rectangle-p6bHfG {
   background-color    : rgba(255,255,255,0);
   height              : 63px;
   left                : 0px;
@@ -355,7 +321,7 @@ a {
   top                 : 0px;
   width               : 362px;
 }
-.index2 .line-copy-7-oa5W5x {
+.index .line-copy-7-oa5W5x {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 1px;
@@ -364,7 +330,7 @@ a {
   position            : relative;
   width               : 329px;
 }
-.index2 .rectangle-twcslg {
+.index .rectangle-twcslg {
   background-color    : rgba(240,244,248,1.0);
   height              : 64px;
   left                : 0px;
@@ -372,7 +338,7 @@ a {
   top                 : 0px;
   width               : 360px;
 }
-.index2 .articles-on-this-lis-8Yl4XP {
+.index .articles-on-this-lis-8Yl4XP {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-4);
   font-size           : 9.0px;
@@ -385,7 +351,7 @@ a {
   top                 : 19px;
   width               : 330px;
 }
-.index2 .wikipedia-preview-de-Opx0Ax {
+.index .wikipedia-preview-de-Opx0Ax {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   font-size           : 18.0px;
@@ -397,149 +363,65 @@ a {
   top                 : 20px;
   width               : auto;
 }
-.index2 .span3-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index2 .span4-88vL6Z {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index2 .span5-88vL6Z {
-  letter-spacing      : 0.00px;
-  line-height         : 22.4px;
-}
-.index2 .group-5-hx9j3X {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 106px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index2 .language-267-hindi-urZFhx {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 12.0px;
-  margin-top          : 4px;
-  min-height          : 12px;
-  min-width           : 99px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index2 .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -43px;
-  position            : relative;
-  width               : 157px;
-}
-.index2 .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 16.0px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index2 .span1-9bY7Ox {
+.index .span3-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span2-9bY7Ox {
+.index .span4-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span3-9bY7Ox {
+.index .span5-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span4-9bY7Ox {
+.index .span6-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span5-9bY7Ox {
+.index .span7-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span6-9bY7Ox {
+.index .span8-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span7-9bY7Ox {
+.index .span9-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span8-9bY7Ox {
+.index .span10-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span9-9bY7Ox {
+.index .span11-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span10-9bY7Ox {
+.index .span12-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span11-9bY7Ox {
+.index .span13-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span12-9bY7Ox {
+.index .span14-9bY7Ox {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span13-9bY7Ox {
+.index .span15-9bY7Ox {
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
 }
-.index2 .span14-9bY7Ox {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index2 .span15-9bY7Ox {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index2 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
+.index .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-18ss8g {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -553,100 +435,146 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .span1-18ss8g {
+.index .span1-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span2-18ss8g {
+.index .span2-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span3-18ss8g {
+.index .span3-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span4-18ss8g {
+.index .span4-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span5-18ss8g {
+.index .span5-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span6-18ss8g {
+.index .span6-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span7-18ss8g {
+.index .span7-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span8-18ss8g {
+.index .span8-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span9-18ss8g {
+.index .span9-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span10-18ss8g {
+.index .span10-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span11-18ss8g {
+.index .span11-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span12-18ss8g {
+.index .span12-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span13-18ss8g {
+.index .span13-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span14-18ss8g {
+.index .span14-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span15-18ss8g {
+.index .span15-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span16-18ss8g {
+.index .span16-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span17-18ss8g {
+.index .span17-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .span18-18ss8g {
+.index .span18-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index2 .auto-flex1-CG2eCk {
-  align-items         : flex-start;
+.index .span19-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span20-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span21-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span22-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span23-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span24-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span25-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span26-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span27-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .line-copy-5-18i8FR {
   background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
   flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 15px;
   position            : relative;
-  width               : 244px;
+  width               : 329px;
 }
-.index2 {
+.index .line-copy-6-91jlDU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 1.0px;
+  margin-top          : 14px;
+  position            : relative;
+  width               : 329px;
+}
+.index {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
   box-sizing          : border-box;
@@ -654,12 +582,14 @@ a {
   flex-direction      : column;
   height              : auto;
   justify-content     : flex-start;
+  margin              : 0px;
   min-height          : 978px;
+  min-width           : 360.0px;
   overflow            : hidden;
   position            : relative;
-  width               : 360.0px;
+  width               : 100%;
 }
-.index2 .group-6-gOTYvh {
+.index .group-6-gOTYvh {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -673,7 +603,7 @@ a {
   position            : relative;
   width               : auto;
 }
-.index2 .wildlife-of-the-cent-tglvvZ {
+.index .wildlife-of-the-cent-tglvvZ {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -685,7 +615,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
+.index .western-lowland-gorila-gorilla-gorilla-copy-7-u5Nhx2 {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -700,14 +630,14 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
+.index .western-lowland-gorila-gorilla-gorilla-copy-9MBvqx {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 72px;
   position            : relative;
   width               : 108px;
 }
-.index2 .wildlife-in-the-cent-03jDLA {
+.index .wildlife-in-the-cent-03jDLA {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -721,7 +651,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .language-267-english-copy-4-JSZ77u {
+.index .language-267-english-copy-4-JSZ77u {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -735,7 +665,7 @@ a {
   text-align          : left;
   width               : auto;
 }
-.index2 .group-3-iFKazk {
+.index .group-3-iFKazk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -749,7 +679,7 @@ a {
   position            : relative;
   width               : auto;
 }
-.index2 .nikola-tesla-t0Y353 {
+.index .nikola-tesla-t0Y353 {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -761,7 +691,7 @@ a {
   text-align          : left;
   width               : 112px;
 }
-.index2 .nikola-tesla-fue-un-K6xHG8 {
+.index .nikola-tesla-fue-un-K6xHG8 {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -775,7 +705,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .language-267-spanish-YZuxPY {
+.index .language-267-spanish-YZuxPY {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -789,7 +719,7 @@ a {
   text-align          : left;
   width               : auto;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
+.index .western-lowland-gorila-gorilla-gorilla-copy-4-8TcYyo {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -804,7 +734,7 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index2 .a535px-tesla-sarony-nXSrlL {
+.index .a535px-tesla-sarony-nXSrlL {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 123px;
@@ -813,19 +743,7 @@ a {
   position            : relative;
   width               : 91px;
 }
-.index2 .auto-flex5-NyFzAD {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index2 .group-2-Aspe6u {
+.index .group-2-Aspe6u {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -839,7 +757,7 @@ a {
   position            : relative;
   width               : auto;
 }
-.index2 .afrika-4uC00w {
+.index .afrika-4uC00w {
   background-color    : rgba(255,255,255,0);
   color               : rgba(16,42,67,1.0);
   flex-shrink         : 0;
@@ -851,7 +769,7 @@ a {
   text-align          : left;
   width               : 58px;
 }
-.index2 .afrika-ni-bara-la-pi-GxxOgi {
+.index .afrika-ni-bara-la-pi-GxxOgi {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -865,7 +783,7 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .language-267-swahili-m1txXj {
+.index .language-267-swahili-m1txXj {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -879,7 +797,7 @@ a {
   text-align          : left;
   width               : auto;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
+.index .western-lowland-gorila-gorilla-gorilla-copy-5-0Bl4Ar {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -894,14 +812,14 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index2 .a640px-kobli1-ZD2Mv9 {
+.index .a640px-kobli1-ZD2Mv9 {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 72px;
   position            : relative;
   width               : 108px;
 }
-.index2 .group-xWfRCW {
+.index .group-xWfRCW {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -915,7 +833,7 @@ a {
   position            : relative;
   width               : auto;
 }
-.index2 .u732b-uNkwlt {
+.index .u732b-uNkwlt {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   font-size           : 16.0px;
@@ -926,7 +844,7 @@ a {
   text-align          : left;
   width               : 19px;
 }
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
+.index .western-lowland-gorila-gorilla-gorilla-copy-10-4nbc7c {
   align-items         : flex-start;
   background-color    : rgba(215,215,215,1.0);
   border-radius       : 4.0px;
@@ -941,7 +859,7 @@ a {
   position            : relative;
   width               : 70px;
 }
-.index2 .a594px-cat-poster-2-7A1UBC {
+.index .a594px-cat-poster-2-7A1UBC {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   height              : 72px;
@@ -949,7 +867,7 @@ a {
   position            : relative;
   width               : 89px;
 }
-.index2 .language-267-chinese-Cgya9I {
+.index .language-267-chinese-Cgya9I {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -963,7 +881,7 @@ a {
   text-align          : left;
   width               : auto;
 }
-.index2 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
+.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-88vL6Z {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -977,16 +895,100 @@ a {
   text-align          : left;
   width               : 244px;
 }
-.index2 .span1-88vL6Z {
+.index .span1-88vL6Z {
   letter-spacing      : 0.00px;
   line-height         : 22.4px;
 }
-.index2 .span2-88vL6Z {
+.index .span2-88vL6Z {
   font-family         : "Georgia", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 22.4px;
 }
-.index2 .auto-flex3-UyO79H {
+.index .span3-88vL6Z {
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.index .span4-88vL6Z {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.index .span5-88vL6Z {
+  letter-spacing      : 0.00px;
+  line-height         : 22.4px;
+}
+.index .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 106px;
+  justify-content     : flex-start;
+  margin-top          : 14px;
+  position            : relative;
+  width               : auto;
+}
+.index .language-267-hindi-urZFhx {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 12.0px;
+  margin-top          : 4px;
+  min-height          : 12px;
+  min-width           : 99px;
+  position            : relative;
+  text-align          : left;
+  width               : auto;
+}
+.index .western-lowland-gorila-gorilla-gorilla-copy-7-7jdNRp {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 4.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 72px;
+  justify-content     : flex-start;
+  margin-left         : 14px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 70px;
+}
+.index .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-kwpmLJ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 72px;
+  margin-left         : -43px;
+  position            : relative;
+  width               : 157px;
+}
+.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-copy-9bY7Ox {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 244px;
+}
+.index .span1-9bY7Ox {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span2-9bY7Ox {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .auto-flex1-CG2eCk {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -998,7 +1000,7 @@ a {
   position            : relative;
   width               : 244px;
 }
-.index2 .auto-flex-jta0tg {
+.index .auto-flex-jta0tg {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -1165,30 +1167,6 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.index1 .auto-flex2-3LESXx {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
-.index1 .auto-flex-4RHks2 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
 .index1 .auto-flex1-xWlRvG {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -1200,30 +1178,6 @@ a {
   justify-content     : flex-start;
   position            : relative;
   width               : 373px;
-}
-.index1 .auto-flex5-xYhCyw {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
-}
-.index1 .auto-flex3-fx0QnL {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
 }
 .index1 .auto-flex4-aljjS1 {
   align-items         : flex-start;
@@ -1237,83 +1191,53 @@ a {
   position            : relative;
   width               : 371px;
 }
-.index1 .language-267-chinese-hPMSIN {
+.index1 .auto-flex-4RHks2 {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  font-size           : 13.0px;
   height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
+  justify-content     : flex-start;
   position            : relative;
-  text-align          : left;
-  width               : 113px;
+  width               : 374px;
 }
-.index1 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
+.index1 .auto-flex2-3LESXx {
+  align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  font-size           : 16.0px;
   height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
+  justify-content     : flex-start;
   position            : relative;
-  text-align          : left;
+  width               : 374px;
+}
+.index1 .auto-flex3-fx0QnL {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
   width               : 372px;
 }
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
+.index1 .auto-flex5-xYhCyw {
   align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
+  background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  width               : 151px;
-}
-.index1 .header-6IR25F {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 17.0px 197.0px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .wikipedia-preview-de-xYdG1v {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
   height              : auto;
-  line-height         : 52.8px;
-  min-height          : 53px;
-  min-width           : 386px;
+  justify-content     : flex-start;
   position            : relative;
-  text-align          : center;
-  width               : auto;
+  width               : 372px;
 }
 .index1 .line-copy-14-OCuCGB {
   background-color    : rgba(255,255,255,0);
@@ -1387,42 +1311,6 @@ a {
   position            : relative;
   text-align          : center;
   width               : 570px;
-}
-.index1 .span37-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span38-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span39-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span44-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
 }
 .index1 .span45-xtSa7p {
   letter-spacing      : 0.00px;
@@ -1731,47 +1619,7 @@ a {
   text-align          : left;
   width               : 30px;
 }
-.index1 .span7-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span8-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span9-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span10-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span11-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span12-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span13-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span14-8RYNId {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .span15-8RYNId {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index1 .language-267-hindi-XhFRiV {
+.index1 .language-267-chinese-hPMSIN {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
@@ -1784,19 +1632,70 @@ a {
   text-align          : left;
   width               : 113px;
 }
-.index1 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
+.index1 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-2);
   flex-shrink         : 0;
   font-size           : 16.0px;
   height              : auto;
-  line-height         : 16.0px;
+  line-height         : 22.4px;
   margin-top          : 10px;
-  min-height          : 52px;
+  min-height          : 45px;
   opacity             : 0.9;
   position            : relative;
   text-align          : left;
-  width               : 373px;
+  width               : 372px;
+}
+.index1 .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 120px;
+  justify-content     : center;
+  margin-left         : 26px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 141px;
+}
+.index1 .a594px-cat-poster-2-5Vf5Gb {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 124px;
+  margin-top          : -4.0px;
+  position            : relative;
+  width               : 151px;
+}
+.index1 .header-6IR25F {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 96px;
+  justify-content     : flex-start;
+  padding             : 17.0px 197.0px;
+  position            : relative;
+  width               : auto;
+}
+.index1 .wikipedia-preview-de-xYdG1v {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  flex-shrink         : 0;
+  font-size           : 25.0px;
+  height              : auto;
+  line-height         : 52.8px;
+  min-height          : 53px;
+  min-width           : 386px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
 }
 .index1 .span1-xtSa7p {
   letter-spacing      : 0.00px;
@@ -1960,6 +1859,42 @@ a {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
+.index1 .span37-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span38-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span39-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span40-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span41-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span42-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span43-xtSa7p {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index1 .span44-xtSa7p {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
 .index1 {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -2106,6 +2041,73 @@ a {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   letter-spacing      : 0.00px;
   line-height         : 27.6px;
+}
+.index1 .span7-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span8-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span9-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span10-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span11-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span12-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span13-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span14-8RYNId {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .span15-8RYNId {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index1 .language-267-hindi-XhFRiV {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  width               : 113px;
+}
+.index1 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 16.0px;
+  margin-top          : 10px;
+  min-height          : 52px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  width               : 373px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -2262,18 +2264,6 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.index .auto-flex3-UyO79H {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 408px;
-}
 .index .overlap-group-Y7zamN {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
@@ -2282,7 +2272,7 @@ a {
   position            : relative;
   width               : 1448px;
 }
-.index .auto-flex4-n3q5lb {
+.index .auto-flex3-UyO79H {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
@@ -2306,18 +2296,6 @@ a {
   position            : relative;
   width               : 387px;
 }
-.index .auto-flex1-CG2eCk {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 410px;
-}
 .index .auto-flex2-44zkdR {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -2330,91 +2308,17 @@ a {
   position            : relative;
   width               : 411px;
 }
-.index .line-copy-7-oa5W5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
-  position            : relative;
-  width               : 655px;
-}
-.index .line-copy-6-91jlDU {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 26px;
-  position            : relative;
-  width               : 655px;
-}
-.index .group-copy-V5KGfj {
+.index .auto-flex4-n3q5lb {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
   box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
+  display             : flex;
+  flex-direction      : column;
   flex-shrink         : 0;
-  height              : 175px;
+  height              : auto;
   justify-content     : flex-start;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
   position            : relative;
-  width               : auto;
-}
-.index .u732b-DuJEpM {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 30px;
-}
-.index .language-267-chinese-C6QVBq {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 112px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 387px;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 175px;
-  justify-content     : center;
-  margin-left         : 102px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 165px;
+  width               : 408px;
 }
 .index .a594px-cat-poster-2-Gm3DUk {
   background-color    : rgba(255,255,255,0);
@@ -2463,55 +2367,6 @@ a {
   position            : relative;
   text-align          : center;
   width               : 630px;
-}
-.index .span27-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span28-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span29-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span30-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span31-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span32-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span33-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span34-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span35-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span36-18ss8g {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index .span37-18ss8g {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
 }
 .index .span38-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -2680,47 +2535,91 @@ a {
   position            : relative;
   width               : 655px;
 }
-.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+.index .line-copy-7-oa5W5x {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 24px;
+  position            : relative;
+  width               : 655px;
+}
+.index .line-copy-6-91jlDU {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-left         : 21.0px;
+  margin-top          : 26px;
+  position            : relative;
+  width               : 655px;
+}
+.index .group-copy-V5KGfj {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : flex-start;
+  margin-left         : 20.0px;
+  margin-top          : 15px;
+  position            : relative;
+  width               : auto;
+}
+.index .u732b-DuJEpM {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
   font-size           : 24.0px;
   height              : auto;
-  line-height         : 24.0px;
-  min-height          : 35px;
+  line-height         : 27.6px;
+  min-height          : 28px;
   position            : relative;
   text-align          : left;
-  width               : 410px;
+  width               : 30px;
 }
-.index .span1-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .language-267-chinese-C6QVBq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 15.0px;
+  margin-top          : 6px;
+  min-height          : 15px;
+  position            : relative;
+  text-align          : left;
+  width               : 113px;
 }
-.index .span2-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-wYryYV {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 22.4px;
+  margin-top          : 10px;
+  min-height          : 112px;
+  opacity             : 0.9;
+  position            : relative;
+  text-align          : left;
+  width               : 387px;
 }
-.index .span3-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span4-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span5-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span6-lnd7Jx {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-}
-.index .span7-lnd7Jx {
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
+.index .western-lowland-gorila-gorilla-gorilla-copy-6-UAy9Jc {
+  align-items         : flex-start;
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 175px;
+  justify-content     : center;
+  margin-left         : 102px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 165px;
 }
 .index .span8-lnd7Jx {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
@@ -2899,6 +2798,55 @@ a {
 }
 .index .span26-18ss8g {
   font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span27-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span28-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span29-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span30-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span31-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span32-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span33-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span34-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span35-18ss8g {
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span36-18ss8g {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 25.6px;
+}
+.index .span37-18ss8g {
   letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
@@ -3256,6 +3204,60 @@ a {
   position            : relative;
   width               : auto;
 }
+.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-lnd7Jx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 24.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 35px;
+  position            : relative;
+  text-align          : left;
+  width               : 410px;
+}
+.index .span1-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span2-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span3-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span4-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span5-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span6-lnd7Jx {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .span7-lnd7Jx {
+  letter-spacing      : 0.00px;
+  line-height         : 27.6px;
+}
+.index .auto-flex1-CG2eCk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  position            : relative;
+  width               : 410px;
+}
 .index .auto-flex-jta0tg {
   align-items         : flex-start;
   background-color    : rgba(255,255,255,0);
@@ -3277,7 +3279,7 @@ a {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .index2 {
+  .index {
     display             : none ;
   }
   .index {
@@ -3285,7 +3287,7 @@ a {
   }
 }
 @media screen and (min-width: 1440px) {
-  .index2 {
+  .index {
     display             : none ;
   }
   .index1 {

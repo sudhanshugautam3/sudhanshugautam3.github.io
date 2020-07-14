@@ -554,30 +554,6 @@ a {
   position            : relative;
   width               : 967px;
 }
-.swahilidesktop {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 1488px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 1440.0px;
-}
-.swahilidesktop .group-Ho2qZs {
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/english-desktop-rectangle.png");
-  background-size     : 100% 100%;
-  cursor              : pointer;
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 1448px;
-}
 .swahilidesktop .afrika-MDss9z {
   background-color    : rgba(255,255,255,0);
   flex-shrink         : 0;
@@ -717,6 +693,30 @@ a {
   position            : relative;
   text-align          : center;
   width               : 630px;
+}
+.swahilidesktop {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 1488px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1440.0px;
+}
+.swahilidesktop .group-Ho2qZs {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/english-desktop-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 1448px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -879,72 +879,6 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
-}
-.swahilitablet {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  min-height          : 988px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 768.0px;
-}
-.swahilitablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 273px;
-  left                : 1px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 94px;
-  width               : 768px;
-}
-.swahilitablet .mask-biZW9V {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 272px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 1px;
-  width               : 768px;
-}
-.swahilitablet .a1084px-kobli1-RNET0I {
-  background-color    : rgba(255,255,255,0);
-  height              : 510px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -118px;
-  width               : 768px;
-}
-.swahilitablet .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 28px;
-  justify-content     : flex-start;
-  margin-left         : 48.0px;
-  margin-top          : 20px;
-  min-width           : 570px;
-  position            : relative;
-  width               : auto;
-}
-.swahilitablet .afrika-cxOE3D {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 572px;
 }
 .swahilitablet .afrika-ni-bara-la-pi-zmafIV {
   background-color    : rgba(255,255,255,0);
@@ -1124,6 +1058,72 @@ a {
 }
 .swahilitablet .span3-6Gs33k {
   letter-spacing      : 0.00px;
+}
+.swahilitablet {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 988px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 768.0px;
+}
+.swahilitablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 1px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 94px;
+  width               : 768px;
+}
+.swahilitablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.swahilitablet .a1084px-kobli1-RNET0I {
+  background-color    : rgba(255,255,255,0);
+  height              : 510px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -118px;
+  width               : 768px;
+}
+.swahilitablet .english-GlKqzs {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 28px;
+  justify-content     : flex-start;
+  margin-left         : 48.0px;
+  margin-top          : 20px;
+  min-width           : 570px;
+  position            : relative;
+  width               : auto;
+}
+.swahilitablet .afrika-cxOE3D {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
 }
 @media screen and (max-width: 767px) {
   .swahilitablet {

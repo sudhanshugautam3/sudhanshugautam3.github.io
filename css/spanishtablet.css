@@ -155,71 +155,6 @@ a {
   --auto-palette-color-5: rgba(0,62,107,1.0);
   --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
 }
-.mobilespanishcopy .group-4-cpXcri {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 12px;
-  justify-content     : flex-start;
-  left                : 6px;
-  position            : absolute;
-  top                 : 6px;
-  width               : auto;
-}
-.mobilespanishcopy .fill-3-lfUf5K {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 12px;
-  position            : relative;
-  width               : 12px;
-}
-.mobilespanishcopy .group-3-iFKazk {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 61px;
-  justify-content     : flex-end;
-  min-width           : 360px;
-  padding             : 0 44.0px;
-  position            : relative;
-  width               : auto;
-}
-.mobilespanishcopy .wikipedia-preview-de-9mXMgR {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 18.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 21px;
-  min-width           : 281px;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.mobilespanishcopy .group-copy-2-qX3H8O {
-  align-items         : flex-end;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 64px;
-  justify-content     : flex-start;
-  margin-top          : 34px;
-  min-width           : 360px;
-  padding             : 18.0px 15.0px;
-  position            : relative;
-  width               : auto;
-}
 .mobilespanishcopy .this-article-uses-ma-pflfdu {
   background-color    : rgba(255,255,255,0);
   color               : var(--auto-palette-color-4);
@@ -370,6 +305,71 @@ a {
   height              : 23px;
   position            : relative;
   width               : 24px;
+}
+.mobilespanishcopy .group-4-cpXcri {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  width               : auto;
+}
+.mobilespanishcopy .fill-3-lfUf5K {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.mobilespanishcopy .group-3-iFKazk {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 61px;
+  justify-content     : flex-end;
+  min-width           : 360px;
+  padding             : 0 44.0px;
+  position            : relative;
+  width               : auto;
+}
+.mobilespanishcopy .wikipedia-preview-de-9mXMgR {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 21px;
+  min-width           : 281px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
+.mobilespanishcopy .group-copy-2-qX3H8O {
+  align-items         : flex-end;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 64px;
+  justify-content     : flex-start;
+  margin-top          : 34px;
+  min-width           : 360px;
+  padding             : 18.0px 15.0px;
+  position            : relative;
+  width               : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -543,54 +543,6 @@ a {
   position            : relative;
   width               : 967px;
 }
-.spanishdesktop .a802px-tesla-sarony-dzjwzZ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1298px;
-  margin-bottom       : -623.0px;
-  position            : relative;
-  width               : 964px;
-}
-.spanishdesktop .wikipedia-preview-de-Opx0Ax {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 499px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 34px;
-  width               : auto;
-}
-.spanishdesktop .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
-  min-width           : 1440px;
-  padding             : 0 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.spanishdesktop .this-article-uses-ma-6Gs33k {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 630px;
-}
 .spanishdesktop {
   align-items         : center;
   background-color    : var(--auto-palette-color-3);
@@ -691,6 +643,54 @@ a {
   position            : absolute;
   top                 : 0px;
   width               : 967px;
+}
+.spanishdesktop .a802px-tesla-sarony-dzjwzZ {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1298px;
+  margin-bottom       : -623.0px;
+  position            : relative;
+  width               : 964px;
+}
+.spanishdesktop .wikipedia-preview-de-Opx0Ax {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 499px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 34px;
+  width               : auto;
+}
+.spanishdesktop .footer-GlQdDE {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 1440px;
+  padding             : 0 405.0px;
+  position            : relative;
+  width               : auto;
+}
+.spanishdesktop .this-article-uses-ma-6Gs33k {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -853,24 +853,6 @@ a {
   height              : 367px;
   position            : relative;
   width               : 770px;
-}
-.spanishtablet .span1-6Gs33k {
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span2-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span3-6Gs33k {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span4-6Gs33k {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-}
-.spanishtablet .span5-6Gs33k {
-  letter-spacing      : 0.00px;
 }
 .spanishtablet {
   align-items         : center;
@@ -1079,6 +1061,24 @@ a {
   position            : relative;
   text-align          : center;
   width               : 570px;
+}
+.spanishtablet .span1-6Gs33k {
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span2-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span3-6Gs33k {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span4-6Gs33k {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
+}
+.spanishtablet .span5-6Gs33k {
+  letter-spacing      : 0.00px;
 }
 @media screen and (max-width: 767px) {
   .spanishtablet {
