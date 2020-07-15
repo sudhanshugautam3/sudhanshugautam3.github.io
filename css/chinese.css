@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');*/
 
 
 .bp3-chinese {
@@ -61,7 +61,7 @@ div {
   left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*        : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;Comment */  
   font-weight         : 500;
   font-style          : normal;
   font-size           : 18.0px;
@@ -79,7 +79,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -97,7 +97,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+   /* font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -115,7 +115,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+ /* font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -133,7 +133,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -283,7 +283,7 @@ div {
   left                : 15px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 9.0px;
@@ -480,7 +480,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  /*font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -496,7 +496,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+ /* font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -506,25 +506,25 @@ div {
   
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+ /* font-family         : "Times-Roman", Helvetica, Arial, serif;*/
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span3 {
   
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span4 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+ /* font-family         : "Times-Roman", Helvetica, Arial, serif;*/
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span5 {
   
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span6 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+ /* font-family         : "Times-Roman", Helvetica, Arial, serif;*/
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span7 {
   
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span8 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+ /* font-family         : "Times-Roman", Helvetica, Arial, serif;*/
 }
 .bp2-chinesetablet .bp2-u8c93uff08u5b78u540duff1afeliscatusu6216fe .bp2-span9 {
   
@@ -539,7 +539,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  /*font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -555,7 +555,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+ /* font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -670,7 +670,7 @@ div {
   left                : 197px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  /*font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   font-size           : 25.0px;
   color               : rgba(0, 62, 107, 1.0);
   text-align          : center;
@@ -708,7 +708,7 @@ div {
   left                : 99px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 12.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
@@ -718,7 +718,7 @@ div {
   
 }
 .bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma .bp2-span2 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  /*font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;*/
 }
 .bp2-chinesetablet .bp2-footer .bp2-thisarticleusesma .bp2-span3 {
   
@@ -865,7 +865,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 40.0px;
@@ -894,7 +894,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -912,7 +912,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -964,7 +964,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+ /* font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -1004,7 +1004,7 @@ div {
   left                : 405px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  /*font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -1016,7 +1016,7 @@ div {
   
 }
 .bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma .bp1-span2 {
-  font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;
+ /* font-family         : "PingFangSC-Regular", Helvetica, Arial, serif;*/
 }
 .bp1-chinesedesktop .bp1-footer .bp1-thisarticleusesma .bp1-span3 {
   
@@ -1042,7 +1042,7 @@ div {
   left                : 524px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+ /* font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 30.0px;

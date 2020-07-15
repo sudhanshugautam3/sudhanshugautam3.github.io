@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');*/
 
 
 .bp3-index {
@@ -38,7 +38,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+ /* font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -56,7 +56,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -74,7 +74,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -128,7 +128,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -146,7 +146,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -164,7 +164,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -218,7 +218,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -236,7 +236,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -254,7 +254,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -319,7 +319,7 @@ div {
   left                : 1px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -337,7 +337,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -355,7 +355,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -409,7 +409,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -427,7 +427,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -445,7 +445,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -543,7 +543,7 @@ div {
   left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 24.0px;
@@ -561,7 +561,7 @@ div {
   left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -579,7 +579,7 @@ div {
   left                : 403px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -655,7 +655,7 @@ div {
   left                : 405px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -684,7 +684,7 @@ div {
   left                : 524px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 30.0px;
@@ -846,7 +846,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -900,7 +900,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -918,7 +918,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -936,7 +936,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -954,7 +954,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -972,7 +972,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -1026,7 +1026,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1044,7 +1044,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1062,7 +1062,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -1116,7 +1116,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1170,7 +1170,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -1188,7 +1188,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1206,7 +1206,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -1260,7 +1260,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1278,7 +1278,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1340,7 +1340,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1358,7 +1358,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 11.0px;
@@ -1376,7 +1376,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -1474,7 +1474,7 @@ div {
   left                : 15px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 9.0px;
@@ -1492,7 +1492,7 @@ div {
   left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 18.0px;
@@ -1653,7 +1653,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+ /* font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -1669,7 +1669,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+ /* font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -1685,7 +1685,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -1748,7 +1748,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+  /*font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -1758,49 +1758,49 @@ div {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span2 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+ /* font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span3 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span4 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span5 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span6 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span7 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span8 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span9 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span10 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span11 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span12 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span13 {
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span14 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span15 {
@@ -1816,7 +1816,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -1832,7 +1832,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  /*font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -1842,175 +1842,175 @@ div {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span2 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span3 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span4 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span5 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span6 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span7 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span8 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span9 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span10 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span11 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span12 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span13 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span14 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span15 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span16 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span17 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span18 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span19 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span20 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span21 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span22 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span23 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span24 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span25 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span26 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span27 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span28 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span29 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span30 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span31 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span32 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span33 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span34 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span35 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span36 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span37 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span38 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span39 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span40 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span41 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span42 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span43 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span44 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span45 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span46 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span47 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span48 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span49 {
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span50 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   line-height         : 25.6px;
 }
 .bp2-index1 .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 {
@@ -2070,7 +2070,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -2086,7 +2086,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2102,7 +2102,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2165,7 +2165,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -2181,7 +2181,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2197,7 +2197,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2260,7 +2260,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -2276,7 +2276,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2292,7 +2292,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2355,7 +2355,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  /*font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;*/
   font-size           : 24.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -2371,7 +2371,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2387,7 +2387,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 0.9;
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+ /* font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
@@ -2461,7 +2461,7 @@ div {
   left                : 197px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Georgia-Bold", Helvetica, Arial, serif;*/
   font-size           : 25.0px;
   color               : rgba(0, 62, 107, 1.0);
   text-align          : center;
@@ -2554,7 +2554,7 @@ div {
   left                : 99px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+/*  font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 12.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;

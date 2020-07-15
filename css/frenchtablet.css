@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');*/
 
 
 .bp2-frenchtablet {
@@ -135,7 +135,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
+/*  font-family         : "Times-Bold", Helvetica, Arial, serif;*/
   font-size           : 21.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -145,35 +145,35 @@ div {
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span2 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span3 {
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span4 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span5 {
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span6 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span7 {
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span8 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span9 {
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span10 {
-  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;*/
   line-height         : 27.6px;
 }
 .bp2-frenchtablet .bp2-english .bp2-conseildes351curit351 .bp2-span11 {
@@ -189,7 +189,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+/*  font-family         : "Times-Roman", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -199,7 +199,7 @@ div {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span2 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+ /* font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span3 {
   
@@ -211,379 +211,379 @@ div {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span6 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span7 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span9 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span10 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span11 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span12 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span13 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span14 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span15 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span16 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span17 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span18 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span19 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span20 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span21 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span22 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span23 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span24 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span25 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span26 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span27 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span28 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span29 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span30 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span31 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span32 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span33 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span34 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span35 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span36 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span37 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span38 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span39 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span40 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span41 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span42 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span43 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span44 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span45 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span46 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span47 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span48 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span49 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span50 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span51 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span52 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span53 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span54 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span55 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span56 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span57 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span58 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span59 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span60 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span61 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span62 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span63 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span64 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span65 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span66 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span67 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span68 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span69 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span70 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span71 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span72 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span73 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span74 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span75 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span76 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span77 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span78 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span79 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span80 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span81 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span82 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span83 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span84 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span85 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span86 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span87 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span88 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span89 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span90 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span91 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span92 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span93 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span94 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span95 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span96 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span97 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span98 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span99 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span100 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span101 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span102 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span103 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span104 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span105 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span106 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span107 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span108 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span109 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span110 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span111 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span112 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span113 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span114 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span115 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span116 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span117 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span118 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span119 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span120 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span121 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span122 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span123 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span124 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span125 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span126 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span127 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span128 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span129 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi .bp2-span130 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions {
   background-color    : rgba(255,255,255,0.0);
@@ -595,7 +595,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+/*  font-family         : "Times-Roman", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -605,535 +605,535 @@ div {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span2 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span3 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span4 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span5 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span6 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span7 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span9 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span10 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span11 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span12 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span13 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span14 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span15 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span16 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span17 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span18 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span19 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span20 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span21 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span22 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span23 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span24 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span25 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span26 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span27 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span28 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span29 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span30 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span31 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span32 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span33 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span34 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span35 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span36 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span37 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span38 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span39 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span40 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span41 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span42 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span43 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span44 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span45 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span46 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span47 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span48 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span49 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span50 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span51 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span52 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span53 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span54 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span55 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span56 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span57 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span58 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span59 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span60 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span61 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span62 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span63 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span64 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span65 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span66 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span67 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span68 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span69 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span70 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span71 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span72 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span73 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span74 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span75 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span76 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span77 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span78 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span79 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span80 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span81 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span82 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span83 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span84 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span85 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span86 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span87 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span88 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span89 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span90 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span91 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span92 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span93 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span94 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span95 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span96 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span97 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span98 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span99 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span100 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span101 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span102 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span103 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span104 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span105 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span106 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span107 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span108 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span109 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span110 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span111 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span112 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span113 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span114 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span115 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span116 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span117 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span118 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span119 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span120 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span121 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span122 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span123 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span124 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span125 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span126 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span127 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span128 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span129 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span130 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span131 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span132 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span133 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span134 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span135 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span136 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span137 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span138 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span139 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span140 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span141 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span142 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span143 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span144 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span145 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span146 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span147 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span148 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span149 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span150 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span151 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span152 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span153 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span154 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span155 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span156 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span157 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span158 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span159 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span160 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span161 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span162 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span163 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span164 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span165 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span166 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span167 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span168 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span169 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span170 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span171 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span172 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span173 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span174 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span175 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span176 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span177 {
   
 }
 .bp2-frenchtablet .bp2-certainesd351cisions .bp2-span178 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 {
   background-color    : rgba(255,255,255,0.0);
@@ -1145,7 +1145,7 @@ div {
   left                : 123px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+/*  font-family         : "Times-Roman", Helvetica, Arial, serif;*/
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -1155,391 +1155,391 @@ div {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span2 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span3 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span4 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span5 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span6 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span7 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span8 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span9 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span10 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span11 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span12 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span13 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span14 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span15 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span16 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span17 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span18 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span19 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span20 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span21 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span22 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span23 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span24 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span25 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span26 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span27 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span28 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span29 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span30 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span31 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span32 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span33 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span34 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span35 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span36 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span37 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span38 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span39 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span40 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span41 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span42 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span43 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span44 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span45 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span46 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span47 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span48 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span49 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span50 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span51 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span52 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span53 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span54 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span55 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span56 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span57 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span58 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span59 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span60 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span61 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span62 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span63 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span64 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span65 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span66 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span67 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span68 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span69 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span70 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span71 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span72 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span73 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span74 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span75 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span76 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span77 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span78 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span79 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span80 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span81 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span82 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span83 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span84 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span85 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span86 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span87 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span88 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span89 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span90 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span91 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span92 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span93 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span94 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span95 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span96 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span97 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span98 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span99 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span100 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span101 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span102 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span103 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span104 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span105 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span106 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span107 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span108 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span109 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span110 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span111 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span112 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span113 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span114 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span115 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span116 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span117 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span118 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span119 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span120 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span121 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span122 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span123 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span124 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span125 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span126 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span127 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span128 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span129 {
   
 }
 .bp2-frenchtablet .bp2-leconseildes351curi1 .bp2-span130 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+/*  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-group2 {
   background-color    : rgba(255,255,255,0.0);
@@ -1639,7 +1639,7 @@ div {
   left                : 99px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+ /* font-family         : "Georgia", Helvetica, Arial, serif;*/
   font-size           : 12.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
@@ -1649,7 +1649,7 @@ div {
   
 }
 .bp2-frenchtablet .bp2-footer .bp2-thisarticleusesma .bp2-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+/*  font-family         : "Times-Roman", Helvetica, Arial, serif;*/
 }
 .bp2-frenchtablet .bp2-footer .bp2-thisarticleusesma .bp2-span3 {
   
@@ -1796,7 +1796,7 @@ div {
   left                : 405px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 40.0px;
@@ -1825,7 +1825,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -1843,7 +1843,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -1895,7 +1895,7 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 21.0px;
@@ -1935,7 +1935,7 @@ div {
   left                : 405px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 13.0px;
@@ -1964,7 +1964,7 @@ div {
   left                : 524px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 30.0px;
@@ -2136,7 +2136,7 @@ div {
   left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 18.0px;
@@ -2154,7 +2154,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 500;
   font-style          : normal;
   font-size           : 16.0px;
@@ -2172,7 +2172,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -2190,7 +2190,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -2208,7 +2208,7 @@ div {
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -2358,7 +2358,7 @@ div {
   left                : 35px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+/*  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;*/
   font-weight         : 400;
   font-style          : normal;
   font-size           : 9.0px;
