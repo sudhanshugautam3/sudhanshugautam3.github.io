@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
 .bp3-mobileswahili {
   width               : 100%;
   min-width           : 360px;
   height              : 100vh;
-  min-height          : 1183px;
+  min-height          : 1190px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -19,8 +20,8 @@ div {
 .bp3-mobileswahili .bp3-group {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 62px;
-  width               : 360px;
+  height              : 61px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -30,7 +31,7 @@ div {
 .bp3-mobileswahili .bp3-group .bp3-rectangle {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 62px;
+  height              : 61px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -40,43 +41,35 @@ div {
 }
 .bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 18px;
   height              : auto;
   width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
   font-size           : 18.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : center;
-  line-height         : 21.0px;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 21px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
+  line-height         : 24.0px;
 }
 .bp3-mobileswahili .bp3-afrika {
   background-color    : rgba(255,255,255,0.0);
   top                 : 316px;
   height              : auto;
-  width               : 72px;
+  width               : calc(100.00% - 316px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -86,13 +79,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 353px;
   height              : auto;
-  width               : 330px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -102,13 +97,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 488px;
   height              : auto;
-  width               : 330px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -118,13 +115,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 623px;
   height              : auto;
-  width               : 330px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -134,13 +133,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 854px;
   height              : auto;
-  width               : 330px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -150,13 +151,15 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 965px;
   height              : auto;
-  width               : 330px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -187,7 +190,7 @@ div {
 .bp3-mobileswahili .bp3-group3 .bp3-group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
-  height              : 24px;
+  height              : 23px;
   width               : 24px;
   position            : absolute;
   margin              : 0;
@@ -198,7 +201,7 @@ div {
 .bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 24px;
+  height              : 23px;
   width               : 24px;
   position            : absolute;
   margin              : 0;
@@ -208,12 +211,11 @@ div {
 }
 .bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 .bp3-oval {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
   position            : absolute;
-  margin              : 0;
+  top                 : 0px;
   left                : 0px;
+  margin              : 0;
+  width               : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -265,7 +267,7 @@ div {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
   height              : 64px;
-  width               : 100%;
+  width               : 360px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -274,7 +276,7 @@ div {
 }
 .bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 19px;
+  top                 : 18px;
   height              : auto;
   width               : 330px;
   position            : absolute;
@@ -282,20 +284,13 @@ div {
   left                : 15px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 9.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 13.5px;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span1 {
-  
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma .bp3-span3 {
-  
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -429,31 +424,9 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp1-swahilidesktop .bp1-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
-  width               : 1448px;
-  position            : absolute;
-  margin              : 0;
-  left                : -4px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-group .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 124px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
 .bp1-swahilidesktop .bp1-afrika {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 704px;
+  top                 : 710px;
   height              : auto;
   width               : 123px;
   position            : absolute;
@@ -461,7 +434,9 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
   font-size           : 40.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
@@ -470,17 +445,17 @@ div {
 .bp1-swahilidesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 512px;
-  height              : 1px;
-  width               : 653px;
+  height              : 2px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-swahilidesktop .bp1-afrikanibaralapi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 766px;
+  top                 : 777px;
   height              : auto;
   width               : 632px;
   position            : absolute;
@@ -488,7 +463,9 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -496,7 +473,7 @@ div {
 }
 .bp1-swahilidesktop .bp1-nenoafrikalimeto {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 914px;
+  top                 : 925px;
   height              : auto;
   width               : 632px;
   position            : absolute;
@@ -504,7 +481,9 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -512,7 +491,7 @@ div {
 }
 .bp1-swahilidesktop .bp1-maeneoyandanikuel {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1125px;
+  top                 : 1136px;
   height              : auto;
   width               : 632px;
   position            : absolute;
@@ -520,7 +499,9 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -528,7 +509,7 @@ div {
 }
 .bp1-swahilidesktop .bp1-katikaramanizakal {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1242px;
+  top                 : 1253px;
   height              : auto;
   width               : 622px;
   position            : absolute;
@@ -536,7 +517,9 @@ div {
   left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
@@ -576,50 +559,22 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-swahilidesktop .bp1-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  height              : auto;
-  width               : auto;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
-}
-.bp1-swahilidesktop .bp1-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 31px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-swahilidesktop .bp1-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
 .bp1-swahilidesktop .bp1-footer {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1408px;
   height              : 80px;
-  width               : 100%;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-swahilidesktop .bp1-footer .bp1-rectangle {
+.bp1-swahilidesktop .bp1-footer .bp1-rectangle1 {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
   height              : 80px;
-  width               : 100%;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -628,31 +583,50 @@ div {
 }
 .bp1-swahilidesktop .bp1-footer .bp1-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 18px;
   height              : auto;
   width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 13.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 21.0px;
 }
-.bp1-swahilidesktop .bp1-footer .bp1-thisarticleusesma-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 19px;
-  align-items         : center;
-  height              : auto;
+.bp1-swahilidesktop .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
-  display             : flex;
-  left                : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp1-swahilidesktop .bp1-footer .bp1-thisarticleusesma-layout-container > * {
-  pointer-events      : auto;
+.bp1-swahilidesktop .bp1-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : calc(100.00% - 1048px);
+  position            : absolute;
+  margin              : 0;
+  left                : 524px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -1011,10 +985,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 96px;
-  width               : 770px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : -1px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -1033,7 +1007,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 96px;
-  width               : 100%;
+  width               : 770px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1042,9 +1016,12 @@ div {
 }
 .bp2-swahilitablet .bp2-group .bp2-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 26px;
   height              : auto;
   width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
@@ -1053,26 +1030,11 @@ div {
   text-align          : center;
   line-height         : 52.8px;
 }
-.bp2-swahilitablet .bp2-group .bp2-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 26px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp2-swahilitablet .bp2-group .bp2-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
 .bp2-swahilitablet .bp2-footer {
   background-color    : rgba(255,255,255,0.0);
   top                 : 930px;
   height              : 58px;
-  width               : 100%;
+  width               : 768px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1083,7 +1045,7 @@ div {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
   height              : 58px;
-  width               : 100%;
+  width               : 768px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1092,9 +1054,12 @@ div {
 }
 .bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 8px;
   height              : auto;
   width               : 570px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
   transform           : rotate(0deg);
   opacity             : 0.8;
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -1102,21 +1067,6 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 21.0px;
-}
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 8px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma-layout-container > * {
-  pointer-events      : auto;
 }
 .bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma .bp2-span1 {
   

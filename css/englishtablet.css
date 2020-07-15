@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
-.bp3-englishmobile {
+.bp1-englishdesktop {
   width               : 100%;
-  min-width           : 360px;
+  min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1565px;
+  min-height          : 2034px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -16,21 +17,10 @@
 div {
   -webkit-text-size-adjust: none;
 }
-.bp3-englishmobile .bp3-group5 {
+.bp1-englishdesktop .bp1-rectangle {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 62px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 62px;
+  top                 : -3px;
+  height              : 124px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -38,223 +28,180 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde {
+.bp1-englishdesktop .bp1-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 32px;
   height              : auto;
-  width               : auto;
+  width               : calc(100.00% - 1048px);
+  position            : absolute;
+  margin              : 0;
+  left                : 524px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
   text-align          : center;
-  line-height         : 21.0px;
+  line-height         : 52.8px;
 }
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 21px;
-  align-items         : center;
+.bp1-englishdesktop .bp1-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 710px;
   height              : auto;
-  width               : 100%;
+  width               : 633px;
   position            : absolute;
   margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp3-englishmobile .bp3-group6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 63px;
-  height              : 239px;
-  width               : 100.00%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
+  left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 320px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 .bp3-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 6px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-wildlifeofthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 317px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 40.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 21.6px;
+  line-height         : 43.7px;
 }
-.bp3-englishmobile .bp3-wildlifeinthecentcopy {
+.bp1-englishdesktop .bp1-linecopy5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 357px;
-  height              : auto;
-  width               : 330px;
+  top                 : 512px;
+  height              : 2px;
+  width               : 655px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 403px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
 }
-.bp3-englishmobile .bp3-realisingtheserioucopy {
+.bp1-englishdesktop .bp1-wildlifeinthecent {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 708px;
+  top                 : 823px;
   height              : auto;
-  width               : 328px;
+  width               : 632px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  line-height         : 24.0px;
+  line-height         : 33.75px;
 }
-.bp3-englishmobile .bp3-in2014thechinkocopy {
+.bp1-englishdesktop .bp1-realisingtheseriou {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1131px;
+  top                 : 1181px;
   height              : auto;
-  width               : 328px;
+  width               : 630px;
   position            : absolute;
   margin              : 0;
-  left                : 16px;
+  left                : 404px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  line-height         : 24.0px;
+  line-height         : 33.75px;
 }
-.bp3-englishmobile .bp3-group {
+.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1501px;
-  height              : 64px;
-  width               : 100%;
+  top                 : 162px;
+  height              : 513px;
+  width               : 967px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 513px;
+  width               : 967px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group .bp3-rectangle {
+.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-westernlowlandgorilagorillagorilla1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -65px;
+  height              : 641px;
+  width               : 962px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-englishdesktop .bp1-in2014thechinko {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1608px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 33.75px;
+}
+.bp1-englishdesktop .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1954px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-englishdesktop .bp1-footer .bp1-rectangle1 {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
-  height              : 64px;
-  width               : 100%;
+  height              : 80px;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group .bp3-thisarticleusesma {
+.bp1-englishdesktop .bp1-footer .bp1-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 12px;
+  top                 : 18px;
   height              : auto;
-  width               : 330px;
+  width               : 630px;
   position            : absolute;
   margin              : 0;
-  left                : 15px;
+  left                : 405px;
   transform           : rotate(0deg);
   opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 9.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 13.5px;
+  line-height         : 21.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -372,11 +319,11 @@ div {
   word-break          : break-all;
   word-break          : break-word;
 }
-.bp1-englishdesktop {
+.bp3-englishmobile {
   width               : 100%;
-  min-width           : 1440px;
+  min-width           : 360px;
   height              : 100vh;
-  min-height          : 2034px;
+  min-height          : 1587px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -388,32 +335,10 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp1-englishdesktop .bp1-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
-  width               : 1448px;
-  position            : absolute;
-  margin              : 0;
-  left                : -4px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-englishdesktop .bp1-group2 .bp1-group {
+.bp3-englishmobile .bp3-group5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 124px;
-  width               : 1448px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-englishdesktop .bp1-group2 .bp1-group .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 124px;
+  height              : 61px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -421,192 +346,233 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-englishdesktop .bp1-group2 .bp1-wikipediapreviewde {
+.bp3-englishmobile .bp3-group5 .bp3-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 61px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 18px;
   height              : auto;
   width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
   text-align          : center;
-  line-height         : 52.8px;
+  line-height         : 24.0px;
 }
-.bp1-englishdesktop .bp1-group2 .bp1-wikipediapreviewde-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 34px;
-  align-items         : center;
-  height              : auto;
+.bp3-englishmobile .bp3-group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 239px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-englishdesktop .bp1-group2 .bp1-wikipediapreviewde-layout-container > * {
-  pointer-events      : auto;
-}
-.bp1-englishdesktop .bp1-wildlifeofthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 710px;
-  height              : auto;
-  width               : calc(100.00% - 625px);
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 40.0px;
+}
+.bp3-englishmobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 239px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 23px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 23px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 .bp3-oval {
+  background-color    : rgba(255,255,255,0.0);
+  position            : absolute;
+  top                 : 0px;
+  left                : 0px;
+  margin              : 0;
+  width               : 100%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-englishmobile .bp3-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 317px;
+  height              : auto;
+  width               : calc(100.00% - 83px);
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : left;
-  line-height         : 43.7px;
+  line-height         : 21.6px;
 }
-.bp1-englishdesktop .bp1-linecopy5 {
+.bp3-englishmobile .bp3-wildlifeinthecentcopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 512px;
-  height              : 1px;
-  width               : 653px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-englishdesktop .bp1-wildlifeinthecent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 825px;
+  top                 : 357px;
   height              : auto;
-  width               : 632px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 21.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  line-height         : 33.75px;
+  line-height         : 24.0px;
 }
-.bp1-englishdesktop .bp1-realisingtheseriou {
+.bp3-englishmobile .bp3-realisingtheserioucopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1183px;
+  top                 : 713px;
   height              : auto;
-  width               : 630px;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
-  left                : 404px;
+  left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 21.0px;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
   color               : rgba(51, 51, 51, 1.0);
   text-align          : left;
-  line-height         : 33.75px;
+  line-height         : 24.0px;
 }
-.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla {
+.bp3-englishmobile .bp3-in2014thechinkocopy {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 162px;
-  height              : 513px;
-  width               : 967px;
+  top                 : 1142px;
+  height              : auto;
+  width               : calc(100.00% - 32px);
   position            : absolute;
   margin              : 0;
-  left                : 236px;
-  overflow            : hidden;
+  left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
 }
-.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
+.bp3-englishmobile .bp3-group {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 513px;
-  width               : 967px;
+  top                 : 1523px;
+  height              : 64px;
+  width               : 360px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-englishdesktop .bp1-westernlowlandgorilagorillagorilla .bp1-westernlowlandgorilagorillagorilla1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -65px;
-  height              : 641px;
-  width               : 962px;
-  position            : absolute;
-  margin              : 0;
-  left                : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-englishdesktop .bp1-in2014thechinko {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1610px;
-  height              : auto;
-  width               : 630px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 33.75px;
-}
-.bp1-englishdesktop .bp1-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1954px;
-  height              : 80px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-englishdesktop .bp1-footer .bp1-rectangle {
+.bp3-englishmobile .bp3-group .bp3-rectangle {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
-  height              : 80px;
-  width               : 100%;
+  height              : 64px;
+  width               : 360px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-englishdesktop .bp1-footer .bp1-thisarticleusesma {
+.bp3-englishmobile .bp3-group .bp3-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 11px;
   height              : auto;
-  width               : 630px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
-}
-.bp1-englishdesktop .bp1-footer .bp1-thisarticleusesma-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 19px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
+  width               : 330px;
   position            : absolute;
   margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp1-englishdesktop .bp1-footer .bp1-thisarticleusesma-layout-container > * {
-  pointer-events      : auto;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -756,10 +722,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 96px;
-  width               : 770px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
-  left                : -1px;
+  left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -778,7 +744,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 96px;
-  width               : 100%;
+  width               : 770px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -982,7 +948,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1118px;
   height              : 58px;
-  width               : 100%;
+  width               : 768px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -993,7 +959,7 @@ div {
   background-color    : rgba(240, 244, 248, 1.0);
   top                 : 0px;
   height              : 58px;
-  width               : 100%;
+  width               : 768px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1002,9 +968,12 @@ div {
 }
 .bp2-englishtablet .bp2-footer .bp2-thisarticleusesma {
   background-color    : rgba(255,255,255,0.0);
-  position            : relative;
+  top                 : 11px;
   height              : auto;
   width               : 570px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
   transform           : rotate(0deg);
   opacity             : 0.8;
   font-family         : "Georgia", Helvetica, Arial, serif;
@@ -1012,21 +981,6 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 18.0px;
-}
-.bp2-englishtablet .bp2-footer .bp2-thisarticleusesma-layout-container {
-  pointer-events      : none;
-  flex-direction      : column;
-  top                 : 11px;
-  align-items         : center;
-  height              : auto;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  display             : flex;
-  left                : 0;
-}
-.bp2-englishtablet .bp2-footer .bp2-thisarticleusesma-layout-container > * {
-  pointer-events      : auto;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
