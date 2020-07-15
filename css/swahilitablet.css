@@ -1,376 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
-.bp3-mobileswahili {
-  width               : 100%;
-  min-width           : 360px;
-  height              : 100vh;
-  min-height          : 1183px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp3-mobileswahili .bp3-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 61px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 61px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group .bp3-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 64px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : center;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 316px;
-  height              : auto;
-  width               : calc(100.00% - 316px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.6px;
-}
-.bp3-mobileswahili .bp3-afrikanibaralapi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 353px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-afrikanibaralapi1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 488px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-nenoafrikalimeto {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 623px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-maeneoyandanikuel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 854px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-katikaramanizakal {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 965px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp3-mobileswahili .bp3-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 62px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-a640pxkobli1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 239px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 9px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 320px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 24px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 .bp3-oval {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 6px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group41 .bp3-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 12px;
-  width               : 12px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1119px;
-  height              : 64px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 64px;
-  width               : 360px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-mobileswahili .bp3-group5 .bp3-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : auto;
-  width               : 330px;
-  position            : absolute;
-  margin              : 0;
-  left                : 15px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 9.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 13.5px;
-}
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  animation-delay     : 0s;
 }
 @keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -403,30 +60,12 @@ div {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.bp2-swahilitablet {
-  width               : 100%;
-  min-width           : 768px;
-  height              : 100vh;
-  min-height          : 988px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-a {
+.anima-component-wrapper a,
+.anima-screen a {
   text-decoration     : none;
 }
-div {
-  -webkit-text-size-adjust: none;
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-full-width-a {
   width               : 100%;
@@ -434,392 +73,301 @@ div {
 .anima-full-height-a {
   height              : 100%;
 }
-div {
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
   -webkit-text-size-adjust: none;
 }
-.bp2-swahilitablet .bp2-westernlowlandgorilagorillagorillacopy {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 94px;
-  height              : 273px;
-  width               : 768px;
-  position            : absolute;
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
   margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
 }
-.bp2-swahilitablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
-  background-color    : rgba(215, 215, 215, 1.0);
-  top                 : 1px;
-  height              : 272px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 3px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
 }
-.bp2-swahilitablet .bp2-westernlowlandgorilagorillagorillacopy .bp2-a1084pxkobli1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -118px;
-  height              : 510px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
 }
-.bp2-swahilitablet .bp2-english {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 387px;
-  height              : 28px;
-  width               : 570px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
 }
-.bp2-swahilitablet .bp2-english .bp2-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : auto;
-  width               : 572px;
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
   position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - swahilidesktop */
+.font-class-1 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-3 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 24.0px;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
   font-family         : "Times-Bold", Helvetica, Arial, serif;
   font-size           : 21.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 27.6px;
 }
-.bp2-swahilitablet .bp2-afrikanibaralapi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 422px;
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.swahilidesktop .overlap-group-4tDfkw {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 513px;
+  margin-right        : 1.0px;
+  position            : relative;
+  width               : 967px;
+}
+.swahilidesktop .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
   height              : auto;
-  width               : 572px;
+  justify-content     : flex-start;
+  left                : 0px;
   position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
+  top                 : 162px;
+  width               : 1440px;
 }
-.bp2-swahilitablet .bp2-afrikanibaralapicopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 509px;
+.swahilidesktop .neno-afrika-limeto-IxOeNq {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
   height              : auto;
-  width               : 575px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 189px;
+  position            : relative;
   text-align          : left;
-  line-height         : 24.0px;
+  width               : 632px;
 }
-.bp2-swahilitablet .bp2-nenoafrikalimetocopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 596px;
+.swahilidesktop .maeneo-ya-ndani-kuel-LRR1xu {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
   height              : auto;
-  width               : 575px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
+  line-height         : 31.5px;
+  margin-top          : 22px;
+  min-height          : 95px;
+  position            : relative;
   text-align          : left;
-  line-height         : 24.0px;
+  width               : 632px;
 }
-.bp2-swahilitablet .bp2-maeneoyandanikuelcopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 731px;
+.swahilidesktop .katika-ramani-za-kal-1vuoWS {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
   height              : auto;
-  width               : 575px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
+  line-height         : 31.5px;
+  margin-right        : 10.0px;
+  margin-top          : 22px;
+  min-height          : 126px;
+  position            : relative;
   text-align          : left;
-  line-height         : 24.0px;
+  width               : 622px;
 }
-.bp2-swahilitablet .bp2-katikaramanizakalcopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 818px;
-  height              : auto;
-  width               : 575px;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-}
-.bp2-swahilitablet .bp2-group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 104px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
-  left                : 659px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group2 .bp2-group4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
+.swahilidesktop .western-lowland-gorila-gorilla-gorilla-MJAoeI {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/french---desktop-mask.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 513px;
+  justify-content     : flex-start;
   left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group2 .bp2-group4 .bp2-oval {
-  background-color    : rgba(255,255,255,0.0);
+  overflow            : hidden;
+  position            : absolute;
   top                 : 0px;
-  height              : 33px;
-  width               : 34px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+  width               : 967px;
 }
-.bp2-swahilitablet .bp2-group2 .bp2-group41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 8px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.swahilidesktop .a1084px-kobli1-C2sAJ3 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 660px;
+  margin-bottom       : -150.0px;
+  margin-left         : -13px;
+  position            : relative;
+  width               : 994px;
 }
-.bp2-swahilitablet .bp2-group2 .bp2-group41 .bp2-fill1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group2 .bp2-group41 .bp2-fill3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 18px;
-  width               : 18px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group .bp2-header {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group .bp2-header .bp2-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 96px;
-  width               : 770px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-group .bp2-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 26px;
-  height              : auto;
+.swahilidesktop .footer-bUTO8v {
+  align-items         : flex-start;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 80px;
+  justify-content     : flex-start;
+  margin-top          : 29px;
+  min-width           : 1440px;
+  padding             : 18.0px 405.0px;
+  position            : relative;
   width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 197px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-  font-size           : 25.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
 }
-.bp2-swahilitablet .bp2-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 930px;
-  height              : 58px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-footer .bp2-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 58px;
-  width               : 768px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
+.swahilidesktop .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 13.0px;
   height              : auto;
-  width               : 570px;
-  position            : absolute;
-  margin              : 0;
-  left                : 99px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
   line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 630px;
 }
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma .bp2-span1 {
-  
+.swahilidesktop .rectangle-pwJWlx {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 124px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -3px;
+  width               : 100%;
 }
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma .bp2-span2 {
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
+.swahilidesktop .wikipedia-preview-de-iOCx9n {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 30.0px;
+  height              : auto;
+  left                : 524px;
+  line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 32px;
+  width               : calc(100.00% - 1048px);
 }
-.bp2-swahilitablet .bp2-footer .bp2-thisarticleusesma .bp2-span3 {
-  
+.swahilidesktop {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 1488.0px;
+  min-width           : 1440.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.swahilidesktop .afrika-LQzOxj {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 40.0px;
+  height              : auto;
+  line-height         : 43.7px;
+  margin-right        : 509.0px;
+  margin-top          : 35px;
+  min-height          : 57px;
+  position            : relative;
+  text-align          : left;
+  width               : 123px;
+}
+.swahilidesktop .line-copy-5-mQhVGC {
+  background-color    : rgba(255,255,255,0);
+  height              : 2px;
+  left                : 167px;
+  position            : absolute;
+  top                 : 350px;
+  width               : 655px;
+}
+.swahilidesktop .afrika-ni-bara-la-pi-9fRltB {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 21.0px;
+  height              : auto;
+  line-height         : 31.5px;
+  margin-top          : 10px;
+  min-height          : 126px;
+  position            : relative;
+  text-align          : left;
+  width               : 632px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  animation-delay     : 0s;
 }
 @keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -852,310 +400,393 @@ div {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
 }
-.bp1-swahilidesktop {
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
   width               : 100%;
-  min-width           : 1440px;
-  height              : 100vh;
-  min-height          : 1488px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
 }
-div {
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
   -webkit-text-size-adjust: none;
 }
-.bp1-swahilidesktop .bp1-afrika {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 710px;
-  height              : auto;
-  width               : 123px;
-  position            : absolute;
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
   margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 40.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 43.7px;
 }
-.bp1-swahilidesktop .bp1-linecopy5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 512px;
-  height              : 2px;
-  width               : 655px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
 }
-.bp1-swahilidesktop .bp1-afrikanibaralapi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 777px;
-  height              : auto;
-  width               : 632px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-swahilidesktop .bp1-nenoafrikalimeto {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 925px;
-  height              : auto;
-  width               : 632px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-swahilidesktop .bp1-maeneoyandanikuel {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1136px;
-  height              : auto;
-  width               : 632px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-swahilidesktop .bp1-katikaramanizakal {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1253px;
-  height              : auto;
-  width               : 622px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 31.5px;
-}
-.bp1-swahilidesktop .bp1-westernlowlandgorilagorillagorilla {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 162px;
-  height              : 513px;
-  width               : 967px;
-  position            : absolute;
-  margin              : 0;
-  left                : 236px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 513px;
-  width               : 967px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-a1084pxkobli1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3px;
-  height              : 660px;
-  width               : 994px;
-  position            : absolute;
-  margin              : 0;
-  left                : -13px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1408px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-footer .bp1-rectangle1 {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-swahilidesktop .bp1-footer .bp1-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : auto;
-  width               : 630px;
-  position            : absolute;
-  margin              : 0;
-  left                : 405px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
-}
-.bp1-swahilidesktop .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
+.anima-container-center-horizontal {
+  justify-content     : center;
   width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
 }
-.bp1-swahilidesktop .bp1-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 32px;
-  height              : auto;
-  width               : calc(100.00% - 1048px);
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.anima-auto-animated div {
+  opacity             : 0;
   position            : absolute;
-  margin              : 0;
-  left                : 524px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - swahilitablet */
+.font-class-1 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
   font-weight         : 500;
-  font-style          : normal;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
+}
+.font-class-3 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 24.0px;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.swahilitablet .overlap-group-Y7zamN {
+  background-color    : rgba(255,255,255,0);
+  height              : 273px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 94px;
+  width               : 768px;
+}
+.swahilitablet .auto-flex-1lKxzb {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 387px;
+  width               : 768px;
+}
+.swahilitablet .span3-gkVIMP {
+  letter-spacing      : 0.00px;
+}
+.swahilitablet {
+  background-color    : var(--auto-palette-color-3);
+  height              : 100vh;
+  margin              : 0px;
+  min-height          : 988.0px;
+  min-width           : 768.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.swahilitablet .western-lowland-gorila-gorilla-gorilla-copy-D0xxWx {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 273px;
+  left                : 0px;
+  overflow            : hidden;
+  position            : absolute;
+  top                 : 0px;
+  width               : 768px;
+}
+.swahilitablet .mask-biZW9V {
+  background-color    : rgba(215,215,215,1.0);
+  border-radius       : 3.0px;
+  height              : 272px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1px;
+  width               : 768px;
+}
+.swahilitablet .a1084px-kobli1-RNET0I {
+  background-color    : rgba(255,255,255,0);
+  height              : 510px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -118px;
+  width               : 768px;
+}
+.swahilitablet .english-xvR7vd {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 28px;
+  justify-content     : flex-start;
+  margin-left         : 48.0px;
+  min-width           : 570px;
+  position            : relative;
+  width               : auto;
+}
+.swahilitablet .afrika-5eO9Xq {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  line-height         : 27.6px;
+  min-height          : 28px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.swahilitablet .afrika-ni-bara-la-pi-9fRltB {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 50.0px;
+  margin-top          : 7px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  width               : 572px;
+}
+.swahilitablet .afrika-ni-bara-la-pi-copy-Ae1oBl {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 53.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  width               : 575px;
+}
+.swahilitablet .neno-afrika-limeto-copy-eBYP2m {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 53.0px;
+  margin-top          : 15px;
+  min-height          : 120px;
+  position            : relative;
+  text-align          : left;
+  width               : 575px;
+}
+.swahilitablet .maeneo-ya-ndani-kuel-copy-cO40UB {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 53.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  width               : 575px;
+}
+.swahilitablet .katika-ramani-za-kal-copy-GvvpDT {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 53.0px;
+  margin-top          : 15px;
+  min-height          : 72px;
+  position            : relative;
+  text-align          : left;
+  width               : 575px;
+}
+.swahilitablet .group-2-8SiD8y {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  height              : 33px;
+  left                : 659px;
+  position            : absolute;
+  top                 : 10px;
+  width               : 34px;
+}
+.swahilitablet .group-4-xTHy2w {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/hindi-tablet-oval@2x.png");
+  background-size     : 100% 100%;
+  height              : 33px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 34px;
+}
+.swahilitablet .group-4-N5dxCB {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 18px;
+  justify-content     : flex-start;
+  left                : 8px;
+  position            : absolute;
+  top                 : 8px;
+  width               : auto;
+}
+.swahilitablet .fill-3-KbVuVx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  position            : relative;
+  width               : 18px;
+}
+.swahilitablet .group-xWfRCW {
+  background-color    : rgba(255,255,255,0);
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 100%;
+}
+.swahilitablet .header-SkiqXa {
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/swahili-tablet-rectangle.png");
+  background-size     : 100% 100%;
+  cursor              : pointer;
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 770px;
+}
+.swahilitablet .wikipedia-preview-de-wrmSLk {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 25.0px;
+  height              : auto;
+  left                : 197px;
   line-height         : 52.8px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 26px;
+  width               : auto;
+}
+.swahilitablet .footer-bUTO8v {
+  align-items         : center;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 58px;
+  justify-content     : flex-start;
+  margin-top          : 40px;
+  min-width           : 768px;
+  padding             : 0 99.0px;
+  position            : relative;
+  width               : auto;
+}
+.swahilitablet .this-article-uses-ma-gkVIMP {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 12.0px;
+  height              : auto;
+  line-height         : 21.0px;
+  min-height          : 42px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 570px;
+}
+.swahilitablet .span1-gkVIMP {
+  letter-spacing      : 0.00px;
+}
+.swahilitablet .span2-gkVIMP {
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  letter-spacing      : 0.00px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  animation-delay     : 0s;
 }
 @keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -1188,42 +819,350 @@ div {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-word-break {
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-component-wrapper,
+.anima-screen {
   overflow-wrap       : break-word;
   word-wrap           : break-word;
   word-break          : break-all;
   word-break          : break-word;
 }
+.anima-auto-animated div {
+  opacity             : 0;
+  position            : absolute;
+  --anima-z-index: -1;
+}
+.anima-auto-animated .anima-container-center-vertical,
+.anima-auto-animated .anima-container-center-horizontal {
+  opacity             : 1;
+}
+/* ANIMA screen - mobileswahili */
+.font-class-1 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+}
+.font-class-3 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+}
+.font-class-4 {
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+}
+.font-class-5 {
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-6 {
+  color               : var(--auto-palette-color-1);
+  font-family         : "Times-Roman", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  line-height         : 24.0px;
+}
+.font-class-7 {
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+}
+.font-class-8 {
+  color               : rgba(16,42,67,1.0);
+  font-family         : "Times-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+}
+:root {
+  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
+  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
+  --auto-palette-color-1: rgba(51,51,51,1.0);
+  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(0,0,0,1.0);
+  --auto-palette-color-5: rgba(0,62,107,1.0);
+  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
+}
+.mobileswahili .afrika-MDss9z {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 21.6px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 22px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 316px);
+}
+.mobileswahili .afrika-ni-bara-la-pi-zmafIV {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 15px;
+  min-height          : 126px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
+}
+.mobileswahili .afrika-ni-bara-la-pi-eAI8oO {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 9px;
+  min-height          : 129px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
+}
+.mobileswahili .neno-afrika-limeto-L8tk9D {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 6px;
+  min-height          : 222px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
+}
+.mobileswahili .maeneo-ya-ndani-kuel-pMKmEw {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 9px;
+  min-height          : 99px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
+}
+.mobileswahili .katika-ramani-za-kal-MWhE04 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 16.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  margin-left         : 16.0px;
+  margin-top          : 12px;
+  min-height          : 126px;
+  position            : relative;
+  text-align          : left;
+  width               : calc(100.00% - 32px);
+}
+.mobileswahili .group-3-iFKazk {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-640px-kobli1.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 239px;
+  justify-content     : flex-end;
+  margin-top          : 1px;
+  min-width           : 360px;
+  padding             : 9.0px 16.0px;
+  position            : relative;
+  width               : auto;
+}
+.mobileswahili .group-2-4FTbFk {
+  background-color    : rgba(255,255,255,0);
+  cursor              : pointer;
+  flex-shrink         : 0;
+  height              : 24px;
+  position            : relative;
+  width               : 24px;
+}
+.mobileswahili .group-4-5nVGKN {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : auto;
+}
+.mobileswahili .oval-uafHEH {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 23px;
+  position            : relative;
+  width               : 24px;
+}
+.mobileswahili .group-4-Pvdxfx {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  background-image    : url(".././img/mobile-swahili-fill-1@2x.png");
+  background-size     : 100% 100%;
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 12px;
+  justify-content     : flex-start;
+  left                : 6px;
+  position            : absolute;
+  top                 : 6px;
+  width               : auto;
+}
+.mobileswahili .fill-3-FjwfNo {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  width               : 12px;
+}
+.mobileswahili .group-5-hx9j3X {
+  align-items         : flex-start;
+  background-color    : rgba(240,244,248,1.0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 64px;
+  justify-content     : flex-start;
+  margin-top          : 28px;
+  min-width           : 100%;
+  padding             : 18.0px 15.0px;
+  position            : relative;
+  width               : auto;
+}
+.mobileswahili .this-article-uses-ma-2OiUlu {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 9.0px;
+  height              : auto;
+  line-height         : 13.5px;
+  min-height          : 27px;
+  opacity             : 0.8;
+  position            : relative;
+  text-align          : center;
+  width               : 330px;
+}
+.mobileswahili {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  margin              : 0px;
+  min-height          : 1190px;
+  min-width           : 360.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 100%;
+}
+.mobileswahili .group-xWfRCW {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-3);
+  box-sizing          : border-box;
+  cursor              : pointer;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 61px;
+  justify-content     : flex-end;
+  min-width           : 100%;
+  padding             : 18.0px 62.0px;
+  position            : relative;
+  width               : auto;
+}
+.mobileswahili .wikipedia-preview-de-wrmSLk {
+  background-color    : rgba(255,255,255,0);
+  color               : rgba(16,42,67,1.0);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 24.0px;
+  min-height          : 24px;
+  min-width           : 244px;
+  position            : relative;
+  text-align          : center;
+  width               : auto;
+}
 @media screen and (max-width: 767px) {
-  .bp3-mobileswahili {
-    display             : block;
+  .swahilitablet {
+    display             : none ;
   }
-  .bp2-swahilitablet {
-    display             : none;
-  }
-  .bp1-swahilidesktop {
-    display             : none;
+  .swahilidesktop {
+    display             : none ;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .bp3-mobileswahili {
-    display             : none;
+  .mobileswahili {
+    display             : none ;
   }
-  .bp2-swahilitablet {
-    display             : block;
-  }
-  .bp1-swahilidesktop {
-    display             : none;
+  .swahilidesktop {
+    display             : none ;
   }
 }
 @media screen and (min-width: 1440px) {
-  .bp3-mobileswahili {
-    display             : none;
+  .mobileswahili {
+    display             : none ;
   }
-  .bp2-swahilitablet {
-    display             : none;
-  }
-  .bp1-swahilidesktop {
-    display             : block;
+  .swahilitablet {
+    display             : none ;
   }
 }
