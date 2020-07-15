@@ -1155,8 +1155,8 @@ div {
 }
 .bp3-mobilehindi .bp3-group3 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -2px;
-  height              : 69px;
+  top                 : 0px;
+  height              : 61px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -1165,10 +1165,10 @@ div {
   opacity             : 1.0;
 }
 .bp3-mobilehindi .bp3-group3 .bp3-rectangle {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
-  height              : 69px;
-  width               : 368px;
+  height              : 61px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1177,12 +1177,12 @@ div {
 }
 .bp3-mobilehindi .bp3-group3 .bp3-wikipediapreviewde {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
+  top                 : 18px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 68px;
+  left                : 64px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
@@ -1351,7 +1351,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 62px;
   height              : 239px;
-  width               : 360px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -1416,12 +1416,11 @@ div {
 }
 .bp3-mobilehindi .bp3-group5 .bp3-group2 .bp3-group4 .bp3-oval {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
   position            : absolute;
-  margin              : 0;
+  top                 : 0px;
   left                : 0px;
+  margin              : 0;
+  width               : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }

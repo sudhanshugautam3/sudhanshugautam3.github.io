@@ -32,7 +32,7 @@ div {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 61px;
-  width               : 360px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -169,7 +169,7 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 62px;
   height              : 239px;
-  width               : 360px;
+  width               : 100%;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -190,7 +190,7 @@ div {
 .bp3-mobileswahili .bp3-group3 .bp3-group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9px;
-  height              : 24px;
+  height              : 23px;
   width               : 24px;
   position            : absolute;
   margin              : 0;
@@ -201,7 +201,7 @@ div {
 .bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 24px;
+  height              : 23px;
   width               : 24px;
   position            : absolute;
   margin              : 0;
@@ -211,12 +211,11 @@ div {
 }
 .bp3-mobileswahili .bp3-group3 .bp3-group2 .bp3-group4 .bp3-oval {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 23px;
-  width               : 24px;
   position            : absolute;
-  margin              : 0;
+  top                 : 0px;
   left                : 0px;
+  margin              : 0;
+  width               : 100%;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
