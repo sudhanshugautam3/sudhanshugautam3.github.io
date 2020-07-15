@@ -1,6 +1,1755 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
 
 
+.bp1-hindidesktop {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2026px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-hindidesktop .bp1-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 512px;
+  height              : 2px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 787px;
+  height              : auto;
+  width               : 633px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 33.75px;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1059px;
+  height              : auto;
+  width               : 633px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 33.75px;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span1 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span3 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span4 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span5 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span6 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span7 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span8 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span9 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span10 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span11 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span12 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span13 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span14 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span15 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span16 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span17 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span18 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span19 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span20 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span21 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span22 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span23 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span24 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span25 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span26 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span27 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span28 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span29 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span30 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span31 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span32 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span33 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span34 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span35 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span36 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span37 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span38 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span39 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span40 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span41 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span42 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span43 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span44 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span45 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span46 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span47 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span48 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span49 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span50 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span51 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span52 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span53 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span54 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span55 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span56 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span57 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span58 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span59 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span60 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span61 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span62 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span63 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span64 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span65 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span66 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span67 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span68 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span69 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span70 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span71 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span72 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span73 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span74 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span75 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span76 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span77 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span78 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span79 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span80 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span81 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span82 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span83 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span84 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span85 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span86 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span87 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span88 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span89 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span90 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span91 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span92 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span93 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span94 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span95 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span96 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span97 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span98 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span99 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span100 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span101 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span102 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span103 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span104 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span105 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span106 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span107 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span108 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span109 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span110 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span111 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span112 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span113 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span114 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span115 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span116 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span117 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span118 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span119 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span120 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span121 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span122 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span123 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span124 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span125 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span126 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span127 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span128 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span129 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span130 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span131 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span132 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span133 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span134 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span135 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span136 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span137 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span138 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span139 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span140 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span141 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span142 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span143 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span144 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span145 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span146 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span147 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span148 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span149 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span150 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span151 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span152 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span153 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span154 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span155 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span156 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span157 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span158 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span159 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span160 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span161 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span162 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span163 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span164 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span165 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span166 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span167 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span168 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span169 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span170 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span171 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span172 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span173 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span174 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span175 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span176 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span177 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span178 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span179 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span180 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span181 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span182 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span183 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span184 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span185 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span186 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span187 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span188 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span189 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span190 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span191 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span192 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span193 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span194 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span195 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span196 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span197 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span198 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span199 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span200 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span201 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span202 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span203 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span204 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span205 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span206 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span207 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span208 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span209 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span210 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span211 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span212 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span213 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span214 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span215 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span216 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span217 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span218 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span219 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span220 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span221 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span222 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span223 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span224 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span225 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span226 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span227 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span228 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span229 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span230 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span231 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span232 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span233 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span234 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span235 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span236 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span237 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span238 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span239 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span240 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span241 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span242 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span243 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span244 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span245 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span246 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span247 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span248 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span249 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span250 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span251 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span252 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span253 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span254 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span255 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span256 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span257 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span258 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span259 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span260 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span261 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span262 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span263 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span264 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span265 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span266 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span267 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span268 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span269 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span270 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span271 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span272 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span273 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span274 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span275 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span276 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span277 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span278 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span279 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span280 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span281 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span282 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span283 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span284 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span285 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span286 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span287 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span288 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span289 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span290 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span291 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span292 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span293 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span294 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span295 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span296 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span297 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span298 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span299 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span300 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span301 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span302 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span303 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span304 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span305 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span306 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span307 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span308 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span309 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span310 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span311 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span312 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span313 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span314 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span315 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span316 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span317 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span318 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span319 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span320 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span321 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span322 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span323 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span324 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span325 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span326 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span327 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span328 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span329 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span330 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span331 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span332 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span333 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span334 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span335 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span336 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span337 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span338 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span339 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span340 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span341 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span342 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span343 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span344 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span345 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span346 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span347 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span348 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span349 {
+  
+}
+.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span350 {
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+}
+.bp1-hindidesktop .bp1-u092au094du0930u0924u0940u0924u0939u094bu0924u093eu0939u0948u0915u093fu0907u0938 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1669px;
+  height              : auto;
+  width               : 633px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 33.75px;
+}
+.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 513px;
+  width               : 967px;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 513px;
+  width               : 967px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 506px;
+  width               : 1101px;
+  position            : absolute;
+  margin              : 0;
+  left                : -67px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u0935u093fu0902u0927u094du092fu093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1501px;
+  height              : auto;
+  width               : 633px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : left;
+  line-height         : 33.75px;
+}
+.bp1-hindidesktop .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 710px;
+  height              : auto;
+  width               : 633px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 43.7px;
+}
+.bp1-hindidesktop .bp1-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1946px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-footer .bp1-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span1 {
+  
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span2 {
+  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span3 {
+  
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span4 {
+  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
+}
+.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span5 {
+  
+}
+.bp1-hindidesktop .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-hindidesktop .bp1-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : calc(100.00% - 1048px);
+  position            : absolute;
+  margin              : 0;
+  left                : 524px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
 .bp2-hinditablet {
   width               : 100%;
   min-width           : 768px;
@@ -1433,1755 +3182,6 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 13.5px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.bp1-hindidesktop {
-  width               : 100%;
-  min-width           : 1440px;
-  height              : 100vh;
-  min-height          : 2026px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp1-hindidesktop .bp1-linecopy5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 512px;
-  height              : 2px;
-  width               : 655px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 787px;
-  height              : auto;
-  width               : 633px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 33.75px;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1048px;
-  height              : auto;
-  width               : 633px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 33.75px;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span1 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span2 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span3 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span4 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span5 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span6 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span7 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span8 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span9 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span10 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span11 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span12 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span13 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span14 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span15 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span16 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span17 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span18 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span19 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span20 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span21 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span22 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span23 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span24 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span25 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span26 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span27 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span28 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span29 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span30 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span31 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span32 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span33 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span34 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span35 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span36 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span37 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span38 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span39 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span40 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span41 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span42 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span43 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span44 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span45 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span46 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span47 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span48 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span49 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span50 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span51 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span52 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span53 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span54 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span55 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span56 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span57 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span58 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span59 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span60 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span61 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span62 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span63 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span64 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span65 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span66 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span67 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span68 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span69 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span70 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span71 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span72 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span73 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span74 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span75 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span76 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span77 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span78 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span79 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span80 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span81 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span82 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span83 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span84 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span85 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span86 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span87 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span88 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span89 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span90 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span91 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span92 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span93 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span94 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span95 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span96 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span97 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span98 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span99 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span100 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span101 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span102 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span103 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span104 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span105 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span106 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span107 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span108 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span109 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span110 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span111 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span112 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span113 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span114 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span115 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span116 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span117 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span118 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span119 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span120 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span121 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span122 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span123 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span124 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span125 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span126 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span127 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span128 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span129 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span130 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span131 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span132 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span133 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span134 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span135 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span136 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span137 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span138 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span139 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span140 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span141 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span142 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span143 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span144 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span145 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span146 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span147 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span148 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span149 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span150 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span151 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span152 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span153 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span154 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span155 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span156 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span157 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span158 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span159 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span160 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span161 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span162 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span163 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span164 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span165 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span166 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span167 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span168 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span169 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span170 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span171 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span172 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span173 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span174 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span175 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span176 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span177 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span178 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span179 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span180 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span181 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span182 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span183 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span184 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span185 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span186 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span187 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span188 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span189 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span190 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span191 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span192 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span193 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span194 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span195 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span196 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span197 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span198 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span199 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span200 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span201 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span202 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span203 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span204 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span205 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span206 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span207 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span208 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span209 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span210 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span211 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span212 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span213 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span214 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span215 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span216 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span217 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span218 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span219 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span220 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span221 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span222 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span223 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span224 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span225 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span226 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span227 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span228 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span229 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span230 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span231 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span232 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span233 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span234 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span235 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span236 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span237 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span238 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span239 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span240 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span241 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span242 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span243 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span244 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span245 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span246 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span247 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span248 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span249 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span250 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span251 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span252 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span253 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span254 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span255 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span256 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span257 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span258 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span259 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span260 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span261 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span262 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span263 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span264 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span265 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span266 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span267 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span268 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span269 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span270 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span271 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span272 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span273 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span274 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span275 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span276 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span277 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span278 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span279 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span280 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span281 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span282 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span283 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span284 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span285 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span286 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span287 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span288 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span289 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span290 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span291 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span292 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span293 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span294 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span295 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span296 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span297 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span298 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span299 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span300 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span301 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span302 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span303 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span304 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span305 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span306 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span307 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span308 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span309 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span310 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span311 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span312 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span313 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span314 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span315 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span316 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span317 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span318 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span319 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span320 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span321 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span322 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span323 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span324 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span325 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span326 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span327 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span328 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span329 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span330 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span331 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span332 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span333 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span334 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span335 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span336 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span337 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span338 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span339 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span340 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span341 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span342 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span343 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span344 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span345 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span346 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span347 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span348 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span349 {
-  
-}
-.bp1-hindidesktop .bp1-u092au094du0930u093eu091au0940u0928u0915u093eu0932u092eu0947u0902u092fu0939u0926u0941 .bp1-span350 {
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-}
-.bp1-hindidesktop .bp1-u092au094du0930u0924u0940u0924u0939u094bu0924u093eu0939u0948u0915u093fu0907u0938 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1674px;
-  height              : auto;
-  width               : 633px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 33.75px;
-}
-.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 162px;
-  height              : 513px;
-  width               : 967px;
-  position            : absolute;
-  margin              : 0;
-  left                : 236px;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-mask {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 513px;
-  width               : 967px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-westernlowlandgorilagorillagorilla .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2px;
-  height              : 506px;
-  width               : 1101px;
-  position            : absolute;
-  margin              : 0;
-  left                : -67px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u0935u093fu0902u0927u094du092fu093e {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1514px;
-  height              : auto;
-  width               : 633px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 21.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 33.75px;
-}
-.bp1-hindidesktop .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 710px;
-  height              : auto;
-  width               : 633px;
-  position            : absolute;
-  margin              : 0;
-  left                : 404px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 40.0px;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 43.7px;
-}
-.bp1-hindidesktop .bp1-footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1946px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-footer .bp1-rectangle1 {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 80px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 19px;
-  height              : auto;
-  width               : 630px;
-  position            : absolute;
-  margin              : 0;
-  left                : 405px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 13.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 21.0px;
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span1 {
-  
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span2 {
-  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span3 {
-  
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span4 {
-  font-family         : "KohinoorDevanagari-Regular", Helvetica, Arial, serif;
-}
-.bp1-hindidesktop .bp1-footer .bp1-thisarticleusesma .bp1-span5 {
-  
-}
-.bp1-hindidesktop .bp1-rectangle {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -3px;
-  height              : 124px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-hindidesktop .bp1-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 32px;
-  height              : auto;
-  width               : calc(100.00% - 1048px);
-  position            : absolute;
-  margin              : 0;
-  left                : 524px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-  font-style          : normal;
-  font-size           : 30.0px;
-  color               : rgba(0, 62, 107, 1.0);
-  text-align          : center;
-  line-height         : 52.8px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
