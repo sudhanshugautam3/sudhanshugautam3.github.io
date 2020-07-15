@@ -1,727 +1,775 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
 
 
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  animation-delay     : 0s;
-}
-@keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
+.bp3-index {
   width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - index2 */
-.font-class-1 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-2 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-3 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 24.0px;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.index2 .auto-flex-1lKxzb {
-  align-items         : center;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 0px;
-  position            : absolute;
-  top                 : 143px;
-  width               : 1440px;
-}
-.index2 .language-267-swahili-dgs2MY {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 36px;
-  width               : calc(100.00% - 541px);
-}
-.index2 .afrika-ni-bara-la-pi-ARCLlo {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 22.4px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 66px;
-  width               : calc(100.00% - 245px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-5-otkxsx {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 175px;
-  justify-content     : center;
-  left                : 488px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 1px;
-  width               : 165px;
-}
-.index2 .a640px-kobli1-K0k2XP {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 175px;
-  position            : relative;
-  width               : 259px;
-}
-.index2 .group-4-tz5U6c {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 176px;
-  margin-left         : 21.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 653px;
-}
-.index2 .conseil-de-s-351curit-351-TUj7l5 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 1px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 249px);
-}
-.index2 .language-267-french-U82sk6 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 34px;
-  width               : calc(100.00% - 543px);
-}
-.index2 .le-conseil-de-s-351curi-x25K0I {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 22.4px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 64px;
-  width               : calc(100.00% - 245px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-3-bxozy0 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 175px;
-  justify-content     : center;
-  left                : 488px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 1px;
-  width               : 165px;
-}
-.index2 .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-Y3SU3w {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 175px;
-  position            : relative;
-  width               : 229px;
-}
-.index2 .group-5-x3axBF {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : 21.0px;
-  margin-top          : 15px;
-  position            : relative;
-  width               : 653px;
-}
-.index2 .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-eISrXn {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 301px);
-}
-.index2 .language-267-hindi-ocyTtj {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 39px;
-  width               : calc(100.00% - 552px);
-}
-.index2 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-MZQlAA {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 25.6px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 68px;
-  width               : calc(100.00% - 267px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-2-lnshNo {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 175px;
-  justify-content     : flex-start;
-  left                : 488px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  width               : 165px;
-}
-.index2 .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-NrLadj {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : -104px;
-  position            : relative;
-  width               : 374px;
-}
-.index2 .line-copy-10-h4xdr9 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
-  position            : relative;
-  width               : 655px;
-}
-.index2 .line-copy-9-ReecKn {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 23px;
-  position            : relative;
-  width               : 655px;
-}
-.index2 .line-copy-7-F7DH6O {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 24px;
-  position            : relative;
-  width               : 655px;
-}
-.index2 .line-copy-6-KxxGUf {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 26px;
-  position            : relative;
-  width               : 655px;
-}
-.index2 .group-copy-JybYxQ {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 175px;
-  margin-left         : 20.0px;
-  margin-top          : 15px;
-  position            : relative;
-  width               : 654px;
-}
-.index2 .u732b-wUvzZ7 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 630px);
-}
-.index2 .language-267-chinese-0f3oCn {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 32px;
-  width               : calc(100.00% - 537px);
-}
-.index2 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-P8SFux {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 22.4px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 62px;
-  width               : calc(100.00% - 267px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-6-xCOT1x {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 175px;
-  justify-content     : center;
-  left                : 489px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 0px;
-  width               : 165px;
-}
-.index2 .a594px-cat-poster-2-XLMXwZ {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 183px;
-  margin-top          : -4.0px;
-  position            : relative;
-  width               : 223px;
-}
-.index2 .group-2-x54H5M {
-  align-items         : flex-start;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 80px;
-  justify-content     : flex-start;
-  margin-top          : 40px;
   min-width           : 1440px;
-  padding             : 18.0px 405.0px;
-  position            : relative;
-  width               : auto;
-}
-.index2 .articles-on-this-lis-d2NELV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 21.0px;
-  min-height          : 42px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 630px;
-}
-.index2 .rectangle-pwJWlx {
-  background-color    : rgba(255,255,255,0);
-  height              : 124px;
-  left                : 0px;
-  position            : absolute;
-  top                 : -3px;
-  width               : 100%;
-}
-.index2 .wikipedia-preview-de-iOCx9n {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  font-size           : 30.0px;
-  height              : auto;
-  left                : 524px;
-  line-height         : 52.8px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 32px;
-  width               : calc(100.00% - 1048px);
-}
-.index2 .language-267-english-VCdYIi {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 62px;
-  width               : calc(100.00% - 540px);
-}
-.index2 .group-6-g0xIuM {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 181px;
-  margin-left         : 21.0px;
-  position            : relative;
-  width               : 653px;
-}
-.index2 .line-copy-5-fQbUOl {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 21.0px;
-  margin-top          : 21px;
-  position            : relative;
-  width               : 655px;
-}
-.index2 .wildlife-of-the-cent-xj06ah {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 267px);
-}
-.index2 .wildlife-in-the-cent-gPfY4W {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 22.4px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 90px;
-  width               : calc(100.00% - 245px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-uj8Oke {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 180px;
-  justify-content     : flex-start;
-  left                : 488px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 1px;
-  width               : 165px;
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-HvREzb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 180px;
-  margin-left         : -46px;
-  position            : relative;
-  width               : 258px;
-}
-.index2 .group-3-62Pu44 {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 179px;
-  margin-left         : 21.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 653px;
-}
-.index2 .nikola-tesla-9tf4Z6 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 512px);
-}
-.index2 .language-267-spanish-cN8JBT {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 13.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 18.0px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 37px;
-  width               : calc(100.00% - 536px);
-}
-.index2 .nikola-tesla-en-cir-3kvA1s {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  font-size           : 16.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 22.4px;
-  opacity             : 0.9;
-  position            : absolute;
-  text-align          : left;
-  top                 : 67px;
-  width               : calc(100.00% - 245px);
-}
-.index2 .western-lowland-gorila-gorilla-gorilla-copy-4-qyTcHo {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 176px;
-  justify-content     : flex-start;
-  left                : 488px;
-  overflow            : hidden;
-  position            : absolute;
-  top                 : 1px;
-  width               : 165px;
-}
-.index2 .a535px-tesla-sarony-IWhYt3 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 257px;
-  margin-left         : -11px;
-  margin-top          : -41.0px;
-  position            : relative;
-  width               : 186px;
-}
-.index2 .group-2-ODj6xO {
-  background-color    : rgba(255,255,255,0);
-  cursor              : pointer;
-  flex-shrink         : 0;
-  height              : 176px;
-  margin-left         : 21.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 653px;
-}
-.index2 .afrika-xkb08C {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 24.0px;
-  height              : auto;
-  left                : 0px;
-  line-height         : 27.6px;
-  position            : absolute;
-  text-align          : left;
-  top                 : 0px;
-  width               : calc(100.00% - 588px);
-}
-.index2 {
-  background-color    : var(--auto-palette-color-3);
   height              : 100vh;
-  margin              : 0px;
-  min-height          : 1520.0px;
-  min-width           : 1440.0px;
-  overflow            : hidden;
+  min-height          : 1520px;
   position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-index .bp3-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 345px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : auto;
+  width               : calc(100.00% - 1054px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 205px;
+  height              : auto;
+  width               : calc(100.00% - 1327px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : calc(100.00% - 1032px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 144px;
+  height              : 180px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy .bp3-westernlowlandgorilagorillagorillacopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : -46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 792px;
+  height              : auto;
+  width               : calc(100.00% - 1299px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 829px;
+  height              : auto;
+  width               : calc(100.00% - 1323px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 859px;
+  height              : auto;
+  width               : calc(100.00% - 1032px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 793px;
+  height              : 176px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy4 .bp3-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -41px;
+  height              : 257px;
+  width               : 186px;
+  position            : absolute;
+  margin              : 0;
+  left                : -11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1009px;
+  height              : auto;
+  width               : calc(100.00% - 1375px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1045px;
+  height              : auto;
+  width               : calc(100.00% - 1328px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1075px;
+  height              : auto;
+  width               : calc(100.00% - 1032px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1010px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy5 .bp3-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : -47px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 577px;
+  height              : 176px;
+  width               : 653px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group4 .bp3-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : calc(100.00% - 249px);
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-group4 .bp3-language267french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  width               : calc(100.00% - 543px);
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-group4 .bp3-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : calc(100.00% - 245px);
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-index .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 488px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy3 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group4 .bp3-westernlowlandgorilagorillagorillacopy3 .bp3-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 229px;
+  position            : absolute;
+  margin              : 0;
+  left                : -32px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 361px;
+  height              : auto;
+  width               : calc(100.00% - 1088px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 400px;
+  height              : auto;
+  width               : calc(100.00% - 1339px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 429px;
+  height              : auto;
+  width               : calc(100.00% - 1054px);
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 25.6px;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 361px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy2 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy2 .bp3-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : -104px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-linecopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1209px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 994px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 777px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 562px;
+  height              : 1px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1225px;
+  height              : auto;
+  width               : calc(100.00% - 1416px);
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp3-index .bp3-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1257px;
+  height              : auto;
+  width               : calc(100.00% - 1323px);
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp3-index .bp3-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1287px;
+  height              : auto;
+  width               : calc(100.00% - 1053px);
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1225px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 892px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy6 .bp3-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-westernlowlandgorilagorillagorillacopy6 .bp3-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 183px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : -29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1440px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group2 .bp3-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-group2 .bp3-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 405px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 21.0px;
+}
+.bp3-index .bp3-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -3px;
+  height              : 124px;
   width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index .bp3-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : calc(100.00% - 1048px);
+  position            : absolute;
+  margin              : 0;
+  left                : 524px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 30.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  animation-delay     : 0s;
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 @keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
-}
-a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -754,12 +802,30 @@ a {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-component-wrapper a,
-.anima-screen a {
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp1-index {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 978px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
   text-decoration     : none;
 }
-.anima-flexbox-container a {
-  line-height         : 0;
+div {
+  -webkit-text-size-adjust: none;
 }
 .anima-full-width-a {
   width               : 100%;
@@ -767,1048 +833,1811 @@ a {
 .anima-full-height-a {
   height              : 100%;
 }
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
+div {
   -webkit-text-size-adjust: none;
 }
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
+.bp1-index .bp1-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 87px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
   margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
 }
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 87px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.anima-container-center-horizontal {
-  justify-content     : center;
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy7 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy7 .bp1-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-index .bp1-language267englishcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 533px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp1-index .bp1-nikolateslafueun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 584px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-index .bp1-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 559px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 533px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy4 .bp1-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -25px;
+  height              : 123px;
+  width               : 91px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 656px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp1-index .bp1-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 707px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-index .bp1-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 682px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 656px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy5 .bp1-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : -19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 779px;
+  height              : auto;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 21.6px;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 779px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy10 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy10 .bp1-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 805px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-u8c93uff08u5b78u540duff1afeliscatusu6216fe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 830px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp1-index .bp1-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy71 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 233px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy71 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy71 .bp1-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : -43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 233px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-index .bp1-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 25.6px;
+}
+.bp1-index .bp1-linecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 218px;
+  height              : 1px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-linecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : 1px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 640px;
+  height              : 3px;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-linecopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 764px;
+  height              : 3px;
+  width               : 327px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : auto;
+  width               : 244px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp1-index .bp1-language267frenchcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 426px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 451px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 25.6px;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy72 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 369px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 274px;
+  border-radius       : 4px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy72 .bp1-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-westernlowlandgorilagorillagorillacopy72 .bp1-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 63px;
   width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
+.bp1-index .bp1-linecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 517px;
+  height              : 1px;
+  width               : 329px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 914px;
+  height              : 64px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-group7 .bp1-rectangle1 {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 64px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-group7 .bp1-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 13.5px;
+}
+.bp1-index .bp1-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : calc(100.00% - 128px);
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif, Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 .anima-component-wrapper,
-.anima-screen {
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
   overflow-wrap       : break-word;
   word-wrap           : break-word;
   word-break          : break-all;
   word-break          : break-word;
 }
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - index1 */
-.font-class-1 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-2 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-3 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 24.0px;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.index1 .auto-flex2-3LESXx {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
-.index1 .auto-flex-4RHks2 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 374px;
-}
-.index1 .auto-flex4-aljjS1 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 371px;
-}
-.index1 .auto-flex3-fx0QnL {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
-}
-.index1 .auto-flex5-xYhCyw {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 372px;
-}
-.index1 .language-267-spanish-O3rCHM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index1 .nikola-tesla-en-cir-lNMHMC {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 372px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-4-3FuFEA {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a535px-tesla-sarony-QYu6jR {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 195px;
-  margin-top          : -37.0px;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .swahili-QHGid8 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .afrika-hqxtPd {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 24.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 32px;
-  position            : relative;
-  text-align          : left;
-  width               : 92px;
-}
-.index1 .language-267-swahili-HjYhnn {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 109px;
-}
-.index1 .afrika-ni-bara-la-pi-3xVBI0 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 371px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-5-HInM95 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 25px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a640px-kobli1-dGAOB6 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  margin-left         : -23px;
-  position            : relative;
-  width               : 178px;
-}
-.index1 .auto-flex1-xWlRvG {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 373px;
-}
-.index1 .chinese-LPUsSV {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 17.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .u732b-axv2FR {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  height              : auto;
-  letter-spacing      : 0.00px;
-  line-height         : 27.6px;
-  min-height          : 28px;
-  position            : relative;
-  text-align          : left;
-  width               : 30px;
-}
-.index1 .language-267-chinese-hPMSIN {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index1 .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-1-2ZhjjM {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 372px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-6-d3WcKC {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 26px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a594px-cat-poster-2-5Vf5Gb {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 124px;
-  margin-top          : -4.0px;
-  position            : relative;
-  width               : 151px;
-}
-.index1 .header-6IR25F {
-  align-items         : flex-end;
-  background-color    : rgba(255,255,255,0);
-  background-image    : url(".././img/swahili-tablet-rectangle.png");
-  background-size     : 100% 100%;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 96px;
-  justify-content     : flex-start;
-  padding             : 17.0px 197.0px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .wikipedia-preview-de-xYdG1v {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-5);
-  flex-shrink         : 0;
-  font-size           : 25.0px;
-  height              : auto;
-  line-height         : 52.8px;
-  min-height          : 53px;
-  min-width           : 386px;
-  position            : relative;
-  text-align          : center;
-  width               : auto;
-}
-.index1 .line-copy-14-OCuCGB {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  width               : 540px;
-}
-.index1 .line-copy-11-HtZ2x5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  width               : 540px;
-}
-.index1 .line-copy-8-6JUJQK {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  width               : 540px;
-}
-.index1 .line-copy-12-bxBGxt {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  width               : 540px;
-}
-.index1 .line-copy-13-JHArHo {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-left         : 18.0px;
-  margin-top          : 25px;
-  position            : relative;
-  width               : 540px;
-}
-.index1 .footer-GlQdDE {
-  align-items         : center;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 58px;
-  justify-content     : flex-start;
-  margin-top          : 62px;
-  min-width           : 768px;
-  padding             : 0 99.0px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .articles-on-this-lis-uSyEWz {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 12.0px;
-  height              : auto;
-  line-height         : 18.0px;
-  min-height          : 36px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 570px;
-}
-.index1 .span17-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span18-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span19-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span20-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span21-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span22-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span23-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span24-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span25-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span26-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span27-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span28-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span29-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span30-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span31-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span32-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span33-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span34-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span35-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span36-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span37-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span38-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span39-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span40-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span41-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span42-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span43-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span44-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span45-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span46-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span47-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span48-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span49-xtSa7p {
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .span50-xtSa7p {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
-  line-height         : 25.6px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-2-SqdkLc {
-  align-items         : flex-end;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-3TZMw7 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-bottom       : -3.0px;
-  position            : relative;
-  width               : 263px;
-}
-.index1 .french-aZT9q3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .conseil-de-s-351curit-351-xQ0kVC {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  margin-bottom       : -2px;
-  min-height          : 26px;
-  position            : relative;
-  text-align          : left;
-  width               : 374px;
-}
-.index1 .language-267-french-Clf84w {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index1 .le-conseil-de-s-351curi-sjW4ll {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 372px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-3-6PAUq6 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : center;
-  margin-left         : 22px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 141px;
-}
-.index1 .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-xROnjX {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 120px;
-  position            : relative;
-  width               : 157px;
-}
-.index1 .spanish-WFnFvQ {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index1 .nikola-tesla-RMUsLm {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 33px;
-  position            : relative;
-  text-align          : left;
-  width               : 165px;
-}
-.index1 {
-  align-items         : center;
-  background-color    : var(--auto-palette-color-3);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  margin              : 0px;
-  min-height          : 1178px;
-  min-width           : 768.0px;
-  overflow            : hidden;
-  position            : relative;
+.bp2-index1 {
   width               : 100%;
-}
-.index1 .english-GlKqzs {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 134px;
-  justify-content     : flex-start;
-  margin-left         : 15.0px;
-  margin-top          : 28px;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1178px;
   position            : relative;
-  width               : auto;
-}
-.index1 .wildlife-of-the-cent-uprjy7 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 21.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 58px;
-  position            : relative;
-  text-align          : left;
-  width               : 374px;
-}
-.index1 .language-267-english-8ddxMm {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 5px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
-  width               : 113px;
-}
-.index1 .wildlife-in-the-cent-kvZZul {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 374px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-T0Oklk {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  flex-shrink         : 0;
-  height              : 121px;
-  margin-left         : 22px;
   overflow            : hidden;
-  position            : relative;
-  width               : 141px;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
-.index1 .mask-us8llM {
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 3.0px;
-  height              : 120px;
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-index1 .bp2-english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 134px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-english .bp2-wildlifeofthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
   left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index1 .bp2-english .bp2-language267english {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 113px;
   position            : absolute;
-  top                 : 1px;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-english .bp2-wildlifeinthecent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index1 .bp2-english .bp2-westernlowlandgorilagorillagorillacopy {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 121px;
   width               : 141px;
-}
-.index1 .western-lowland-gorila-gorilla-gorilla-copy-U5mxny {
-  background-color    : rgba(255,255,255,0);
-  height              : 120px;
-  left                : -16px;
   position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
   top                 : 1px;
-  width               : 172px;
-}
-.index1 .hindi-JPlgx7 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  cursor              : pointer;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
   height              : 120px;
-  justify-content     : flex-start;
-  margin-left         : 16.0px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.index1 .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-8RYNId {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
+.bp2-index1 .bp2-english .bp2-westernlowlandgorilagorillagorillacopy .bp2-westernlowlandgorilagorillagorillacopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 120px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : -16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 120px;
+  width               : 536px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "ITFDevanagari-Bold", Helvetica, Arial, serif;
   font-size           : 21.0px;
-  height              : auto;
-  letter-spacing      : 0.00px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
   line-height         : 21.0px;
-  min-height          : 35px;
-  position            : relative;
-  text-align          : left;
-  width               : 373px;
 }
-.index1 .span1-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span1 {
   line-height         : 27.6px;
 }
-.index1 .span2-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span2 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span3-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span3 {
   line-height         : 27.6px;
 }
-.index1 .span4-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span4 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span5-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span5 {
   line-height         : 27.6px;
 }
-.index1 .span6-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span6 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span7-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span7 {
   line-height         : 27.6px;
 }
-.index1 .span8-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span8 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span9-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span9 {
   line-height         : 27.6px;
 }
-.index1 .span10-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span10 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span11-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span11 {
   line-height         : 27.6px;
 }
-.index1 .span12-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span12 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span13-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span13 {
   line-height         : 27.6px;
 }
-.index1 .span14-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span14 {
   font-family         : "Georgia-Bold", Helvetica, Arial, serif;
   line-height         : 27.6px;
 }
-.index1 .span15-8RYNId {
+.bp2-index1 .bp2-hindi .bp2-u0935u093fu0938u094du0924u093eu0930u0938u0947u091cu093eu0928u093fu092fu0947u0915u093e .bp2-span15 {
   line-height         : 27.6px;
 }
-.index1 .language-267-hindi-XhFRiV {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 13.0px;
+.bp2-index1 .bp2-hindi .bp2-language267hindi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
   height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 6px;
-  min-height          : 15px;
-  position            : relative;
-  text-align          : left;
   width               : 113px;
-}
-.index1 .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-xtSa7p {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  height              : auto;
-  line-height         : 16.0px;
-  margin-top          : 10px;
-  min-height          : 52px;
-  opacity             : 0.9;
-  position            : relative;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
   text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
   width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 16.0px;
 }
-.index1 .span1-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span1 {
   line-height         : 25.6px;
 }
-.index1 .span2-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span2 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span3-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span3 {
   line-height         : 25.6px;
 }
-.index1 .span4-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span4 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span5-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span5 {
   line-height         : 25.6px;
 }
-.index1 .span6-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span6 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span7-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span7 {
   line-height         : 25.6px;
 }
-.index1 .span8-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span8 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span9-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span9 {
   line-height         : 25.6px;
 }
-.index1 .span10-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span10 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span11-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span11 {
   line-height         : 25.6px;
 }
-.index1 .span12-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span12 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span13-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span13 {
   line-height         : 25.6px;
 }
-.index1 .span14-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span14 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
 }
-.index1 .span15-xtSa7p {
-  letter-spacing      : 0.00px;
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span15 {
   line-height         : 25.6px;
 }
-.index1 .span16-xtSa7p {
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span16 {
   font-family         : "Georgia", Helvetica, Arial, serif;
-  letter-spacing      : 0.00px;
   line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span17 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span18 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span19 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span20 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span21 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span22 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span23 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span24 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span25 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span26 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span27 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span28 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span29 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span30 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span31 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span32 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span33 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span34 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span35 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span36 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span37 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span38 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span39 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span40 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span41 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span42 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span43 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span44 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span45 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span46 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span47 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span48 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span49 {
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-u0915u093eu0932u093fu0902u091cu0930u0926u0941u0930u094du0917u092du093eu0930u0924u0940 .bp2-span50 {
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  line-height         : 25.6px;
+}
+.bp2-index1 .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 395px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-hindi .bp2-westernlowlandgorilagorillagorillacopy2 .bp2-a640pxpanoramicviewofranimahalkalinjarfort {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 123px;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : -61px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 458px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-french .bp2-conseildes351curit351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index1 .bp2-french .bp2-language267french {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-french .bp2-leconseildes351curi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index1 .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-french .bp2-westernlowlandgorilagorillagorillacopy3 .bp2-a640pxunsicherheitsratunsecuritycouncilnewyorkcity20140106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 157px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 618px;
+  height              : 120px;
+  width               : 538px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-spanish .bp2-nikolatesla {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index1 .bp2-spanish .bp2-language267spanish {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-spanish .bp2-nikolateslaencir {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index1 .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 397px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-spanish .bp2-westernlowlandgorilagorillagorillacopy4 .bp2-a535pxteslasarony {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -37px;
+  height              : 195px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 778px;
+  height              : 120px;
+  width               : 537px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-swahili .bp2-afrika {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index1 .bp2-swahili .bp2-language267swahili {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-swahili .bp2-afrikanibaralapi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 371px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index1 .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-swahili .bp2-westernlowlandgorilagorillagorillacopy5 .bp2-a640pxkobli1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : -23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 938px;
+  height              : 120px;
+  width               : 539px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-chinese .bp2-u732b {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "STSongti-SC-Bold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(16, 42, 67, 1.0);
+  text-align          : left;
+  line-height         : 27.6px;
+}
+.bp2-index1 .bp2-chinese .bp2-language267chinese {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp2-index1 .bp2-chinese .bp2-u8c93uff08u5b78u540duff1afeliscatus1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : auto;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 0.6);
+  text-align          : left;
+  line-height         : 22.4px;
+}
+.bp2-index1 .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 398px;
+  border-radius       : 3px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-mask {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-chinese .bp2-westernlowlandgorilagorillagorillacopy6 .bp2-a594pxcatposter2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 124px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-header .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 96px;
+  width               : 770px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-header .bp2-wikipediapreviewde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(0, 62, 107, 1.0);
+  text-align          : center;
+  line-height         : 52.8px;
+}
+.bp2-index1 .bp2-linecopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 283px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-linecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 603px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-linecopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 443px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-linecopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 763px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-linecopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 923px;
+  height              : 1px;
+  width               : 540px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-footer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1120px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-footer .bp2-rectangle {
+  background-color    : rgba(240, 244, 248, 1.0);
+  top                 : 0px;
+  height              : 58px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-footer .bp2-articlesonthislis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : auto;
+  width               : 570px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  font-family         : "Georgia", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
   opacity             : 0;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
 }
 .anima-animate-disappear {
   opacity             : 1;
   display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
   animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
 }
 .anima-animate-nodelay {
-  animation-delay     : 0s;
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 @keyframes anima-reveal {
-  from {
-    opacity             : 0;
-  }
-  to {
-    opacity             : 1;
-  }
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
 }
 .anima-component-wrapper,
 .anima-component-wrapper * {
@@ -1841,825 +2670,42 @@ a {
 .anima-listeners-active-click * {
   cursor              : pointer;
 }
-.anima-component-wrapper a,
-.anima-screen a {
-  text-decoration     : none;
-}
-.anima-flexbox-container a {
-  line-height         : 0;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-.anima-screen textarea:focus,
-.anima-screen input:focus {
-  outline             : none;
-}
-.anima-screen div {
-  -webkit-text-size-adjust: none;
-}
-.anima-container-center-vertical,
-.anima-container-center-horizontal {
-  pointer-events      : none;
-  display             : flex;
-  flex-direction      : row;
-  padding             : 0;
-  margin              : 0;
-}
-.anima-container-center-vertical {
-  align-items         : center;
-  height              : 100%;
-}
-.anima-container-center-horizontal {
-  justify-content     : center;
-  width               : 100%;
-}
-.anima-container-center-vertical > *,
-.anima-container-center-horizontal > * {
-  pointer-events      : auto;
-  flex-shrink         : 0;
-}
-.anima-component-wrapper,
-.anima-screen {
+.anima-word-break {
   overflow-wrap       : break-word;
   word-wrap           : break-word;
   word-break          : break-all;
   word-break          : break-word;
 }
-.anima-auto-animated div {
-  opacity             : 0;
-  position            : absolute;
-  --anima-z-index: -1;
-}
-.anima-auto-animated .anima-container-center-vertical,
-.anima-auto-animated .anima-container-center-horizontal {
-  opacity             : 1;
-}
-/* ANIMA screen - index */
-.font-class-1 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-}
-.font-class-2 {
-  font-family         : Roboto, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
-}
-.font-class-3 {
-  font-family         : "Georgia", Helvetica, Arial, serif;
-}
-.font-class-4 {
-  font-family         : "Georgia-Bold", Helvetica, Arial, serif;
-}
-.font-class-5 {
-  font-family         : "ITFDevanagari-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-6 {
-  color               : var(--auto-palette-color-1);
-  font-family         : "Times-Roman", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  line-height         : 24.0px;
-}
-.font-class-7 {
-  font-family         : "STSongti-SC-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-}
-.font-class-8 {
-  color               : rgba(16,42,67,1.0);
-  font-family         : "Times-Bold", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-}
-:root {
-  --2187e56a-7a67-4e5a-87f9-b418c88435a5: rgba(16,42,67,1.0);
-  --6d33225b-6adf-4ba1-a717-09ef8ad38268: rgba(215,215,215,1.0);
-  --auto-palette-color-1: rgba(51,51,51,1.0);
-  --auto-palette-color-2: rgba(0,0,0,0.600000023842);
-  --auto-palette-color-3: rgba(255,255,255,1.0);
-  --auto-palette-color-4: rgba(0,0,0,1.0);
-  --auto-palette-color-5: rgba(0,62,107,1.0);
-  --bf8d1f6d-7211-4c6a-93ed-f9b6344e303c: rgba(240,244,248,1.0);
-}
-.index .auto-flex17-LbnEQU {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  height              : auto;
-  justify-content     : flex-start;
-  left                : 16px;
-  position            : absolute;
-  top                 : 87px;
-  width               : 329px;
-}
-.index .auto-flex-jDGh8g {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .auto-flex1-bT8xx3 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 117px;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex4-DboU7E {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 100px;
-  justify-content     : flex-start;
-  margin-top          : 15px;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex2-3p5uxx {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 329px;
-}
-.index .auto-flex3-LEOqtc {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .auto-flex7-FNxOJ8 {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 100px;
-  justify-content     : flex-start;
-  margin-top          : 13px;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex10-bxZjne {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 106px;
-  justify-content     : flex-start;
-  margin-top          : 12px;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex5-gIDHVB {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 329px;
-}
-.index .auto-flex6-NWFMxS {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .auto-flex13-nceC2I {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 115px;
-  justify-content     : flex-start;
-  margin-top          : 14px;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex9-xEfaeP {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .auto-flex8-D0r3XK {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 329px;
-}
-.index .auto-flex16-QRbdoj {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-top          : 15px;
-  position            : relative;
-  width               : auto;
-}
-.index .auto-flex11-Mqbj9V {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  margin-top          : 10px;
-  position            : relative;
-  width               : 329px;
-}
-.index .auto-flex12-OF1Zwc {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .auto-flex14-1S4aLY {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 329px;
-}
-.index .auto-flex15-cKZIAu {
-  align-items         : flex-start;
-  background-color    : rgba(255,255,255,0);
-  box-sizing          : border-box;
-  display             : flex;
-  flex-direction      : column;
-  flex-shrink         : 0;
-  height              : auto;
-  justify-content     : flex-start;
-  position            : relative;
-  width               : 244px;
-}
-.index .afrika-ni-bara-la-pi-ai04Oy {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 49px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .language-267-swahili-05NLdw {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 107px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-5-zGiOcx {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .a640px-kobli1-hePxx3 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  position            : relative;
-  width               : 108px;
-}
-.index .u732b-xCVNmL {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  width               : 19px;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-10-CfpR3u {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .a594px-cat-poster-2-axFhQf {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -9px;
-  position            : relative;
-  width               : 89px;
-}
-.index .language-267-chinese-1ER2qT {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 111px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .u8c93-uff08-u5b78-u540d-uff1a-felis-catus-u6216-fe-KO9GXi {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 55px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .language-267-hindi-ARVB1b {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 97px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-7-Ad5GCk {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .a640px-panoramic-view-of-rani-mahal-kalinjar-fort-niEaKX {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -43px;
-  position            : relative;
-  width               : 157px;
-}
-.index .u0935-u093f-u0938-u094d-u0924-u093e-u0930-u0938-u0947-u091c-u093e-u0928-u093f-u092f-u0947-u0915-u093e-0seLxS {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 30px;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .u0915-u093e-u0932-u093f-u0902-u091c-u0930-u0926-u0941-u0930-u094d-u0917-u092d-u093e-u0930-u0924-u0940-RHVyh9 {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 25.6px;
-  margin-top          : 10px;
-  min-height          : 56px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .line-copy-9-BUCMn5 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 3px;
-  margin-top          : 8px;
-  position            : relative;
-  width               : 327px;
-}
-.index .conseil-de-s-351curit-351-Kr3K4o {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 27.6px;
-  min-height          : 53px;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .language-267-french-copy-9CxVAR {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 105px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .le-conseil-de-s-351curi-JAAf9S {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 25.6px;
-  min-height          : 53px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 260px;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-7-pEni5F {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .a640px-un-sicherheitsrat-un-security-council-new-york-city-2014-01-06-BBWY5e {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  margin-left         : -8px;
-  position            : relative;
-  width               : 96px;
-}
-.index .rectangle-pwJWlx {
-  background-color    : rgba(255,255,255,0);
-  height              : 63px;
-  left                : 0px;
-  position            : absolute;
-  top                 : 0px;
-  width               : 100%;
-}
-.index .line-copy-7-tDau5x {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 13px;
-  position            : relative;
-  width               : 329px;
-}
-.index .group-7-xyCZfB {
-  align-items         : flex-start;
-  background-color    : rgba(240,244,248,1.0);
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  height              : 64px;
-  justify-content     : flex-start;
-  left                : 0px;
-  min-width           : 100%;
-  padding             : 18.0px 15.0px;
-  position            : absolute;
-  top                 : 914px;
-  width               : auto;
-}
-.index .articles-on-this-lis-UWYYsp {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-4);
-  flex-shrink         : 0;
-  font-size           : 9.0px;
-  height              : auto;
-  line-height         : 13.5px;
-  min-height          : 27px;
-  opacity             : 0.8;
-  position            : relative;
-  text-align          : center;
-  width               : 330px;
-}
-.index .wikipedia-preview-de-iOCx9n {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  font-size           : 18.0px;
-  height              : auto;
-  left                : 64px;
-  line-height         : 24.0px;
-  position            : absolute;
-  text-align          : center;
-  top                 : 18px;
-  width               : calc(100.00% - 128px);
-}
-.index {
-  background-color    : var(--auto-palette-color-3);
-  height              : 100vh;
-  margin              : 0px;
-  min-height          : 978.0px;
-  min-width           : 360.0px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 100%;
-}
-.index .wildlife-of-the-cent-9xboi1 {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 43px;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-7-aJpqj8 {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : center;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-15aLxM {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 72px;
-  position            : relative;
-  width               : 108px;
-}
-.index .wildlife-in-the-cent-6eT3gO {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 45px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .language-267-english-copy-4-fKtEQr {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 107px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .nikola-tesla-0hHQpB {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  width               : 112px;
-}
-.index .nikola-tesla-fue-un-LMGZjz {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 22.4px;
-  margin-top          : 10px;
-  min-height          : 49px;
-  opacity             : 0.9;
-  position            : relative;
-  text-align          : left;
-  width               : 244px;
-}
-.index .language-267-spanish-1SKsSc {
-  background-color    : rgba(255,255,255,0);
-  color               : var(--auto-palette-color-2);
-  flex-shrink         : 0;
-  font-size           : 11.0px;
-  height              : auto;
-  line-height         : 15.0px;
-  margin-top          : 4px;
-  min-height          : 15px;
-  min-width           : 111px;
-  position            : relative;
-  text-align          : left;
-  width               : auto;
-}
-.index .western-lowland-gorila-gorilla-gorilla-copy-4-qCmh8j {
-  align-items         : flex-start;
-  background-color    : rgba(215,215,215,1.0);
-  border-radius       : 4.0px;
-  box-sizing          : border-box;
-  display             : inline-flex;
-  flex-direction      : row;
-  flex-shrink         : 0;
-  height              : 72px;
-  justify-content     : flex-start;
-  margin-left         : 14px;
-  overflow            : hidden;
-  position            : relative;
-  width               : 70px;
-}
-.index .a535px-tesla-sarony-IqDLi0 {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 123px;
-  margin-left         : -10px;
-  margin-top          : -25.0px;
-  position            : relative;
-  width               : 91px;
-}
-.index .afrika-JUTxEo {
-  background-color    : rgba(255,255,255,0);
-  color               : rgba(16,42,67,1.0);
-  flex-shrink         : 0;
-  font-size           : 16.0px;
-  height              : auto;
-  line-height         : 21.6px;
-  min-height          : 22px;
-  position            : relative;
-  text-align          : left;
-  width               : 58px;
-}
-.index .line-copy-5-RHnOim {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 14px;
-  position            : relative;
-  width               : 329px;
-}
-.index .line-copy-6-k1wwRB {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 1px;
-  margin-top          : 5px;
-  position            : relative;
-  width               : 329px;
-}
-.index .line-copy-8-T5x2hx {
-  background-color    : rgba(255,255,255,0);
-  flex-shrink         : 0;
-  height              : 3px;
-  margin-top          : 7px;
-  position            : relative;
-  width               : 327px;
-}
 @media screen and (max-width: 767px) {
-  .index1 {
-    display             : none ;
+  .bp1-index {
+    display             : block;
   }
-  .index2 {
-    display             : none ;
+  .bp2-index1 {
+    display             : none;
+  }
+  .bp3-index {
+    display             : none;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1439px) {
-  .index {
-    display             : none ;
+  .bp1-index {
+    display             : none;
   }
-  .index2 {
-    display             : none ;
+  .bp2-index1 {
+    display             : block;
+  }
+  .bp3-index {
+    display             : none;
   }
 }
 @media screen and (min-width: 1440px) {
-  .index {
-    display             : none ;
+  .bp1-index {
+    display             : none;
   }
-  .index1 {
-    display             : none ;
+  .bp2-index1 {
+    display             : none;
+  }
+  .bp3-index {
+    display             : block;
   }
 }
