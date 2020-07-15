@@ -1,148 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:500,400');
-
-
-
-div {
-  -webkit-text-size-adjust: none;
+a {
+  text-decoration: none;
+}
+body {
+  margin: 0;
 }
 
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-.bp3-englishmobile {
+.container {
   width               : 100%;
-  /* min-width           : 360px; */
   max-width           : 786px;
-  /* height              : 100vh;
-  min-height          : 1587px; */
   position            : relative;
   overflow            : hidden;
   margin              : 0 auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
-  opacity             : 1.0;
 }
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp3-englishmobile .bp3-group5 {
+.container .header {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 61px;
   width               : 100%;
   position            : relative;
   margin              : 0;
@@ -150,51 +22,29 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group5 .bp3-rectangle {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 61px;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group5 .bp3-wikipediapreviewde {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 18px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 64px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
+.container .header .title {
+  position            : relative;
+  margin              : 10px auto;
+  font-weight         : 800;
   font-style          : normal;
-  font-size           : 18.0px;
+  font-size           : 4.5vw;
   color               : rgba(16, 42, 67, 1.0);
   text-align          : center;
-  line-height         : 24.0px;
+  color: #003e6b;
 }
-.bp3-englishmobile .bp3-group6 {
-  background-color    : rgba(255,255,255,0.0);
-  /* top                 : 63px; */
-  height              : 239px;
+.container .cover {
   width               : 100%;
   position            : relative;
   margin              : 0;
+  max-height          : 505px;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   overflow            : hidden;
 }
-.bp3-englishmobile .bp3-group6 .bp3-westernlowlandgorilagorillagorillacopy {
+.container .cover .westernlowlandgorilagorillagorillacopy {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  /* height              : 239px; */
   width               : 100%;
   position            : relative;
   margin              : 0;
@@ -202,18 +52,18 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 {
+.container .cover .close-btn {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
+  top                 : 24px;
   height              : 23px;
   width               : 24px;
-  position            : relative;
+  position            : absolute;
   margin              : 0;
-  left                : 320px;
+  right               : 24px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 {
+.container .cover .close-btn .outer {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 23px;
@@ -224,7 +74,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group4 .bp3-oval {
+.container .cover .close-btn .outer .oval {
   background-color    : rgba(255,255,255,0.0);
   position            : absolute;
   top                 : 0px;
@@ -234,7 +84,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 {
+.container .cover .close-btn .inner {
   background-color    : rgba(255,255,255,0.0);
   top                 : 6px;
   height              : 12px;
@@ -245,7 +95,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill1 {
+.container .cover .close-btn .inner .fill1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 12px;
@@ -256,7 +106,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-group6 .bp3-group2 .bp3-group41 .bp3-fill3 {
+.container .cover .close-btn .inner .fill2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 12px;
@@ -267,37 +117,27 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-englishmobile .bp3-wildlifeofthecent {
+.container .title {
   background-color    : rgba(255,255,255,0.0);
-  /* top                 : 317px; */
   height              : auto;
   width               : calc(100.00% - 83px);
-  /* position            : absolute; */
   position            : relative;
-  /* margin              : 0 50px 50px; */
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
+  font-weight         : 800;
   font-style          : normal;
-  font-size           : 16.0px;
+  font-size           : 20px;
   color               : rgba(16, 42, 67, 1.0);
-  text-align          : left;
-  line-height         : 21.6px;
 }
-.bp3-englishmobile .bp3-wildlifeinthecentcopy {
+.container .content {
   background-color    : rgba(255,255,255,0.0);
-  /* top                 : 357px; */
   height              : auto;
   width               : calc(100.00% - 32px);
   position            : relative;
-  /* margin              : 0 50px 50px; */
-  /* margin-bottom       : 50px; */
   left                : 16px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
@@ -305,361 +145,25 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-/* .bp3-englishmobile .bp3-realisingtheserioucopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 713px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-} */
-/* .bp3-englishmobile .bp3-in2014thechinkocopy {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1142px;
-  height              : auto;
-  width               : calc(100.00% - 32px);
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(51, 51, 51, 1.0);
-  text-align          : left;
-  line-height         : 24.0px;
-} */
-.bp3-englishmobile .bp3-group {
-  background-color    : rgba(255,255,255,0.0);
-  /* top                 : 1523px; */
-  /* bottom              : 0px; */
-  height              : 64px;
-  width               : 100%;
+
+.footer {
+  background-color    : #f0f4f8;
   position            : relative;
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
+  
 }
-.bp3-englishmobile .bp3-group .bp3-rectangle {
-  background-color    : rgba(240, 244, 248, 1.0);
-  top                 : 0px;
-  height              : 64px;
-  /* width               : 360px; */
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-englishmobile .bp3-group .bp3-thisarticleusesma {
+
+.footer p {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11px;
-  height              : auto;
-  /* width               : 330px; */
-  width               : 100%;
   position            : relative;
+  padding             : 20px;
   margin              : 0;
-  left                : 15px;
-  transform           : rotate(0deg);
-  opacity             : 0.8;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
-  font-size           : 9.0px;
+  font-size           : 12px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 13.5px;
 }
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-a {
-  text-decoration     : none;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.anima-full-width-a {
-  width               : 100%;
-}
-.anima-full-height-a {
-  height              : 100%;
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.anima-component-wrapper,
-.anima-component-wrapper * {
-  pointer-events      : none;
-}
-.anima-component-wrapper a *,
-.anima-component-wrapper a,
-.anima-component-wrapper input,
-.anima-component-wrapper video,
-.anima-component-wrapper iframe,
-.anima-listeners-active,
-.anima-listeners-active * {
-  pointer-events      : auto;
-}
-.anima-hidden,
-.anima-hidden * {
-  visibility          : hidden;
-  pointer-events      : none;
-}
-.anima-smart-layers-pointers,
-.anima-smart-layers-pointers * {
-  pointer-events      : auto;
-  visibility          : visible;
-}
-.anima-component-wrapper.anima-not-ready,
-.anima-component-wrapper.anima-not-ready * {
-  visibility          : hidden !important;
-}
-.anima-listeners-active-click,
-.anima-listeners-active-click * {
-  cursor              : pointer;
-}
-.anima-word-break {
-  overflow-wrap       : break-word;
-  word-wrap           : break-word;
-  word-break          : break-all;
-  word-break          : break-word;
-}
-/* @media screen and (max-width: 767px) {
-  .bp3-englishmobile {
-    display             : block;
-  }
-  .bp2-englishtablet {
-    display             : none;
-  }
-  .bp1-englishdesktop {
-    display             : none;
-  }
-}
-@media screen and (min-width: 768px) and (max-width: 1439px) {
-  .bp3-englishmobile {
-    display             : none;
-  }
-  .bp2-englishtablet {
-    display             : block;
-  }
-  .bp1-englishdesktop {
-    display             : none;
-  }
-}
-@media screen and (min-width: 1440px) {
-  .bp3-englishmobile {
-    display             : none;
-  }
-  .bp2-englishtablet {
-    display             : none;
-  }
-  .bp1-englishdesktop {
-    display             : block;
-  }
-} */
