@@ -1,42 +1,45 @@
 body {
   margin: 0;
 }
-.header {
-  width               : 100%;
-  position            : relative;
-  padding             : 20px 0;
-  font-weight         : 800;
-  font-size           : 4.5vw;
-  color               : rgba(16, 42, 67, 1.0);
-  text-align          : center;
-  box-shadow: 0 1px 1px 0 #818181;
-  border-bottom: 1px solid #818181;
-}
-.container {
-  max-width           : 500px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0 auto;
-}
 a {
   text-decoration     : none;
 }
 div {
   -webkit-text-size-adjust: none;
 }
-div {
-  -webkit-text-size-adjust: none;
+.container {
+  max-width           : 786px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0 auto;
 }
-.container .item {
+.container .header{
+    position            : relative;
+    padding             : 10px 0;
+    font-style          : normal;
+    font-weight         : 800;
+    font-size           : 4.5vw;
+    color               : #003e6b;
+    text-align          : center;
+    box-shadow          : 0 1px 1px 0 #e8e8e8;
+    border-right        : 1px solid #e8e8e8;
+    border-left         : 1px solid #e8e8e8;
+    border-bottom       : 1px solid #acacac;
+}
+.container .listview {
+  width: 500px;
+  margin: 0 auto;
+}
+.container .listview .item {
   position: relative;
   padding: 20px;
   border-bottom: 1px solid #dbdbdb;
 }
 
-.container .item.last {
+.container .listview .item.last {
   border-bottom: 0px;
 }
-.container .item .title {
+.container .listview .item .title {
   position : relative;
   width    : 70%;
   margin: 0;
@@ -48,11 +51,11 @@ div {
   text-align          : left;
   line-height         : 21.6px;
 }
-.container .item .image {
+.container .listview .item .image {
   width: 100%;
   position: relative;
 }
-.container .item .image .cover {
+.container .listview .item .image .cover {
   height: 80px;
   width: 80px;
   position: absolute;
@@ -61,7 +64,7 @@ div {
   background-size: cover;
   background-position: center center;
 }
-.container .item .subtitle {
+.container .listview .item .subtitle {
   position : relative;
   width    : 70%;
   padding   : 8px 0;
@@ -73,7 +76,7 @@ div {
   letter-spacing: normal;
   color: rgba(0, 0, 0, 0.6);
 }
-.container .item .content {
+.container .listview .item .content {
   position : relative;
   width    : 70%;
   font-size: 16px;
