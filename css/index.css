@@ -13,19 +13,6 @@ div {
   overflow            : hidden;
   margin              : 0 auto;
 }
-.container .header{
-    position            : relative;
-    padding             : 10px 0;
-    font-style          : normal;
-    font-weight         : 800;
-    font-size           : 4.5vw;
-    color               : #003e6b;
-    text-align          : center;
-    box-shadow          : 0 1px 1px 0 #e8e8e8;
-    border-right        : 1px solid #e8e8e8;
-    border-left         : 1px solid #e8e8e8;
-    border-bottom       : 1px solid #acacac;
-}
 .container .listview {
   max-width: 500px;
   margin: 0 auto;
@@ -35,16 +22,14 @@ div {
   padding: 20px;
   border-bottom: 1px solid #dbdbdb;
 }
-
 .container .listview .item.last {
   border-bottom: 0px;
 }
 .container .listview .item .title {
   position : relative;
-  width    : 70%;
-  margin: 0;
-  font-family         : "Roboto", Segoe, San Francisco, Helvetica, Arial, serif, Helvetica, Arial, serif;
-  font-weight         : 500;
+  width    : 75%;
+  margin              : 0;
+  /* font-weight         : 500; */
   font-style          : normal;
   font-size           : 16.0px;
   color               : rgba(16, 42, 67, 1.0);
@@ -52,21 +37,21 @@ div {
   line-height         : 21.6px;
 }
 .container .listview .item .image {
-  width: 100%;
-  position: relative;
+  width: 20%;
+  position: absolute;
+  right: 20px;
+  top: 27px;
 }
 .container .listview .item .image .cover {
   height: 80px;
-  width: 80px;
-  position: absolute;
-  right: 10px;
+  width: 100%;
   border-radius: 4px;
   background-size: cover;
   background-position: center center;
 }
 .container .listview .item .subtitle {
   position : relative;
-  width    : 70%;
+  width    : 75%;
   padding   : 8px 0;
   font-size: 11px;
   font-weight: normal;
@@ -78,7 +63,7 @@ div {
 }
 .container .listview .item .content {
   position : relative;
-  width    : 70%;
+  width    : 75%;
   font-size: 16px;
   font-weight: normal;
   font-stretch: normal;
@@ -86,26 +71,4 @@ div {
   line-height: 1.4;
   letter-spacing: normal;
   color: rgba(0, 0, 0, 0.6);
-}
-.footer {
-  background-color    : #f0f4f8;
-  position            : relative;
-  width               : 100%;
-  margin              : 0;
-  bottom              : 0px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  
-}
-
-.footer p {
-  background-color    : rgba(255,255,255,0.0);
-  position            : relative;
-  padding             : 20px;
-  margin              : 0;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 12px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
 }
