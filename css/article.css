@@ -22,7 +22,7 @@ a {
   }
   @media screen and (min-width: 650px) {
     .container {
-      top: 20px;
+      margin: 20px auto;
     }
   }
   .container .cover {
