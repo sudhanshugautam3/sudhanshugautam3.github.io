@@ -27,7 +27,7 @@ div {
     border-bottom       : 1px solid #acacac;
 }
 .container .listview {
-  width: 500px;
+  max-width: 500px;
   margin: 0 auto;
 }
 .container .listview .item {
@@ -90,8 +90,9 @@ div {
 .footer {
   background-color    : #f0f4f8;
   position            : relative;
+  width               : 100%;
   margin              : 0;
-  left                : 0px;
+  bottom              : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
   
